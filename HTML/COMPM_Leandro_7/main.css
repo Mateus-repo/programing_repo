@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: rgb(231, 238, 238);
+}
+
+table{
+    border-collapse: collapse;
+    border-spacing: 0px;
+    margin: 10px auto;
+    background-color: rgb(206, 202, 202);
+}
+table tr td{
+    width: 90px;
+    height: 90px;
+    border: 1px solid  black;
+    font-size: 35px;
+    text-align: center;
+} 
+
+table tr td:hover{
+    background-color: rgb(84, 86, 86);
+}
+
+#reset{
+    visibility:hidden;
+    color: red;
+}
+    

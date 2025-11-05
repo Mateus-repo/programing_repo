@@ -1,0 +1,45 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    user-select: none
+}
+body{
+    background-color: aqua;
+}
+
+#main{
+    width: 640px;
+    height: 400px;
+    margin: auto;
+}
+.carta_default{
+    width: 160px;
+    height: 200px;
+    float: left;
+    background-image: url('../assets/-1.png');
+    /*border-radius: 50% 10% 50% 10% / 10% 50% 10% 50%;*/
+    border-radius: 10px;
+}
+.carta{
+    width: 160px;
+    height: 200px;
+    float: left;
+    background-image: url('../assets/-1.png');
+    transform-style: preserve-3d;
+    transition: transform .3s ease-in-out;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2), -5px -5px 10px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+    
+
+}
+/*.carta:hover{
+    transform: rotateY(180deg);
+}*/
+
+#score{
+    display: grid;
+    justify-content: center;
+}
+#scoreReset{
+    float: right;
+}

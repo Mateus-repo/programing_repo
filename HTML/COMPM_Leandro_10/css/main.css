@@ -1,0 +1,71 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    user-select: none
+}
+body{
+    background-color: aqua;
+}
+.preLoader{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f7f9fb;
+    transition: opacity 0.75s, visibility 0.75s;
+}
+.preLoader::after{
+    content: "";
+    width: 75px;
+    height: 75px;
+    border: 15px solid #dddddd;
+    border-top-color: #499ff5;
+    border-radius: 50%;
+    animation: loading 0.75s ease infinite;
+}
+@keyframes loading{
+    from{
+        transform: rotate(0turn);
+    }
+    to{
+        transform: rotate(1turn);
+    }
+}
+#main{
+    width: 700px;
+    height: 420px;
+    margin: auto;
+}
+.carta{
+    width: 160px;
+    height: 200px;
+    float: left;
+    background-image: url('../assets/back.png');
+    transform-style: preserve-3d;
+    transition: transform .3s ease-in-out;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2), -5px -5px 10px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.topCard:not(:last-child) {
+    margin-right: 10px;
+    margin-top: 0px;
+}
+.carta:not(:last-child) {
+    margin-right: 10px;
+}
+#score{
+    display: grid;
+    justify-content: center;
+}
+#scoreReset{
+    float: right;
+}
+#gameStart{
+    visibility: hidden;
+    opacity: 0;
+}

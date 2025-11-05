@@ -1,0 +1,24 @@
+!!!!! IDENTITY = AUTO_INCREMENT !!!!!
+USE LojaDB;
+create table clientes (
+	id_cliente INT Primary Key Not null IDENTITY,
+	nome varchar(50) Not null,
+    email varchar(50),
+    telefone varchar(20)
+);
+create table produtos (
+	id_produto INT Primary Key Not null IDENTITY,
+	nome varchar(50) Not null,
+    quantidade INT NOT NULL,
+    preco_unitario decimal(10,2) not null
+);
+create table pedidos (
+	id_pedido INT Primary Key Not null IDENTITY,
+	id_cliente INT NOT NULL,
+    FOREIGN KEY (id_cliente) REFERENCES clientes (id_cliente),
+	id_produto INT NOT NULL,
+	FOREIGN KEY (id_produto) REFERENCES produtos (id_produto),
+    data_pedido DATE NOT NULL
+);
+GO
+!!!!! IDENTITY = AUTO_INCREMENT !!!!!

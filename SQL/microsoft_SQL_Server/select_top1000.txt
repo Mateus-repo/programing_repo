@@ -1,0 +1,7 @@
+SELECT TOP (1000) [id_item_pedido]
+      ,[id_pedido]
+      ,[id_produto]
+      ,[quantidade]
+      ,[preco_unitario]
+      ,[valor_total]
+  FROM [teste_09_1_2025].[dbo].[itens_pedido]
