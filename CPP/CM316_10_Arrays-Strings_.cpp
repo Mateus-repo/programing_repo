@@ -21,7 +21,7 @@ Links de pesquisa: https://www.w3schools.com/cpp/ - https://www.geeksforgeeks.or
 #include <conio.h>
 #include <ctime> // tempo
 #include <string>
-#include <windows.h> // sistem operativo functions
+#include <windows.h> // sistema operativo functions
 #include <cctype> 
 #include <Lmcons.h>
 #define NOME_FICHEIRO "numAlunos.txt"
@@ -36,10 +36,12 @@ struct alunoStructure {
 
 void hold();
 void endProgram();
+void limparStructure(alunoStructure alunosTemp[], int sizeNotas, int numAlunos);
 int nomeValido(const string& nome);
 void menu();
 void inserirAlunos(alunoStructure alunosTemp[], int sizeNotas, int numAlunos);
 void changeNumAlunos(int& numAlunosTemp);
+void listarAlunos(alunoStructure alunosTemp[], int sizeNotas, int numAlunos);
 
 int main() {
 	int numAlunos = NUM_ALUNOS_DEFAULT;
@@ -58,10 +60,12 @@ int main() {
 	infile.close();
 	alunoStructure* alunos = new alunoStructure[numAlunos];
 	int sizeNotas = sizeof(alunos[0].notas) / sizeof(alunos[0].notas[0]);
+	limparStructure(alunos, sizeNotas, numAlunos);
 	int tempEnd = 1;
 	do {
 		int tempInput = 0;
 		menu();
+		cout << "\n Escolha uma opcao: ";
 		cin >> tempInput;
 		if (cin.fail()) {
 			cin.clear();
@@ -75,26 +79,33 @@ int main() {
 			case 1:
 				inserirAlunos(alunos, sizeNotas, numAlunos);
 				break;
-			case 2:
+			case 2: {
 				changeNumAlunos(numAlunos);
 				ofstream outfile(NOME_FICHEIRO, ios::trunc); // trunc apaga tudo no arquivo
 				if (outfile.is_open()) {
 					outfile << numAlunos;
 					outfile.close();
 				}
-				cout << "\n As mudancas apenas irao ser aplicadas apos reiniciar a app!\n";
+				cout << "\nAs mudancas apenas irao ser aplicadas apos reiniciar a app!\n";
 				break;
+			}
 			case 3:
+				listarAlunos(alunos, sizeNotas, numAlunos);
 				break;
 			case 4:
 				break;
 			case 5:
 				break;
 			case 6:
+				limparStructure(alunos, sizeNotas, numAlunos);
+				system("cls");
+				cout << "Limpo com sucesso!" << endl;
+				break;
+			case 7:
 				tempEnd = 0;
 				break;
 			default:
-				cout << "Erro, nao ha opcoes acima de 6 ou abaixo de 1!" << endl;
+				cout << "Erro, nao ha opcoes acima de 7 ou abaixo de 1!" << endl;
 		}
 		if (tempEnd) {
 			hold();
@@ -117,6 +128,15 @@ void endProgram() {
 	return;
 }
 
+void limparStructure(alunoStructure alunosTemp[], int sizeNotas, int numAlunos) {
+	for (int i = 0; i < numAlunos; i++) {
+		alunosTemp[i].nome = "";
+		for (int j = 0; j < NOTAS_AMOUNT; j++) {
+			alunosTemp[i].notas[j] = 0.0;
+		}
+	}
+}
+
 int nomeValido(const string& nome) {
 	for (char c : nome) {
 		if (!isalpha(c) && !isspace(c)) { //se nao tiver apenas espaços e letras dá return 0
@@ -136,11 +156,13 @@ void menu() {
 	cout << "#                                          #" << endl;
 	cout << "#  [3] - Listar alunos e respetivas notas  #" << endl;
 	cout << "#                                          #" << endl;
-	cout << "#  [4] - Média geral                       #" << endl;
+	cout << "#  [4] - Media geral                       #" << endl;
 	cout << "#                                          #" << endl;
 	cout << "#  [5] - Alunos com as nota mais altas     #" << endl;
 	cout << "#                                          #" << endl;
-	cout << "#  [6] - Fechar programa                   #" << endl;
+	cout << "#  [6] - Limpar registos                   #" << endl;
+	cout << "#                                          #" << endl;
+	cout << "#  [7] - Fechar programa                   #" << endl;
 	cout << "#                                          #" << endl;
 	cout << "############################################" << endl;
 }
@@ -206,6 +228,7 @@ void changeNumAlunos(int& numAlunosTemp) {
 	int temp = 0;
 	int loopVar = 1;
 	while (loopVar) {
+		cout << "Numero de alunos anterior : " << numAlunosTemp << endl;
 		cout << "Defina o numero de alunos : ";
 		cin >> temp;
 		if (cin.fail()) {
@@ -229,4 +252,16 @@ void changeNumAlunos(int& numAlunosTemp) {
 	}
 }
 
-
+void listarAlunos(alunoStructure alunosTemp[], int sizeNotas, int numAlunos) {
+	system("cls");
+	for (int j = 0; j < numAlunos; j++) {
+		cout << "##########################################" << endl;
+		cout << endl;
+		cout << "    Nome : " << alunosTemp[j].nome << endl;
+		for (int i = 0; i < sizeNotas; i++) {
+			cout << "    Nota numero " << i + 1 << " : " << alunosTemp[j].notas[i] << endl;
+		}
+		cout << endl;
+	}
+	cout << "##########################################" << endl;
+}
