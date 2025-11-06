@@ -10,7 +10,7 @@ Links de pesquisa: https://www.w3schools.com/cpp/ - https://www.geeksforgeeks.or
 	https://www.geeksforgeeks.org/cpp/how-to-use-cin-fail-method-in-cpp/ - https://how.dev/answers/how-to-get-the-current-date-and-time-in-cpp
 	https://stackoverflow.com/questions/11587426/get-current-username-in-c-on-windows - https://www.w3schools.com/cpp/ref_math_round.asp
 	https://www.w3schools.com/cpp/cpp_files.asp - https://stackoverflow.com/questions/7571326/why-does-dividing-two-int-not-yield-the-right-value-when-assigned-to-double
-	https://www.w3schools.com/cpp/cpp_structs.asp - https://www.google.com/search?q=isalpha+cpp&rlz=1C1GCEA_enPT1173PT1173&oq=isalpha+cpp&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMggIAhAAGA0YHjIICAMQABgNGB4yCAgEEAAYDRgeMggIBRAAGA0YHjIICAYQABgNGB4yCAgHEAAYDRgeMggICBAAGA0YHjIICAkQABgNGB7SAQgxMjM1ajBqNKgCALACAA&sourceid=chrome&ie=UTF-8 
+	https://www.w3schools.com/cpp/cpp_structs.asp - https://www.google.com/search?q=isalpha+cpp&rlz=1C1GCEA_enPT1173PT1173&oq=isalpha+cpp&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMggIAhAAGA0YHjIICAMQABgNGB4yCAgEEAAYDRgeMggIBRAAGA0YHjIICAYQABgNGB4yCAgHEAAYDRgeMggICBAAGA0YHjIICAkQABgNGB7SAQgxMjM1ajBqNKgCALACAA&sourceid=chrome&ie=UTF-8
 	https://www.programiz.com/cpp-programming/library-function/cctype/isalpha - https://www.programiz.com/c-programming/library-function/ctype.h/isspace
 	https://www.programiz.com/c-programming/library-function/ctype.h/isspace - https://www.geeksforgeeks.org/cpp/structures-in-cpp/ - https://www.studyplan.dev/pro-cpp/file-streams/q/understanding-ios-trunc
 	https://www.geeksforgeeks.org/cpp/file-handling-c-classes/ - https://www.programiz.com/cpp-programming/file-handling - https://www.w3schools.com/cpp/ref_string_empty.asp
@@ -36,7 +36,7 @@ using namespace std;
 
 struct alunoStructure {
 	string nome = "";
-	double notas[NOTAS_AMOUNT];
+	double notas[NOTAS_AMOUNT] = { 0.0 };
 };
 struct notaAltaStructure {
 	string nome = "";
@@ -53,6 +53,7 @@ void changeNumAlunos(int& numAlunosTemp);
 void listarAlunos(alunoStructure alunosTemp[], const int sizeNotas, const int numAlunos);
 double mediaAlunos(alunoStructure alunosTemp[], const int sizeNotas, const int numAlunos);
 void notaAlta(alunoStructure alunosTemp[], const int sizeNotas, const int numAlunos);
+void gerarAlunos(alunoStructure alunosTemp[], const int sizeNotas, const int numAlunos);
 
 int main() {
 	int numAlunos = NUM_ALUNOS_DEFAULT;
@@ -82,7 +83,7 @@ int main() {
 			cin.clear();
 			cin.ignore((numeric_limits<streamsize>::max()), '\n');
 			system("cls");
-			cout << "Entrada invalida! Digite um numero inteiro entre 1 e 6.\n";
+			cout << "Entrada invalida! Digite um numero inteiro entre 1 e 8.\n";
 			hold();
 			continue;
 		}
@@ -121,10 +122,13 @@ int main() {
 				cout << "Limpo com sucesso!" << endl;
 				break;
 			case 7:
+				gerarAlunos(alunos, sizeNotas, numAlunos);
+				break;
+			case 8:
 				tempEnd = 0;
 				break;
 			default:
-				cout << "Erro, nao ha opcoes acima de 7 ou abaixo de 1!" << endl;
+				cout << "Entrada invalida! Digite um numero inteiro entre 1 e 8.\n";
 		}
 		if (tempEnd) {
 			hold();
@@ -181,7 +185,9 @@ void menu() {
 	cout << "#                                          #" << endl;
 	cout << "#  [6] - Limpar registos                   #" << endl;
 	cout << "#                                          #" << endl;
-	cout << "#  [7] - Fechar programa                   #" << endl;
+	cout << "#  [7] - Gerar alunos aleatorios           #" << endl;
+	cout << "#                                          #" << endl;
+	cout << "#  [8] - Fechar programa                   #" << endl;
 	cout << "#                                          #" << endl;
 	cout << "############################################" << endl;
 	return;
@@ -320,7 +326,8 @@ double mediaAlunos(alunoStructure alunosTemp[], const int sizeNotas, const int n
 		double var_media = total / (double)((double)numAlunos * (double)sizeNotas);
 		var_media = round(var_media * 100) / 100.0;
 		return var_media;
-	}else {
+	}
+	else {
 		return 0.0;
 	}
 }
@@ -335,7 +342,7 @@ void notaAlta(alunoStructure alunosTemp[], const int sizeNotas, const int numAlu
 	for (int i = 0; i < numAlunos; i++) {
 		int temNota = 0;
 		for (int j = 0; j < sizeNotas; j++) {
-			if (alunosTemp[i].notas[j] > 0.0) { 
+			if (alunosTemp[i].notas[j] > 0.0) {
 				temNota = 1;
 				break;
 			}
@@ -343,7 +350,7 @@ void notaAlta(alunoStructure alunosTemp[], const int sizeNotas, const int numAlu
 		if (temNota)
 			notVazio++;
 	}
-	if (notVazio>=2) 
+	if (notVazio >= 2)
 	{
 		for (int i = 0; i < numAlunos; i++) {
 			for (int j = 0; j < sizeNotas; j++) {
@@ -353,7 +360,7 @@ void notaAlta(alunoStructure alunosTemp[], const int sizeNotas, const int numAlu
 				}
 			}
 		}
-		cout << "##########################################" << endl;cout << endl;
+		cout << "##########################################" << endl; cout << endl;
 		for (int m = 0; m < sizeNotas; m++) {
 			cout << "Aluno com a nota numero " << m + 1 << " mais alta é o/a " << alunoNotas[m].nome << " e teve : " << alunoNotas[m].nota << endl;
 			cout << endl;
@@ -365,3 +372,25 @@ void notaAlta(alunoStructure alunosTemp[], const int sizeNotas, const int numAlu
 	}
 	return;
 }
+
+void gerarAlunos(alunoStructure alunosTemp[], const int sizeNotas, const int numAlunos) {
+	system("cls");
+	string nomesTemp[] = {
+		"Joao", "Rafeal", "Mateus", "Afonso", "Alberto", "Ricardo",
+		"Kyryl", "Tiago", "Ismael", "Vera", "Laura", "David",
+		"Tomas", "Goncalo", "Pedro", "Dora", "Diogo", "Ruben",
+		"Roberto", "Mario", "Luis", "Santiago", "Henrique", "Domingues",
+		"Martim", "Mafalda", "Matilde", "Eric", "Clara"
+	};
+	const int sizeNomesTemp = sizeof(nomesTemp) / sizeof(nomesTemp[0]);
+	srand(static_cast<unsigned int>(time(0)));
+	for (int j = 0; j < numAlunos; j++) {
+		alunosTemp[j].nome = nomesTemp[rand() % sizeNomesTemp];
+		for (int i = 0; i < sizeNotas; i++) {
+			alunosTemp[j].notas[i] = rand() % 21;
+		}
+	}
+	cout << "Alunos aleatorios inseridos com sucesso!" << endl;
+	return;
+}
+
