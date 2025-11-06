@@ -285,14 +285,12 @@ void changeNumAlunos(int& numAlunosTemp) {
 			cout << "Entrada invalida! Digite um numero inteiro positivo.\n";
 			hold();
 			continue;
-		}
-		else if (temp <= 0) {
+		}else if (temp <= 0) {
 			system("cls");
 			cout << "Entrada invalida! Digite um numero inteiro positivo.\n";
 			hold();
 			continue;
-		}
-		else {
+		}else {
 			numAlunosTemp = temp;
 			loopVar = 0;
 		}
@@ -321,13 +319,11 @@ double mediaAlunos(alunoStructure alunosTemp[], const int sizeNotas, const int n
 		for (int j = 0; j < sizeNotas; j++) {
 			total += alunosTemp[i].notas[j];
 		}
-	}
-	if (total > 0) {
+	}if (total > 0) {
 		double var_media = total / (double)((double)numAlunos * (double)sizeNotas);
 		var_media = round(var_media * 100) / 100.0;
 		return var_media;
-	}
-	else {
+	}else {
 		return 0.0;
 	}
 }
@@ -366,8 +362,7 @@ void notaAlta(alunoStructure alunosTemp[], const int sizeNotas, const int numAlu
 			cout << endl;
 		}
 		cout << "##########################################" << endl;
-	}
-	else {
+	}else {
 		cout << "Nao a registos sufecientes para comparar!" << endl;
 	}
 	return;
