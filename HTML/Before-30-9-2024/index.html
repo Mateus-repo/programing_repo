@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário de Login</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+        .login-container {
+            display: flex;
+            align-items: center;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 600px;
+            max-width: 90%;
+            gap: 20px;
+        }
+        .login-form {
+            flex: 1;
+        }
+        .login-form h2 {
+            margin-bottom: 20px;
+        }
+        .login-form input[type="text"],
+        .login-form input[type="password"],
+        .login-form input[type="date"] {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+        .login-form input[type="submit"] {
+            width: 100%;
+            padding: 10px;
+            background-color: #28a745;
+            border: none;
+            border-radius: 4px;
+            color: #fff;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        .login-form input[type="submit"]:hover {
+            background-color: #218838;
+        }
+        .login-image {
+            flex: 0 0 150px;
+        }
+        .login-image img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="login-container">
+        <div class="login-form">
+            <h2>Login</h2>
+            <form id="loginForm">
+                <label for="username">Nome:</label>
+                <input type="text" id="username" name="username" required>
+                
+                <label for="dob">Data de Nascimento:</label>
+                <input type="date" id="dob" name="dob" required>
+                
+                <label for="password">Senha:</label>
+                <input type="password" id="password" name="password" required>
+                
+                <input type="submit" value="Entrar">
+            </form>
+        </div>
+        <div class="login-image">
+            <img src="https://cdn-icons-png.flaticon.com/512/159/159448.png" alt="Imagem de Login">
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('loginForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+            
+            const username = document.getElementById('username').value;
+            const dob = document.getElementById('dob').value;
+            const password = document.getElementById('password').value;
+
+            // Armazenar dados do login atual
+            localStorage.setItem('username', username);
+            localStorage.setItem('dob', dob);
+            localStorage.setItem('password', password);
+
+            // Adicionar ao histórico de logins
+            const today = new Date().toISOString().split('T')[0];
+            let loginHistory = JSON.parse(localStorage.getItem('loginHistory') || '[]');
+            loginHistory.push({ username, dob, password, date: today });
+            localStorage.setItem('loginHistory', JSON.stringify(loginHistory));
+            
+            // Redirecionar para a página de boas-vindas
+            window.location.href = 'welcome.html';
+        });
+    </script>
+</body>
+</html>

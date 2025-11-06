@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Histórico de Logins</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+        .container {
+            display: flex;
+            justify-content: space-between;
+            width: 80%;
+            max-width: 1200px;
+        }
+        .login-history, .login-form {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 45%;
+        }
+        .login-history h2, .login-form h2 {
+            margin-bottom: 20px;
+        }
+        .login-history table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        .login-history th, .login-history td {
+            padding: 10px;
+            border: 1px solid #ddd;
+            text-align: left;
+        }
+        .login-history th {
+            background-color: #f4f4f4;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            margin-top: 10px;
+            border: none;
+            border-radius: 4px;
+            color: #fff;
+            background-color: #28a745;
+            cursor: pointer;
+            text-decoration: none;
+        }
+        .button:hover {
+            background-color: #218838;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="login-history">
+            <h2>Histórico de Logins</h2>
+            <table id="loginTable">
+                <thead>
+                    <tr>
+                        <th>Nome</th>
+                        <th>Data de Nascimento</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- As linhas serão adicionadas via JavaScript -->
+                </tbody>
+            </table>
+        </div>
+
+        <div class="login-form">
+            <h2>Fazer Novo Login</h2>
+            <a class="button" href="index.html">Fazer Novo Login</a>
+        </div>
+    </div>
+
+    <script>
+        function formatDate(dateStr) {
+            const options = { year: 'numeric', month: '2-digit', day: '2-digit' };
+            return new Date(dateStr).toLocaleDateString('pt-BR', options);
+        }
+
+        function displayLoginHistory() {
+            const today = new Date().toISOString().split('T')[0];
+            const loginHistory = JSON.parse(localStorage.getItem('loginHistory') || '[]');
+            const tableBody = document.querySelector('#loginTable tbody');
+            tableBody.innerHTML = '';
+
+            loginHistory.forEach(entry => {
+                if (entry.date === today) {
+                    const row = document.createElement('tr');
+                    row.innerHTML = `<td>${entry.username}</td><td>${formatDate(entry.dob)}</td>`;
+                    tableBody.appendChild(row);
+                }
+            });
+        }
+
+        document.addEventListener('DOMContentLoaded', displayLoginHistory);
+    </script>
+</body>
+</html>

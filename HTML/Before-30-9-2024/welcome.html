@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página de Boas-Vindas</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+        .welcome-container {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 300px;
+            text-align: center;
+        }
+        .welcome-container h2 {
+            margin-bottom: 20px;
+        }
+        .welcome-container p {
+            margin: 10px 0;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 10px;
+            border: none;
+            border-radius: 4px;
+            color: #fff;
+            background-color: #28a745;
+            cursor: pointer;
+            text-decoration: none;
+        }
+        .button:hover {
+            background-color: #218838;
+        }
+    </style>
+</head>
+<body>
+    <div class="welcome-container">
+        <h2>Bem-vindo</h2>
+        <p><strong>Nome:</strong> <span id="displayUsername"></span></p>
+        <p><strong>Data de Nascimento:</strong> <span id="displayDob"></span></p>
+        <p><strong>Senha:</strong> <span id="displayPassword"></span></p>
+        <a class="button" href="login-history.html">Ver Histórico de Logins</a>
+        <button class="button" onclick="window.location.href='index.html'">Fazer Outro Login</button>
+    </div>
+
+    <script>
+        document.getElementById('displayUsername').textContent = localStorage.getItem('username');
+        document.getElementById('displayDob').textContent = localStorage.getItem('dob');
+        document.getElementById('displayPassword').textContent = '*'.repeat(localStorage.getItem('password').length);
+    </script>
+</body>
+</html>
