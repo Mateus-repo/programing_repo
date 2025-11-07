@@ -11,8 +11,18 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.T63_ActivitySplash">
+
+        <activity
+            android:name=".LoginErradoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginOkActivity"
+            android:exported="false" />
         <activity
             android:name=".MainActivity"
+            android:exported="false"/>
+        <activity
+            android:name=".SplashScreenActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
