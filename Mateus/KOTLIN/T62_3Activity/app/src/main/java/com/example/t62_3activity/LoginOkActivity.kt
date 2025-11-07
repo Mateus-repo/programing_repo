@@ -7,6 +7,7 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import com.example.t62_3activity.databinding.ActivityLoginOkBinding
 import com.example.t62_3activity.databinding.ActivityMainBinding
+import kotlin.jvm.java
 
 class LoginOkActivity : AppCompatActivity() {
     private val binding by lazy { ActivityLoginOkBinding.inflate(layoutInflater)}

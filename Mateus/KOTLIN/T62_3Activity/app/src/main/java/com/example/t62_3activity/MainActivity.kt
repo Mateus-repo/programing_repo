@@ -1,12 +1,16 @@
 package com.example.t62_3activity
 
+import android.content.Intent
 import android.os.Bundle
 import android.widget.Toast
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
+import com.example.t62_3activity.databinding.ActivityLoginErradoBinding
+import com.example.t62_3activity.databinding.ActivityLoginOkBinding
 import com.example.t62_3activity.databinding.ActivityMainBinding
+import kotlin.jvm.java
 
 class MainActivity : AppCompatActivity() {
     private val binding by lazy { ActivityMainBinding.inflate(layoutInflater)}
@@ -34,11 +38,15 @@ class MainActivity : AppCompatActivity() {
                         applicationContext,
                         "Login Válido",
                         Toast.LENGTH_SHORT).show()
+                    val i = Intent(this, LoginOkActivity::class.java)
+                    startActivity(i)
                 }else{
                     Toast.makeText(
                         applicationContext,
                         "Login Inválido",
                         Toast.LENGTH_SHORT).show()
+                    val i = Intent(this, LoginErradoActivity::class.java)
+                    startActivity(i)
                 }
             }
         }
