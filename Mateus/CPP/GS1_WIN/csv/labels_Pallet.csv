@@ -1,0 +1,1001 @@
+Label Number;SSCC;Company;Company Description;Origin;Net weight
+1;374158530599597332;Atlantic Movers;Mudanças e Logística Premium;Lisboa;86.49
+2;428849003223274220;ExpressRail;Transporte Ferroviário Rápido;Leiria;67.12
+3;287501959468821292;CargoExpress;Soluções de Transporte Rápido;Setúbal;18.77
+4;304847598973603653;LogiTrans SA;Empresa de Logística e Transporte;Setúbal;57.89
+5;456500685512410488;ExpressRail;Transporte Ferroviário Rápido;Porto;133.27
+6;634813898717904062;LogiTrans SA;Empresa de Logística e Transporte;Porto;122.26
+7;532411537265874759;Mediterranean Ship;Transporte Marítimo Especializado;Aveiro;20.57
+8;778216127502689100;EuroFreight Lda;Transporte Internacional de Mercadorias;Faro;84.95
+9;970482168826792489;QuickLogistics;Logística Integrada;Lisboa;155.72
+10;126840458752353184;ExpressRail;Transporte Ferroviário Rápido;Setúbal;151.15
+11;870529863469984576;LogiTrans SA;Empresa de Logística e Transporte;Braga;101.92
+12;780257815705563593;Mediterranean Ship;Transporte Marítimo Especializado;Porto;67.83
+13;326009712279053541;QuickLogistics;Logística Integrada;Braga;21.42
+14;471880837602103978;GlobalForwarders;Fretes e Distribuição Mundial;Leiria;92.17
+15;862209222567435641;ExpressRail;Transporte Ferroviário Rápido;Aveiro;18.99
+16;597652693333119710;LogiTrans SA;Empresa de Logística e Transporte;Faro;86.66
+17;803882426897288162;ExpressRail;Transporte Ferroviário Rápido;Faro;120.99
+18;509265989733914149;Atlantic Movers;Mudanças e Logística Premium;Braga;67.02
+19;340493346607150827;Mediterranean Ship;Transporte Marítimo Especializado;Porto;87.36
+20;828022709236884881;EuroFreight Lda;Transporte Internacional de Mercadorias;Faro;32.41
+21;400048048796342186;EuroFreight Lda;Transporte Internacional de Mercadorias;Leiria;39.52
+22;791098879802946807;EuroFreight Lda;Transporte Internacional de Mercadorias;Aveiro;113.3
+23;655996818801799234;GlobalForwarders;Fretes e Distribuição Mundial;Leiria;47.58
+24;453035419579920723;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Coimbra;132.73
+25;462895615101284820;GlobalForwarders;Fretes e Distribuição Mundial;Faro;74.24
+26;941576621444223905;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Porto;90.3
+27;753057641735529638;LogiTrans SA;Empresa de Logística e Transporte;Porto;44.44
+28;771870160724684020;GlobalForwarders;Fretes e Distribuição Mundial;Aveiro;39.97
+29;434366498471647170;TransAtlantic;Transporte Marítimo e Terrestre;Faro;35.6
+30;836656774333568633;GlobalForwarders;Fretes e Distribuição Mundial;Braga;42.72
+31;874308282969703932;TransAtlantic;Transporte Marítimo e Terrestre;Aveiro;20.29
+32;282911436961414797;EuroFreight Lda;Transporte Internacional de Mercadorias;Setúbal;170.95
+33;935186430827608785;CargoExpress;Soluções de Transporte Rápido;Leiria;120.0
+34;113871777503154529;LogiTrans SA;Empresa de Logística e Transporte;Braga;32.45
+35;884311073535331177;LogiTrans SA;Empresa de Logística e Transporte;Faro;32.14
+36;546218098690352455;LogiTrans SA;Empresa de Logística e Transporte;Aveiro;53.43
+37;635514161170646596;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Setúbal;25.61
+38;480882968645147114;TransAtlantic;Transporte Marítimo e Terrestre;Porto;129.95
+39;396695086143251116;Mediterranean Ship;Transporte Marítimo Especializado;Coimbra;35.75
+40;352164220268384910;Mediterranean Ship;Transporte Marítimo Especializado;Lisboa;124.6
+41;209315397568270461;LogiTrans SA;Empresa de Logística e Transporte;Faro;23.77
+42;987621946133909692;ExpressRail;Transporte Ferroviário Rápido;Coimbra;18.05
+43;503488740391845759;QuickLogistics;Logística Integrada;Coimbra;114.32
+44;771388960585817391;TransAtlantic;Transporte Marítimo e Terrestre;Setúbal;39.8
+45;302697651842120392;TransAtlantic;Transporte Marítimo e Terrestre;Faro;84.74
+46;776758270826005068;EuroFreight Lda;Transporte Internacional de Mercadorias;Braga;48.57
+47;921499105043924752;GlobalForwarders;Fretes e Distribuição Mundial;Braga;109.41
+48;302211180358815750;Mediterranean Ship;Transporte Marítimo Especializado;Braga;58.75
+49;629712731322845086;Atlantic Movers;Mudanças e Logística Premium;Faro;48.22
+50;644916889907699221;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Porto;47.33
+51;625393365202712154;QuickLogistics;Logística Integrada;Lisboa;36.82
+52;744948542477743300;Mediterranean Ship;Transporte Marítimo Especializado;Lisboa;55.58
+53;236007233015739207;CargoExpress;Soluções de Transporte Rápido;Aveiro;69.82
+54;651871076124182032;CargoExpress;Soluções de Transporte Rápido;Setúbal;22.07
+55;203220097726827360;Mediterranean Ship;Transporte Marítimo Especializado;Setúbal;52.62
+56;135822690130223184;TransAtlantic;Transporte Marítimo e Terrestre;Lisboa;94.04
+57;514722570580053897;TransAtlantic;Transporte Marítimo e Terrestre;Aveiro;98.67
+58;579616562238686075;GlobalForwarders;Fretes e Distribuição Mundial;Braga;111.28
+59;616839281344930292;QuickLogistics;Logística Integrada;Leiria;33.42
+60;466913892944338450;LogiTrans SA;Empresa de Logística e Transporte;Aveiro;96.4
+61;994832678853180809;Mediterranean Ship;Transporte Marítimo Especializado;Braga;26.41
+62;624770395280209244;QuickLogistics;Logística Integrada;Coimbra;101.51
+63;679093217426398965;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Setúbal;79.5
+64;796235832685262697;CargoExpress;Soluções de Transporte Rápido;Porto;176.79
+65;522811625095236315;ExpressRail;Transporte Ferroviário Rápido;Aveiro;97.6
+66;298990547873388385;EuroFreight Lda;Transporte Internacional de Mercadorias;Porto;151.34
+67;522187409730294973;Mediterranean Ship;Transporte Marítimo Especializado;Coimbra;47.08
+68;652188722597746939;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Leiria;83.6
+69;222077157050578466;ExpressRail;Transporte Ferroviário Rápido;Faro;103.62
+70;391118535848823629;GlobalForwarders;Fretes e Distribuição Mundial;Aveiro;157.81
+71;734352628197988839;EuroFreight Lda;Transporte Internacional de Mercadorias;Braga;145.89
+72;355008621671867995;GlobalForwarders;Fretes e Distribuição Mundial;Porto;182.17
+73;283886898671037697;GlobalForwarders;Fretes e Distribuição Mundial;Aveiro;31.44
+74;619839746431909021;GlobalForwarders;Fretes e Distribuição Mundial;Faro;58.28
+75;171653538566626974;ExpressRail;Transporte Ferroviário Rápido;Setúbal;37.74
+76;607695091778698790;ExpressRail;Transporte Ferroviário Rápido;Setúbal;77.19
+77;322156265994253844;TransAtlantic;Transporte Marítimo e Terrestre;Braga;88.87
+78;474573493939153945;QuickLogistics;Logística Integrada;Faro;119.15
+79;615887738919280592;QuickLogistics;Logística Integrada;Leiria;119.51
+80;434832374906527461;QuickLogistics;Logística Integrada;Lisboa;150.23
+81;781713466555152901;Mediterranean Ship;Transporte Marítimo Especializado;Lisboa;19.75
+82;631511500403347902;LogiTrans SA;Empresa de Logística e Transporte;Coimbra;93.26
+83;999712407205068272;Mediterranean Ship;Transporte Marítimo Especializado;Coimbra;20.16
+84;839483487515675698;EuroFreight Lda;Transporte Internacional de Mercadorias;Faro;162.52
+85;302879191693940555;TransAtlantic;Transporte Marítimo e Terrestre;Coimbra;48.88
+86;886960321666759440;LogiTrans SA;Empresa de Logística e Transporte;Leiria;36.14
+87;222761175696674870;EuroFreight Lda;Transporte Internacional de Mercadorias;Braga;20.94
+88;319367453395220334;Mediterranean Ship;Transporte Marítimo Especializado;Porto;175.05
+89;369734775796033164;Atlantic Movers;Mudanças e Logística Premium;Leiria;178.8
+90;620575194975452977;Mediterranean Ship;Transporte Marítimo Especializado;Aveiro;111.98
+91;358143524440585300;CargoExpress;Soluções de Transporte Rápido;Setúbal;113.59
+92;917081494408970250;ExpressRail;Transporte Ferroviário Rápido;Coimbra;22.61
+93;618169150069727482;GlobalForwarders;Fretes e Distribuição Mundial;Setúbal;59.34
+94;564380246211847762;LogiTrans SA;Empresa de Logística e Transporte;Porto;17.6
+95;127302182887689987;QuickLogistics;Logística Integrada;Lisboa;56.93
+96;585386571644658234;LogiTrans SA;Empresa de Logística e Transporte;Lisboa;82.82
+97;688292089391735684;LogiTrans SA;Empresa de Logística e Transporte;Coimbra;58.03
+98;301946386617593649;ExpressRail;Transporte Ferroviário Rápido;Coimbra;130.01
+99;392670643924131758;QuickLogistics;Logística Integrada;Braga;101.59
+100;820873245851276262;GlobalForwarders;Fretes e Distribuição Mundial;Leiria;89.77
+101;964310994940107624;ExpressRail;Transporte Ferroviário Rápido;Lisboa;165.96
+102;585832193815506799;QuickLogistics;Logística Integrada;Aveiro;17.65
+103;996147750787695963;TransAtlantic;Transporte Marítimo e Terrestre;Aveiro;73.49
+104;391138506466062268;ExpressRail;Transporte Ferroviário Rápido;Faro;78.91
+105;606148830527540580;QuickLogistics;Logística Integrada;Lisboa;49.57
+106;893225454454953231;CargoExpress;Soluções de Transporte Rápido;Lisboa;94.75
+107;274003078751639215;EuroFreight Lda;Transporte Internacional de Mercadorias;Lisboa;46.59
+108;322083313154264775;CargoExpress;Soluções de Transporte Rápido;Coimbra;113.81
+109;688667918660004179;ExpressRail;Transporte Ferroviário Rápido;Setúbal;197.81
+110;214830968852543707;QuickLogistics;Logística Integrada;Aveiro;93.58
+111;319378977424612694;Mediterranean Ship;Transporte Marítimo Especializado;Porto;49.47
+112;435961398069009525;LogiTrans SA;Empresa de Logística e Transporte;Braga;78.63
+113;560755899455658377;CargoExpress;Soluções de Transporte Rápido;Braga;66.56
+114;532743467204627879;Atlantic Movers;Mudanças e Logística Premium;Faro;78.64
+115;755253704838678743;Mediterranean Ship;Transporte Marítimo Especializado;Porto;109.6
+116;170703798157677472;GlobalForwarders;Fretes e Distribuição Mundial;Faro;50.48
+117;332788370493760679;QuickLogistics;Logística Integrada;Setúbal;59.87
+118;546359669978952740;QuickLogistics;Logística Integrada;Faro;85.11
+119;572332952924172487;EuroFreight Lda;Transporte Internacional de Mercadorias;Braga;65.47
+120;853218894092681518;GlobalForwarders;Fretes e Distribuição Mundial;Porto;21.69
+121;668562345847935236;ExpressRail;Transporte Ferroviário Rápido;Coimbra;118.65
+122;689424646531641508;ExpressRail;Transporte Ferroviário Rápido;Leiria;159.5
+123;625658855382999871;CargoExpress;Soluções de Transporte Rápido;Coimbra;130.05
+124;491935787281406969;LogiTrans SA;Empresa de Logística e Transporte;Lisboa;90.21
+125;531924358561908694;EuroFreight Lda;Transporte Internacional de Mercadorias;Leiria;110.97
+126;841816990358015004;ExpressRail;Transporte Ferroviário Rápido;Braga;136.87
+127;381085681201135305;ExpressRail;Transporte Ferroviário Rápido;Braga;15.81
+128;267818921016583562;QuickLogistics;Logística Integrada;Porto;46.07
+129;106815463494192737;LogiTrans SA;Empresa de Logística e Transporte;Lisboa;26.72
+130;716720724021632411;GlobalForwarders;Fretes e Distribuição Mundial;Aveiro;80.17
+131;149299504095046359;EuroFreight Lda;Transporte Internacional de Mercadorias;Lisboa;129.35
+132;942890085708906272;TransAtlantic;Transporte Marítimo e Terrestre;Braga;100.68
+133;369284155670385624;GlobalForwarders;Fretes e Distribuição Mundial;Braga;109.41
+134;855465670217219688;EuroFreight Lda;Transporte Internacional de Mercadorias;Braga;44.02
+135;123200948620146330;GlobalForwarders;Fretes e Distribuição Mundial;Setúbal;48.26
+136;123783438966206006;ExpressRail;Transporte Ferroviário Rápido;Porto;71.23
+137;897353108696705249;Mediterranean Ship;Transporte Marítimo Especializado;Aveiro;31.53
+138;602010052524072998;Atlantic Movers;Mudanças e Logística Premium;Lisboa;17.88
+139;375170085596423447;TransAtlantic;Transporte Marítimo e Terrestre;Porto;178.61
+140;207923839279097030;Mediterranean Ship;Transporte Marítimo Especializado;Braga;76.85
+141;816713094121258994;Atlantic Movers;Mudanças e Logística Premium;Lisboa;111.61
+142;932263954713111649;EuroFreight Lda;Transporte Internacional de Mercadorias;Aveiro;107.05
+143;978177351106574883;ExpressRail;Transporte Ferroviário Rápido;Lisboa;50.29
+144;698873176857402650;EuroFreight Lda;Transporte Internacional de Mercadorias;Setúbal;52.29
+145;423202634920677542;EuroFreight Lda;Transporte Internacional de Mercadorias;Faro;153.5
+146;535095281562300684;Atlantic Movers;Mudanças e Logística Premium;Porto;130.14
+147;417678891236738390;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Lisboa;110.16
+148;925293350920720156;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Leiria;112.11
+149;445384886078617245;ExpressRail;Transporte Ferroviário Rápido;Setúbal;86.44
+150;282230531829252961;Mediterranean Ship;Transporte Marítimo Especializado;Coimbra;20.44
+151;231571999430903047;Atlantic Movers;Mudanças e Logística Premium;Braga;32.12
+152;800903896841221544;GlobalForwarders;Fretes e Distribuição Mundial;Faro;123.58
+153;279729784154173565;ExpressRail;Transporte Ferroviário Rápido;Braga;19.02
+154;970174060032991981;GlobalForwarders;Fretes e Distribuição Mundial;Faro;137.34
+155;158326038429621523;GlobalForwarders;Fretes e Distribuição Mundial;Setúbal;112.87
+156;927890768417256896;CargoExpress;Soluções de Transporte Rápido;Porto;39.7
+157;509981328665256216;GlobalForwarders;Fretes e Distribuição Mundial;Coimbra;20.31
+158;634740489924532428;ExpressRail;Transporte Ferroviário Rápido;Coimbra;93.79
+159;346839494301595199;EuroFreight Lda;Transporte Internacional de Mercadorias;Leiria;88.34
+160;460405037933608846;TransAtlantic;Transporte Marítimo e Terrestre;Faro;85.07
+161;698576741007960818;TransAtlantic;Transporte Marítimo e Terrestre;Faro;68.62
+162;865081696393230195;QuickLogistics;Logística Integrada;Lisboa;195.6
+163;190653812446582026;QuickLogistics;Logística Integrada;Aveiro;107.45
+164;116777469047668148;LogiTrans SA;Empresa de Logística e Transporte;Setúbal;164.01
+165;459537440235348662;QuickLogistics;Logística Integrada;Braga;25.7
+166;177022256215453587;Atlantic Movers;Mudanças e Logística Premium;Setúbal;63.95
+167;465366263111430269;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Aveiro;113.74
+168;440527888682053103;EuroFreight Lda;Transporte Internacional de Mercadorias;Faro;19.17
+169;664629609425476235;CargoExpress;Soluções de Transporte Rápido;Porto;87.1
+170;440198396730084273;TransAtlantic;Transporte Marítimo e Terrestre;Coimbra;28.9
+171;733394157424889322;EuroFreight Lda;Transporte Internacional de Mercadorias;Aveiro;127.08
+172;965948260202194706;TransAtlantic;Transporte Marítimo e Terrestre;Coimbra;20.87
+173;880178574552418029;EuroFreight Lda;Transporte Internacional de Mercadorias;Porto;102.32
+174;769101665386099129;ExpressRail;Transporte Ferroviário Rápido;Lisboa;107.76
+175;225412788850653758;LogiTrans SA;Empresa de Logística e Transporte;Faro;57.65
+176;430044664056960238;TransAtlantic;Transporte Marítimo e Terrestre;Faro;68.92
+177;522683366503371158;LogiTrans SA;Empresa de Logística e Transporte;Faro;87.69
+178;675267287770238632;QuickLogistics;Logística Integrada;Setúbal;34.38
+179;983322129988146533;Mediterranean Ship;Transporte Marítimo Especializado;Porto;88.44
+180;930052991468136468;CargoExpress;Soluções de Transporte Rápido;Porto;50.55
+181;615372739703098815;LogiTrans SA;Empresa de Logística e Transporte;Lisboa;129.39
+182;580172848462388235;ExpressRail;Transporte Ferroviário Rápido;Aveiro;61.12
+183;439491391612875633;EuroFreight Lda;Transporte Internacional de Mercadorias;Aveiro;38.51
+184;606774287897804344;QuickLogistics;Logística Integrada;Porto;94.95
+185;889864849999863057;Mediterranean Ship;Transporte Marítimo Especializado;Setúbal;29.48
+186;653188334666715714;TransAtlantic;Transporte Marítimo e Terrestre;Faro;105.81
+187;354432581621705318;ExpressRail;Transporte Ferroviário Rápido;Leiria;27.99
+188;761396463386420406;Mediterranean Ship;Transporte Marítimo Especializado;Setúbal;47.45
+189;958594611006240253;Mediterranean Ship;Transporte Marítimo Especializado;Coimbra;15.6
+190;672597608012964183;Mediterranean Ship;Transporte Marítimo Especializado;Aveiro;33.36
+191;621283775790675490;CargoExpress;Soluções de Transporte Rápido;Setúbal;34.5
+192;264374706481132312;LogiTrans SA;Empresa de Logística e Transporte;Faro;69.99
+193;893643326555924798;Atlantic Movers;Mudanças e Logística Premium;Leiria;80.38
+194;425547164688331591;Mediterranean Ship;Transporte Marítimo Especializado;Faro;94.15
+195;670417881750141707;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Coimbra;38.58
+196;251353059654743875;Mediterranean Ship;Transporte Marítimo Especializado;Faro;33.19
+197;679921326946534044;TransAtlantic;Transporte Marítimo e Terrestre;Aveiro;39.5
+198;893886682403973435;CargoExpress;Soluções de Transporte Rápido;Faro;260.42
+199;432886583870066914;EuroFreight Lda;Transporte Internacional de Mercadorias;Leiria;20.69
+200;319360204979734757;Mediterranean Ship;Transporte Marítimo Especializado;Lisboa;83.26
+201;428768892399464186;TransAtlantic;Transporte Marítimo e Terrestre;Setúbal;61.43
+202;622628644844003076;Atlantic Movers;Mudanças e Logística Premium;Setúbal;55.07
+203;342569143030968403;QuickLogistics;Logística Integrada;Aveiro;74.03
+204;770062703078550195;QuickLogistics;Logística Integrada;Leiria;90.81
+205;473073309992147587;Mediterranean Ship;Transporte Marítimo Especializado;Leiria;117.7
+206;782314339762931143;CargoExpress;Soluções de Transporte Rápido;Leiria;67.37
+207;771660150976841734;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Faro;23.02
+208;447473821880476205;Mediterranean Ship;Transporte Marítimo Especializado;Aveiro;70.26
+209;918549621609349639;CargoExpress;Soluções de Transporte Rápido;Coimbra;15.44
+210;521152470186821171;CargoExpress;Soluções de Transporte Rápido;Coimbra;22.52
+211;651171907229752714;GlobalForwarders;Fretes e Distribuição Mundial;Faro;42.81
+212;802215010777621773;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Aveiro;61.96
+213;842020971040399877;CargoExpress;Soluções de Transporte Rápido;Faro;88.75
+214;951277764915533798;QuickLogistics;Logística Integrada;Faro;53.81
+215;499510467910424458;TransAtlantic;Transporte Marítimo e Terrestre;Setúbal;64.23
+216;820053933915599269;QuickLogistics;Logística Integrada;Braga;50.25
+217;313538079698333133;TransAtlantic;Transporte Marítimo e Terrestre;Porto;84.5
+218;853965211530650188;Atlantic Movers;Mudanças e Logística Premium;Porto;64.02
+219;320759780705644164;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Leiria;147.61
+220;740006795374930945;Atlantic Movers;Mudanças e Logística Premium;Braga;120.9
+221;350724430373099513;TransAtlantic;Transporte Marítimo e Terrestre;Faro;126.75
+222;966313409818222855;QuickLogistics;Logística Integrada;Coimbra;102.18
+223;114045722939051201;TransAtlantic;Transporte Marítimo e Terrestre;Coimbra;47.62
+224;236853742477163914;CargoExpress;Soluções de Transporte Rápido;Leiria;170.88
+225;735897028099565797;Atlantic Movers;Mudanças e Logística Premium;Leiria;241.36
+226;802367304609673729;Atlantic Movers;Mudanças e Logística Premium;Lisboa;95.51
+227;491060740228456811;EuroFreight Lda;Transporte Internacional de Mercadorias;Braga;43.06
+228;971745765359364119;LogiTrans SA;Empresa de Logística e Transporte;Setúbal;95.52
+229;504547155262537715;TransAtlantic;Transporte Marítimo e Terrestre;Aveiro;90.86
+230;967441826225302366;LogiTrans SA;Empresa de Logística e Transporte;Braga;96.94
+231;489970714409389477;QuickLogistics;Logística Integrada;Faro;140.11
+232;726396992114346989;QuickLogistics;Logística Integrada;Braga;97.53
+233;593832497468476764;TransAtlantic;Transporte Marítimo e Terrestre;Lisboa;103.91
+234;269669331213578368;Mediterranean Ship;Transporte Marítimo Especializado;Porto;96.73
+235;840504517284713982;CargoExpress;Soluções de Transporte Rápido;Porto;29.04
+236;359698779799138130;Mediterranean Ship;Transporte Marítimo Especializado;Faro;216.23
+237;264459558121883296;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Coimbra;131.01
+238;483329506820018261;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Lisboa;38.39
+239;310826058851796122;QuickLogistics;Logística Integrada;Aveiro;66.76
+240;604840801383139789;LogiTrans SA;Empresa de Logística e Transporte;Porto;136.98
+241;744990012840727990;EuroFreight Lda;Transporte Internacional de Mercadorias;Lisboa;115.74
+242;333878178336523288;EuroFreight Lda;Transporte Internacional de Mercadorias;Setúbal;108.04
+243;300743999285113071;EuroFreight Lda;Transporte Internacional de Mercadorias;Braga;92.27
+244;359693920718990390;CargoExpress;Soluções de Transporte Rápido;Braga;27.67
+245;735316185629695000;QuickLogistics;Logística Integrada;Aveiro;86.68
+246;912355323691354324;ExpressRail;Transporte Ferroviário Rápido;Braga;100.74
+247;463197675459197090;GlobalForwarders;Fretes e Distribuição Mundial;Setúbal;119.89
+248;958784364827136496;QuickLogistics;Logística Integrada;Coimbra;121.38
+249;529865391693382685;QuickLogistics;Logística Integrada;Coimbra;23.92
+250;583407634446564344;GlobalForwarders;Fretes e Distribuição Mundial;Leiria;83.38
+251;148104989507434034;Atlantic Movers;Mudanças e Logística Premium;Lisboa;16.71
+252;844290353509029906;CargoExpress;Soluções de Transporte Rápido;Porto;39.13
+253;680198746021855370;CargoExpress;Soluções de Transporte Rápido;Braga;63.35
+254;553239762565753371;CargoExpress;Soluções de Transporte Rápido;Lisboa;198.94
+255;668591205731491830;QuickLogistics;Logística Integrada;Setúbal;145.87
+256;441613977472381083;Mediterranean Ship;Transporte Marítimo Especializado;Coimbra;149.77
+257;848699166056559360;LogiTrans SA;Empresa de Logística e Transporte;Faro;111.62
+258;473310763501461041;TransAtlantic;Transporte Marítimo e Terrestre;Coimbra;47.17
+259;328714244494152758;Atlantic Movers;Mudanças e Logística Premium;Aveiro;141.99
+260;300163889523777267;GlobalForwarders;Fretes e Distribuição Mundial;Coimbra;47.27
+261;309885104950471600;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Coimbra;108.76
+262;676316193750985736;Atlantic Movers;Mudanças e Logística Premium;Lisboa;49.42
+263;628470411972397998;GlobalForwarders;Fretes e Distribuição Mundial;Leiria;111.59
+264;605519331765963492;QuickLogistics;Logística Integrada;Leiria;35.84
+265;532291298004020209;ExpressRail;Transporte Ferroviário Rápido;Braga;60.96
+266;433583662242776699;CargoExpress;Soluções de Transporte Rápido;Lisboa;20.51
+267;746124553435664256;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Setúbal;24.51
+268;236270224531236206;Mediterranean Ship;Transporte Marítimo Especializado;Setúbal;94.61
+269;919971749796552693;QuickLogistics;Logística Integrada;Lisboa;24.23
+270;321392347149844978;QuickLogistics;Logística Integrada;Lisboa;67.78
+271;842145530848085344;ExpressRail;Transporte Ferroviário Rápido;Lisboa;102.87
+272;215901197631584912;Atlantic Movers;Mudanças e Logística Premium;Porto;115.65
+273;209330724114682116;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Aveiro;109.01
+274;280655289437037029;LogiTrans SA;Empresa de Logística e Transporte;Faro;78.8
+275;672603474459432031;GlobalForwarders;Fretes e Distribuição Mundial;Coimbra;16.36
+276;991431206877443750;CargoExpress;Soluções de Transporte Rápido;Coimbra;122.0
+277;742646169489881502;LogiTrans SA;Empresa de Logística e Transporte;Braga;80.53
+278;742124094645034511;Mediterranean Ship;Transporte Marítimo Especializado;Braga;130.46
+279;149046418184542236;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Faro;105.77
+280;171273548648901965;ExpressRail;Transporte Ferroviário Rápido;Coimbra;41.0
+281;577426188410050226;CargoExpress;Soluções de Transporte Rápido;Aveiro;47.71
+282;186286339808420659;LogiTrans SA;Empresa de Logística e Transporte;Leiria;104.38
+283;307462516074050910;Atlantic Movers;Mudanças e Logística Premium;Faro;41.18
+284;605713057220128889;TransAtlantic;Transporte Marítimo e Terrestre;Faro;61.0
+285;486346685257049029;LogiTrans SA;Empresa de Logística e Transporte;Leiria;165.07
+286;132756480393837832;Atlantic Movers;Mudanças e Logística Premium;Faro;144.73
+287;272212620070201417;TransAtlantic;Transporte Marítimo e Terrestre;Braga;55.5
+288;115234854916931165;LogiTrans SA;Empresa de Logística e Transporte;Coimbra;147.27
+289;108684910473674631;CargoExpress;Soluções de Transporte Rápido;Braga;180.14
+290;900977037315199293;Atlantic Movers;Mudanças e Logística Premium;Faro;104.34
+291;175943832688356824;Atlantic Movers;Mudanças e Logística Premium;Faro;120.66
+292;726042843234866708;TransAtlantic;Transporte Marítimo e Terrestre;Braga;150.35
+293;817894877508972604;GlobalForwarders;Fretes e Distribuição Mundial;Coimbra;100.68
+294;674832326601968018;LogiTrans SA;Empresa de Logística e Transporte;Lisboa;85.74
+295;527729223246938467;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Leiria;37.49
+296;889526330841820333;EuroFreight Lda;Transporte Internacional de Mercadorias;Leiria;136.66
+297;273486559686664579;TransAtlantic;Transporte Marítimo e Terrestre;Braga;93.28
+298;610076908321631535;LogiTrans SA;Empresa de Logística e Transporte;Braga;98.47
+299;287145199252132045;Atlantic Movers;Mudanças e Logística Premium;Coimbra;60.85
+300;533399163539024054;QuickLogistics;Logística Integrada;Leiria;36.51
+301;288069041991671256;TransAtlantic;Transporte Marítimo e Terrestre;Coimbra;49.13
+302;155432196179393073;TransAtlantic;Transporte Marítimo e Terrestre;Braga;16.85
+303;808404817394625955;CargoExpress;Soluções de Transporte Rápido;Leiria;37.24
+304;797082684599471286;LogiTrans SA;Empresa de Logística e Transporte;Faro;92.71
+305;942275017238350628;LogiTrans SA;Empresa de Logística e Transporte;Setúbal;45.68
+306;614468886848274136;LogiTrans SA;Empresa de Logística e Transporte;Porto;114.43
+307;284180877436287218;Atlantic Movers;Mudanças e Logística Premium;Leiria;129.16
+308;366710176002226391;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Coimbra;20.61
+309;717595823106829814;EuroFreight Lda;Transporte Internacional de Mercadorias;Braga;80.38
+310;170002539129965405;LogiTrans SA;Empresa de Logística e Transporte;Porto;27.28
+311;994165918978302089;ExpressRail;Transporte Ferroviário Rápido;Coimbra;37.18
+312;893010099461505518;QuickLogistics;Logística Integrada;Lisboa;15.23
+313;249950033853184299;CargoExpress;Soluções de Transporte Rápido;Braga;80.02
+314;623156475746936040;LogiTrans SA;Empresa de Logística e Transporte;Setúbal;24.84
+315;714604314556361451;Mediterranean Ship;Transporte Marítimo Especializado;Lisboa;26.4
+316;100259469872406531;QuickLogistics;Logística Integrada;Braga;54.38
+317;421295166842461702;TransAtlantic;Transporte Marítimo e Terrestre;Porto;66.49
+318;153915977650280068;Atlantic Movers;Mudanças e Logística Premium;Porto;142.06
+319;168184009891219728;ExpressRail;Transporte Ferroviário Rápido;Porto;44.17
+320;980376769600970544;LogiTrans SA;Empresa de Logística e Transporte;Braga;119.67
+321;489576681636360754;Atlantic Movers;Mudanças e Logística Premium;Aveiro;117.1
+322;741049513820880635;GlobalForwarders;Fretes e Distribuição Mundial;Aveiro;104.59
+323;265826633521072770;QuickLogistics;Logística Integrada;Setúbal;129.26
+324;129414084682768790;Atlantic Movers;Mudanças e Logística Premium;Porto;78.96
+325;608652171580035005;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Porto;126.69
+326;804136876868411535;Mediterranean Ship;Transporte Marítimo Especializado;Aveiro;92.1
+327;855066490643172257;Atlantic Movers;Mudanças e Logística Premium;Coimbra;68.43
+328;861164812662731499;QuickLogistics;Logística Integrada;Coimbra;119.23
+329;539966525719864825;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Lisboa;108.39
+330;901139311113213203;TransAtlantic;Transporte Marítimo e Terrestre;Aveiro;32.04
+331;111856458101922204;Mediterranean Ship;Transporte Marítimo Especializado;Faro;195.4
+332;293325119224903072;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Braga;68.8
+333;756852055957829458;Atlantic Movers;Mudanças e Logística Premium;Setúbal;38.11
+334;980078345185959283;EuroFreight Lda;Transporte Internacional de Mercadorias;Aveiro;44.65
+335;723461662654040709;EuroFreight Lda;Transporte Internacional de Mercadorias;Lisboa;58.83
+336;639622101126559293;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Leiria;201.67
+337;921851050565511330;GlobalForwarders;Fretes e Distribuição Mundial;Setúbal;82.8
+338;104797698618772293;CargoExpress;Soluções de Transporte Rápido;Coimbra;55.61
+339;978144049250231173;Atlantic Movers;Mudanças e Logística Premium;Aveiro;43.83
+340;159084627581104780;GlobalForwarders;Fretes e Distribuição Mundial;Setúbal;78.41
+341;394313049453590448;Atlantic Movers;Mudanças e Logística Premium;Faro;163.31
+342;293424565104537224;ExpressRail;Transporte Ferroviário Rápido;Lisboa;127.2
+343;671418698738493620;GlobalForwarders;Fretes e Distribuição Mundial;Setúbal;153.4
+344;495596879341945709;Mediterranean Ship;Transporte Marítimo Especializado;Aveiro;47.59
+345;419660430449648734;QuickLogistics;Logística Integrada;Aveiro;113.22
+346;281249911459433267;Mediterranean Ship;Transporte Marítimo Especializado;Lisboa;25.06
+347;328625036212178471;GlobalForwarders;Fretes e Distribuição Mundial;Lisboa;71.57
+348;469683456296450166;TransAtlantic;Transporte Marítimo e Terrestre;Braga;113.54
+349;802334812895725654;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Aveiro;73.49
+350;519121638794610601;ExpressRail;Transporte Ferroviário Rápido;Faro;22.98
+351;236908821804766536;GlobalForwarders;Fretes e Distribuição Mundial;Braga;149.79
+352;124131497118891477;TransAtlantic;Transporte Marítimo e Terrestre;Lisboa;22.41
+353;770342241655514145;LogiTrans SA;Empresa de Logística e Transporte;Setúbal;91.29
+354;954697200409324608;Mediterranean Ship;Transporte Marítimo Especializado;Aveiro;87.79
+355;491151110977163079;EuroFreight Lda;Transporte Internacional de Mercadorias;Faro;105.68
+356;324010415186956807;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Braga;34.83
+357;166681167123027399;ExpressRail;Transporte Ferroviário Rápido;Leiria;79.49
+358;636079755705435640;LogiTrans SA;Empresa de Logística e Transporte;Aveiro;147.67
+359;665360891678390407;Mediterranean Ship;Transporte Marítimo Especializado;Faro;131.87
+360;349469198594566206;GlobalForwarders;Fretes e Distribuição Mundial;Faro;142.16
+361;489471317654270190;GlobalForwarders;Fretes e Distribuição Mundial;Braga;99.39
+362;721600406987930053;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Aveiro;103.94
+363;188790062413131949;TransAtlantic;Transporte Marítimo e Terrestre;Lisboa;187.07
+364;775226209844413547;TransAtlantic;Transporte Marítimo e Terrestre;Braga;21.71
+365;975908732086901950;Atlantic Movers;Mudanças e Logística Premium;Lisboa;38.84
+366;174205879870251420;LogiTrans SA;Empresa de Logística e Transporte;Faro;41.78
+367;629770439024700453;EuroFreight Lda;Transporte Internacional de Mercadorias;Leiria;168.29
+368;924799915988866110;Mediterranean Ship;Transporte Marítimo Especializado;Aveiro;32.38
+369;242016927158895966;Mediterranean Ship;Transporte Marítimo Especializado;Faro;157.91
+370;443442573542598825;Atlantic Movers;Mudanças e Logística Premium;Aveiro;30.04
+371;374066752228410106;LogiTrans SA;Empresa de Logística e Transporte;Aveiro;84.41
+372;926881127699365156;EuroFreight Lda;Transporte Internacional de Mercadorias;Faro;121.17
+373;984470158391097128;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Braga;80.74
+374;582138254457114312;CargoExpress;Soluções de Transporte Rápido;Coimbra;156.25
+375;799299198608605262;ExpressRail;Transporte Ferroviário Rápido;Lisboa;120.36
+376;757086021801009088;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Braga;49.77
+377;304234511517315890;LogiTrans SA;Empresa de Logística e Transporte;Leiria;99.58
+378;531252561781557997;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Aveiro;46.9
+379;174785486273454047;ExpressRail;Transporte Ferroviário Rápido;Setúbal;65.17
+380;388244949349760675;ExpressRail;Transporte Ferroviário Rápido;Faro;184.38
+381;512959307733769620;ExpressRail;Transporte Ferroviário Rápido;Faro;85.23
+382;991012338507775630;LogiTrans SA;Empresa de Logística e Transporte;Setúbal;30.7
+383;798868597670720649;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Lisboa;177.35
+384;853663037102220680;EuroFreight Lda;Transporte Internacional de Mercadorias;Braga;26.0
+385;637399196972248461;Mediterranean Ship;Transporte Marítimo Especializado;Porto;86.5
+386;175428570656479118;Mediterranean Ship;Transporte Marítimo Especializado;Coimbra;147.11
+387;642847215594083222;TransAtlantic;Transporte Marítimo e Terrestre;Faro;33.09
+388;661883963186930210;LogiTrans SA;Empresa de Logística e Transporte;Aveiro;21.22
+389;195784016208924633;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Leiria;92.57
+390;790573637272191597;TransAtlantic;Transporte Marítimo e Terrestre;Porto;48.6
+391;259385198514945402;Mediterranean Ship;Transporte Marítimo Especializado;Porto;95.64
+392;647571747228218403;TransAtlantic;Transporte Marítimo e Terrestre;Leiria;185.59
+393;988858488469334896;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Leiria;33.81
+394;204929756150782683;ExpressRail;Transporte Ferroviário Rápido;Aveiro;105.65
+395;280842128565504512;CargoExpress;Soluções de Transporte Rápido;Porto;41.14
+396;855361295697876821;GlobalForwarders;Fretes e Distribuição Mundial;Aveiro;87.46
+397;254764367124949256;Mediterranean Ship;Transporte Marítimo Especializado;Coimbra;38.55
+398;832424157592357159;EuroFreight Lda;Transporte Internacional de Mercadorias;Lisboa;144.77
+399;498475805736543822;ExpressRail;Transporte Ferroviário Rápido;Coimbra;100.67
+400;120165041139169443;TransAtlantic;Transporte Marítimo e Terrestre;Aveiro;114.28
+401;591772495454571634;EuroFreight Lda;Transporte Internacional de Mercadorias;Faro;113.76
+402;881069732683582341;QuickLogistics;Logística Integrada;Aveiro;72.17
+403;925404608409070983;ExpressRail;Transporte Ferroviário Rápido;Coimbra;64.48
+404;705299913950858071;LogiTrans SA;Empresa de Logística e Transporte;Coimbra;61.42
+405;523372885704266604;Mediterranean Ship;Transporte Marítimo Especializado;Braga;51.92
+406;258640626241145712;EuroFreight Lda;Transporte Internacional de Mercadorias;Porto;23.85
+407;708933231689498145;LogiTrans SA;Empresa de Logística e Transporte;Coimbra;82.8
+408;947098810644931010;GlobalForwarders;Fretes e Distribuição Mundial;Aveiro;115.37
+409;721382362069068755;ExpressRail;Transporte Ferroviário Rápido;Aveiro;102.76
+410;499784377874434758;EuroFreight Lda;Transporte Internacional de Mercadorias;Aveiro;92.97
+411;910012398240027671;Atlantic Movers;Mudanças e Logística Premium;Braga;125.71
+412;636827675049925074;LogiTrans SA;Empresa de Logística e Transporte;Coimbra;45.05
+413;834328570236428380;GlobalForwarders;Fretes e Distribuição Mundial;Setúbal;119.93
+414;577066639444355068;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Porto;127.97
+415;547072824654862237;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Porto;69.02
+416;578837698072494089;GlobalForwarders;Fretes e Distribuição Mundial;Leiria;29.4
+417;590923622072896282;Mediterranean Ship;Transporte Marítimo Especializado;Coimbra;96.83
+418;630288999603683114;ExpressRail;Transporte Ferroviário Rápido;Setúbal;78.2
+419;293041333666608017;QuickLogistics;Logística Integrada;Faro;153.79
+420;451129083930819137;CargoExpress;Soluções de Transporte Rápido;Faro;148.52
+421;325370723966419180;GlobalForwarders;Fretes e Distribuição Mundial;Aveiro;93.47
+422;184754408706269034;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Aveiro;23.81
+423;536822996856336098;GlobalForwarders;Fretes e Distribuição Mundial;Braga;84.19
+424;271664624612675188;CargoExpress;Soluções de Transporte Rápido;Braga;26.64
+425;930920799759221303;Mediterranean Ship;Transporte Marítimo Especializado;Braga;124.61
+426;484862874422546657;GlobalForwarders;Fretes e Distribuição Mundial;Leiria;20.81
+427;804776526766584818;Atlantic Movers;Mudanças e Logística Premium;Porto;90.22
+428;339870626401724363;Atlantic Movers;Mudanças e Logística Premium;Porto;16.87
+429;942261459321761435;ExpressRail;Transporte Ferroviário Rápido;Porto;74.69
+430;115818772057758075;GlobalForwarders;Fretes e Distribuição Mundial;Coimbra;24.01
+431;425300734871916648;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Porto;23.22
+432;376469003683552229;LogiTrans SA;Empresa de Logística e Transporte;Leiria;44.53
+433;235982265640872573;TransAtlantic;Transporte Marítimo e Terrestre;Braga;59.13
+434;443323027616600908;TransAtlantic;Transporte Marítimo e Terrestre;Faro;54.5
+435;485841291862061276;CargoExpress;Soluções de Transporte Rápido;Lisboa;15.1
+436;563692970799831794;Atlantic Movers;Mudanças e Logística Premium;Braga;52.42
+437;535280779146518649;GlobalForwarders;Fretes e Distribuição Mundial;Setúbal;135.34
+438;300738602421044815;Atlantic Movers;Mudanças e Logística Premium;Aveiro;146.22
+439;290526886025546352;Mediterranean Ship;Transporte Marítimo Especializado;Braga;46.94
+440;504136555629608351;ExpressRail;Transporte Ferroviário Rápido;Coimbra;168.97
+441;563003345409589488;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Porto;74.45
+442;389962577697024239;TransAtlantic;Transporte Marítimo e Terrestre;Porto;38.33
+443;580854024034655241;GlobalForwarders;Fretes e Distribuição Mundial;Setúbal;37.07
+444;827871486277001323;Mediterranean Ship;Transporte Marítimo Especializado;Leiria;68.77
+445;854734680157514651;Mediterranean Ship;Transporte Marítimo Especializado;Braga;82.53
+446;146099554305946147;Atlantic Movers;Mudanças e Logística Premium;Porto;59.0
+447;226539261466688497;LogiTrans SA;Empresa de Logística e Transporte;Coimbra;19.15
+448;652792550548494083;TransAtlantic;Transporte Marítimo e Terrestre;Faro;58.96
+449;494370463845375727;CargoExpress;Soluções de Transporte Rápido;Porto;55.59
+450;293084694940170978;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Lisboa;69.03
+451;227328010791014081;GlobalForwarders;Fretes e Distribuição Mundial;Coimbra;108.45
+452;876663295642723309;CargoExpress;Soluções de Transporte Rápido;Braga;77.14
+453;441288418174946494;Atlantic Movers;Mudanças e Logística Premium;Porto;25.32
+454;864540705220462171;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Coimbra;52.63
+455;631545088939516162;Atlantic Movers;Mudanças e Logística Premium;Faro;88.53
+456;607414429741410051;QuickLogistics;Logística Integrada;Setúbal;161.18
+457;696423382897375372;CargoExpress;Soluções de Transporte Rápido;Porto;81.67
+458;160426489833300115;LogiTrans SA;Empresa de Logística e Transporte;Lisboa;149.3
+459;674001272345941740;ExpressRail;Transporte Ferroviário Rápido;Lisboa;50.58
+460;474353451829950980;EuroFreight Lda;Transporte Internacional de Mercadorias;Aveiro;62.93
+461;881587472962447060;LogiTrans SA;Empresa de Logística e Transporte;Setúbal;75.21
+462;946775930366100220;TransAtlantic;Transporte Marítimo e Terrestre;Setúbal;153.61
+463;928102490166462332;CargoExpress;Soluções de Transporte Rápido;Setúbal;95.43
+464;217303731605075082;EuroFreight Lda;Transporte Internacional de Mercadorias;Porto;216.46
+465;128234209837561562;LogiTrans SA;Empresa de Logística e Transporte;Braga;173.47
+466;711255082392711354;EuroFreight Lda;Transporte Internacional de Mercadorias;Porto;109.41
+467;466459887309817241;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Leiria;54.59
+468;830620503352179055;CargoExpress;Soluções de Transporte Rápido;Porto;74.87
+469;599980348563497490;Mediterranean Ship;Transporte Marítimo Especializado;Porto;18.21
+470;758087272289085750;TransAtlantic;Transporte Marítimo e Terrestre;Braga;31.09
+471;400168646863824004;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Leiria;62.15
+472;173596065739026229;LogiTrans SA;Empresa de Logística e Transporte;Coimbra;25.96
+473;633388329594007277;CargoExpress;Soluções de Transporte Rápido;Faro;148.31
+474;902258779594686557;EuroFreight Lda;Transporte Internacional de Mercadorias;Braga;23.16
+475;361821262718554122;QuickLogistics;Logística Integrada;Faro;93.9
+476;655403984498918618;ExpressRail;Transporte Ferroviário Rápido;Braga;73.85
+477;100784005256126506;QuickLogistics;Logística Integrada;Porto;59.19
+478;366914714864487693;Atlantic Movers;Mudanças e Logística Premium;Lisboa;129.89
+479;535002577337675577;TransAtlantic;Transporte Marítimo e Terrestre;Braga;88.48
+480;224210328371602407;TransAtlantic;Transporte Marítimo e Terrestre;Braga;52.97
+481;138394767088881377;LogiTrans SA;Empresa de Logística e Transporte;Leiria;201.59
+482;751042419242094369;Atlantic Movers;Mudanças e Logística Premium;Coimbra;141.23
+483;215952790969453932;QuickLogistics;Logística Integrada;Lisboa;188.67
+484;742778025889520190;EuroFreight Lda;Transporte Internacional de Mercadorias;Coimbra;81.33
+485;939900010644521360;Atlantic Movers;Mudanças e Logística Premium;Setúbal;119.76
+486;278817196435185278;QuickLogistics;Logística Integrada;Setúbal;33.93
+487;717839372730795275;ExpressRail;Transporte Ferroviário Rápido;Lisboa;20.87
+488;262306155538206998;CargoExpress;Soluções de Transporte Rápido;Faro;80.22
+489;528787800773199755;QuickLogistics;Logística Integrada;Leiria;79.42
+490;381055456260467938;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Faro;121.76
+491;524035813692635941;ExpressRail;Transporte Ferroviário Rápido;Porto;69.23
+492;747847144755173859;Mediterranean Ship;Transporte Marítimo Especializado;Braga;92.37
+493;965960568406766050;TransAtlantic;Transporte Marítimo e Terrestre;Lisboa;22.14
+494;727034163229122786;GlobalForwarders;Fretes e Distribuição Mundial;Aveiro;116.21
+495;323637322790134429;QuickLogistics;Logística Integrada;Faro;115.74
+496;853798929813683791;GlobalForwarders;Fretes e Distribuição Mundial;Braga;236.67
+497;178303748651415674;ExpressRail;Transporte Ferroviário Rápido;Faro;96.54
+498;797540874616527679;Atlantic Movers;Mudanças e Logística Premium;Lisboa;63.3
+499;168725670050688450;ExpressRail;Transporte Ferroviário Rápido;Porto;24.72
+500;766714847940940635;ExpressRail;Transporte Ferroviário Rápido;Leiria;60.19
+501;937833344813555333;GlobalForwarders;Fretes e Distribuição Mundial;Coimbra;55.68
+502;599117424721567983;QuickLogistics;Logística Integrada;Leiria;97.53
+503;991480051862562321;LogiTrans SA;Empresa de Logística e Transporte;Porto;73.62
+504;325080247953948748;TransAtlantic;Transporte Marítimo e Terrestre;Coimbra;152.51
+505;108098195795354037;ExpressRail;Transporte Ferroviário Rápido;Leiria;86.19
+506;540015801953918670;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Porto;17.71
+507;926109731175001020;Mediterranean Ship;Transporte Marítimo Especializado;Coimbra;19.03
+508;143908583319704526;Mediterranean Ship;Transporte Marítimo Especializado;Leiria;16.86
+509;180409214034284176;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Porto;99.43
+510;756243404319860093;EuroFreight Lda;Transporte Internacional de Mercadorias;Aveiro;20.54
+511;433496449889165773;GlobalForwarders;Fretes e Distribuição Mundial;Lisboa;79.07
+512;379606453909777910;Atlantic Movers;Mudanças e Logística Premium;Leiria;163.42
+513;631779556550622456;QuickLogistics;Logística Integrada;Aveiro;84.98
+514;162967678980712070;GlobalForwarders;Fretes e Distribuição Mundial;Lisboa;105.26
+515;949787619299478250;ExpressRail;Transporte Ferroviário Rápido;Setúbal;26.91
+516;460214150457580341;Mediterranean Ship;Transporte Marítimo Especializado;Aveiro;73.71
+517;216004245766533770;LogiTrans SA;Empresa de Logística e Transporte;Faro;176.62
+518;541991996151664936;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Faro;80.15
+519;532784710921605635;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Leiria;44.56
+520;935491968722396265;Atlantic Movers;Mudanças e Logística Premium;Aveiro;74.13
+521;536006276335550796;ExpressRail;Transporte Ferroviário Rápido;Coimbra;95.47
+522;795502227797412658;QuickLogistics;Logística Integrada;Faro;53.64
+523;483507099097871227;GlobalForwarders;Fretes e Distribuição Mundial;Lisboa;19.39
+524;195442704650567078;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Porto;151.56
+525;444905733977999845;QuickLogistics;Logística Integrada;Coimbra;46.67
+526;751641164128249016;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Setúbal;59.96
+527;941515586410779604;EuroFreight Lda;Transporte Internacional de Mercadorias;Lisboa;25.78
+528;201539180408188543;EuroFreight Lda;Transporte Internacional de Mercadorias;Leiria;61.2
+529;119545174771659532;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Coimbra;85.1
+530;942673138457874653;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Setúbal;88.93
+531;145931365367006423;ExpressRail;Transporte Ferroviário Rápido;Leiria;69.76
+532;947573564419988346;ExpressRail;Transporte Ferroviário Rápido;Porto;40.14
+533;322802533107840529;CargoExpress;Soluções de Transporte Rápido;Faro;104.26
+534;657908961039269303;QuickLogistics;Logística Integrada;Braga;106.22
+535;594112609168620662;TransAtlantic;Transporte Marítimo e Terrestre;Aveiro;29.42
+536;817357302958528056;Atlantic Movers;Mudanças e Logística Premium;Braga;16.99
+537;943910799482233041;GlobalForwarders;Fretes e Distribuição Mundial;Setúbal;23.22
+538;698907621229689420;CargoExpress;Soluções de Transporte Rápido;Leiria;22.69
+539;153808743759081032;TransAtlantic;Transporte Marítimo e Terrestre;Faro;19.09
+540;213220327220771555;QuickLogistics;Logística Integrada;Lisboa;58.71
+541;865316547071270701;QuickLogistics;Logística Integrada;Faro;38.79
+542;688640750969399111;ExpressRail;Transporte Ferroviário Rápido;Coimbra;74.16
+543;709920012385206028;Atlantic Movers;Mudanças e Logística Premium;Lisboa;144.17
+544;278807512715868342;QuickLogistics;Logística Integrada;Braga;73.95
+545;968501010868172075;EuroFreight Lda;Transporte Internacional de Mercadorias;Coimbra;128.76
+546;534030405528197774;TransAtlantic;Transporte Marítimo e Terrestre;Aveiro;20.96
+547;216682054557466232;QuickLogistics;Logística Integrada;Coimbra;134.62
+548;134866340670786508;QuickLogistics;Logística Integrada;Braga;148.06
+549;255137401558461508;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Coimbra;119.56
+550;865400241440229410;LogiTrans SA;Empresa de Logística e Transporte;Coimbra;108.22
+551;756381637882281326;TransAtlantic;Transporte Marítimo e Terrestre;Porto;52.38
+552;703675153655720712;GlobalForwarders;Fretes e Distribuição Mundial;Porto;23.57
+553;677953620687250603;GlobalForwarders;Fretes e Distribuição Mundial;Coimbra;57.83
+554;252577508538571974;EuroFreight Lda;Transporte Internacional de Mercadorias;Setúbal;33.31
+555;420740135872221820;CargoExpress;Soluções de Transporte Rápido;Coimbra;71.53
+556;358760771781786601;QuickLogistics;Logística Integrada;Coimbra;177.82
+557;452618381880541662;TransAtlantic;Transporte Marítimo e Terrestre;Aveiro;81.41
+558;650142404235615169;GlobalForwarders;Fretes e Distribuição Mundial;Coimbra;144.57
+559;803410642043606629;TransAtlantic;Transporte Marítimo e Terrestre;Lisboa;97.64
+560;890354638820003830;Mediterranean Ship;Transporte Marítimo Especializado;Coimbra;88.33
+561;170269594380625386;Mediterranean Ship;Transporte Marítimo Especializado;Setúbal;18.48
+562;842564020747345171;CargoExpress;Soluções de Transporte Rápido;Leiria;153.72
+563;893743713645025609;QuickLogistics;Logística Integrada;Faro;73.13
+564;658255900636175404;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Braga;24.39
+565;957893333653065836;Mediterranean Ship;Transporte Marítimo Especializado;Coimbra;32.56
+566;296859094579103267;QuickLogistics;Logística Integrada;Leiria;64.78
+567;473928724708011395;EuroFreight Lda;Transporte Internacional de Mercadorias;Braga;109.47
+568;340405132635595168;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Leiria;107.86
+569;122002157656875418;Mediterranean Ship;Transporte Marítimo Especializado;Setúbal;66.03
+570;554271730282817150;QuickLogistics;Logística Integrada;Aveiro;115.56
+571;380197720292936426;TransAtlantic;Transporte Marítimo e Terrestre;Coimbra;151.84
+572;935420651591192572;Atlantic Movers;Mudanças e Logística Premium;Leiria;118.46
+573;221598681874418741;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Porto;69.45
+574;669053921437835182;CargoExpress;Soluções de Transporte Rápido;Aveiro;21.57
+575;998407815124607627;ExpressRail;Transporte Ferroviário Rápido;Braga;75.77
+576;260195104705788517;LogiTrans SA;Empresa de Logística e Transporte;Braga;18.18
+577;642704509003659808;ExpressRail;Transporte Ferroviário Rápido;Leiria;139.9
+578;896063588092176707;LogiTrans SA;Empresa de Logística e Transporte;Coimbra;77.86
+579;747393269327834441;TransAtlantic;Transporte Marítimo e Terrestre;Braga;117.19
+580;265742112692188798;ExpressRail;Transporte Ferroviário Rápido;Lisboa;93.58
+581;718340399845238099;GlobalForwarders;Fretes e Distribuição Mundial;Porto;192.42
+582;201155174854802315;EuroFreight Lda;Transporte Internacional de Mercadorias;Braga;127.92
+583;111914710674456283;LogiTrans SA;Empresa de Logística e Transporte;Coimbra;88.03
+584;861448352166217888;LogiTrans SA;Empresa de Logística e Transporte;Coimbra;79.32
+585;763991561894362171;Atlantic Movers;Mudanças e Logística Premium;Leiria;22.13
+586;818399768160372345;ExpressRail;Transporte Ferroviário Rápido;Lisboa;102.12
+587;105199000496185811;QuickLogistics;Logística Integrada;Faro;73.6
+588;514374376742749366;CargoExpress;Soluções de Transporte Rápido;Leiria;68.39
+589;119741909987603336;TransAtlantic;Transporte Marítimo e Terrestre;Coimbra;200.71
+590;907710819328940392;CargoExpress;Soluções de Transporte Rápido;Coimbra;21.63
+591;312965608394233534;QuickLogistics;Logística Integrada;Porto;56.6
+592;635072205934425825;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Setúbal;39.56
+593;849907128239188357;ExpressRail;Transporte Ferroviário Rápido;Leiria;75.76
+594;539473750352919716;ExpressRail;Transporte Ferroviário Rápido;Faro;47.83
+595;196684525335486474;QuickLogistics;Logística Integrada;Braga;96.3
+596;694487336110562999;CargoExpress;Soluções de Transporte Rápido;Lisboa;22.46
+597;238056300937600011;TransAtlantic;Transporte Marítimo e Terrestre;Braga;25.73
+598;122765100759234264;QuickLogistics;Logística Integrada;Aveiro;42.34
+599;813951188685857438;ExpressRail;Transporte Ferroviário Rápido;Braga;168.41
+600;146366301686318181;EuroFreight Lda;Transporte Internacional de Mercadorias;Leiria;99.9
+601;715216251399064322;ExpressRail;Transporte Ferroviário Rápido;Braga;161.5
+602;644175537126319468;CargoExpress;Soluções de Transporte Rápido;Faro;48.5
+603;540013804831491359;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Braga;21.51
+604;749209451028852053;QuickLogistics;Logística Integrada;Coimbra;76.67
+605;142335239424409865;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Faro;31.8
+606;505994809892127525;LogiTrans SA;Empresa de Logística e Transporte;Braga;70.77
+607;296830034877450897;TransAtlantic;Transporte Marítimo e Terrestre;Lisboa;154.68
+608;820386604356044247;Mediterranean Ship;Transporte Marítimo Especializado;Lisboa;75.15
+609;649727772366418027;EuroFreight Lda;Transporte Internacional de Mercadorias;Braga;29.8
+610;877507769552208369;Mediterranean Ship;Transporte Marítimo Especializado;Faro;84.48
+611;705504666720891363;QuickLogistics;Logística Integrada;Coimbra;68.63
+612;914245643030115248;QuickLogistics;Logística Integrada;Lisboa;113.73
+613;514267290904184646;LogiTrans SA;Empresa de Logística e Transporte;Setúbal;66.42
+614;606388889952939502;LogiTrans SA;Empresa de Logística e Transporte;Braga;218.63
+615;137537278819732302;QuickLogistics;Logística Integrada;Porto;24.03
+616;738327990825569300;LogiTrans SA;Empresa de Logística e Transporte;Setúbal;75.66
+617;961412203988819700;Mediterranean Ship;Transporte Marítimo Especializado;Coimbra;106.9
+618;668436286560437798;QuickLogistics;Logística Integrada;Porto;52.38
+619;459987706925847268;TransAtlantic;Transporte Marítimo e Terrestre;Braga;45.33
+620;278825721573296778;Mediterranean Ship;Transporte Marítimo Especializado;Lisboa;196.88
+621;567068105860518787;Atlantic Movers;Mudanças e Logística Premium;Coimbra;151.66
+622;786151971675498903;GlobalForwarders;Fretes e Distribuição Mundial;Coimbra;23.74
+623;526513714596734747;ExpressRail;Transporte Ferroviário Rápido;Porto;164.15
+624;565255392375783025;ExpressRail;Transporte Ferroviário Rápido;Braga;108.43
+625;453151812013606417;TransAtlantic;Transporte Marítimo e Terrestre;Leiria;134.4
+626;793245511772553134;ExpressRail;Transporte Ferroviário Rápido;Braga;38.62
+627;728680125296653402;EuroFreight Lda;Transporte Internacional de Mercadorias;Faro;46.08
+628;630785154337773762;Mediterranean Ship;Transporte Marítimo Especializado;Faro;124.83
+629;491080641905053887;ExpressRail;Transporte Ferroviário Rápido;Coimbra;85.1
+630;636981483521011552;ExpressRail;Transporte Ferroviário Rápido;Braga;85.16
+631;793467278464511147;ExpressRail;Transporte Ferroviário Rápido;Leiria;135.58
+632;845745386113457089;Atlantic Movers;Mudanças e Logística Premium;Faro;94.69
+633;619056438037947143;EuroFreight Lda;Transporte Internacional de Mercadorias;Braga;87.79
+634;998170589348954520;Atlantic Movers;Mudanças e Logística Premium;Coimbra;97.41
+635;340074772123395807;ExpressRail;Transporte Ferroviário Rápido;Porto;91.26
+636;537572641083914919;ExpressRail;Transporte Ferroviário Rápido;Faro;163.21
+637;102378808256990903;LogiTrans SA;Empresa de Logística e Transporte;Setúbal;126.0
+638;560799913057954942;ExpressRail;Transporte Ferroviário Rápido;Lisboa;120.04
+639;283657763694670858;Atlantic Movers;Mudanças e Logística Premium;Coimbra;98.07
+640;827166846970881663;TransAtlantic;Transporte Marítimo e Terrestre;Setúbal;150.69
+641;907649566780875825;LogiTrans SA;Empresa de Logística e Transporte;Lisboa;225.76
+642;774575134215645981;Mediterranean Ship;Transporte Marítimo Especializado;Braga;48.05
+643;609184714691627632;GlobalForwarders;Fretes e Distribuição Mundial;Aveiro;22.33
+644;386208449984825677;Atlantic Movers;Mudanças e Logística Premium;Braga;78.58
+645;381077354651755416;ExpressRail;Transporte Ferroviário Rápido;Setúbal;54.68
+646;904884224870409250;QuickLogistics;Logística Integrada;Faro;18.63
+647;631277491510361075;TransAtlantic;Transporte Marítimo e Terrestre;Aveiro;89.05
+648;663686541972062418;ExpressRail;Transporte Ferroviário Rápido;Aveiro;58.6
+649;689963493898925550;LogiTrans SA;Empresa de Logística e Transporte;Braga;55.11
+650;804975754887784810;LogiTrans SA;Empresa de Logística e Transporte;Porto;101.67
+651;923634225138530813;QuickLogistics;Logística Integrada;Braga;147.58
+652;977401391370657773;TransAtlantic;Transporte Marítimo e Terrestre;Faro;24.18
+653;598460106968762001;Atlantic Movers;Mudanças e Logística Premium;Coimbra;73.94
+654;167907803183055928;QuickLogistics;Logística Integrada;Lisboa;129.06
+655;484122639066130551;Mediterranean Ship;Transporte Marítimo Especializado;Aveiro;16.9
+656;258831987021071769;ExpressRail;Transporte Ferroviário Rápido;Faro;39.71
+657;264585158276988835;LogiTrans SA;Empresa de Logística e Transporte;Setúbal;87.0
+658;721591035150552223;Mediterranean Ship;Transporte Marítimo Especializado;Braga;110.36
+659;100943968800888446;Mediterranean Ship;Transporte Marítimo Especializado;Aveiro;81.29
+660;415509364760238577;TransAtlantic;Transporte Marítimo e Terrestre;Leiria;156.31
+661;354093379674371476;Mediterranean Ship;Transporte Marítimo Especializado;Faro;17.28
+662;668198465250562054;Atlantic Movers;Mudanças e Logística Premium;Porto;89.89
+663;555039007646438027;TransAtlantic;Transporte Marítimo e Terrestre;Setúbal;84.54
+664;699034869768645464;GlobalForwarders;Fretes e Distribuição Mundial;Lisboa;138.37
+665;699340661311190982;EuroFreight Lda;Transporte Internacional de Mercadorias;Lisboa;93.22
+666;141657274959207250;ExpressRail;Transporte Ferroviário Rápido;Lisboa;17.15
+667;876353103743825913;EuroFreight Lda;Transporte Internacional de Mercadorias;Leiria;28.48
+668;609420543366179874;EuroFreight Lda;Transporte Internacional de Mercadorias;Faro;85.13
+669;180626104501162326;CargoExpress;Soluções de Transporte Rápido;Braga;175.54
+670;127330418315547080;Mediterranean Ship;Transporte Marítimo Especializado;Leiria;121.48
+671;651539355252871658;ExpressRail;Transporte Ferroviário Rápido;Setúbal;29.73
+672;405174007746812673;CargoExpress;Soluções de Transporte Rápido;Braga;59.17
+673;496436522906511968;CargoExpress;Soluções de Transporte Rápido;Lisboa;100.74
+674;237680828491714172;ExpressRail;Transporte Ferroviário Rápido;Aveiro;105.4
+675;873559723091093799;LogiTrans SA;Empresa de Logística e Transporte;Lisboa;163.27
+676;390710968351194828;QuickLogistics;Logística Integrada;Leiria;84.49
+677;238074526238503288;Mediterranean Ship;Transporte Marítimo Especializado;Coimbra;18.14
+678;200036218734654881;TransAtlantic;Transporte Marítimo e Terrestre;Aveiro;51.77
+679;784175119647519478;QuickLogistics;Logística Integrada;Porto;20.87
+680;756623335177935802;LogiTrans SA;Empresa de Logística e Transporte;Lisboa;46.65
+681;510938569443510371;Mediterranean Ship;Transporte Marítimo Especializado;Coimbra;98.89
+682;710501101962324608;CargoExpress;Soluções de Transporte Rápido;Leiria;24.84
+683;653972219352555939;GlobalForwarders;Fretes e Distribuição Mundial;Aveiro;64.24
+684;297920436067009295;TransAtlantic;Transporte Marítimo e Terrestre;Leiria;74.65
+685;424417395164882594;ExpressRail;Transporte Ferroviário Rápido;Setúbal;173.79
+686;144339637818664263;QuickLogistics;Logística Integrada;Porto;96.9
+687;420332063023015170;EuroFreight Lda;Transporte Internacional de Mercadorias;Setúbal;126.16
+688;775870569761002114;LogiTrans SA;Empresa de Logística e Transporte;Coimbra;21.58
+689;218162103937892439;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Faro;50.21
+690;226441309844559642;EuroFreight Lda;Transporte Internacional de Mercadorias;Setúbal;145.47
+691;131776832812887480;Atlantic Movers;Mudanças e Logística Premium;Leiria;131.24
+692;917707637650927868;LogiTrans SA;Empresa de Logística e Transporte;Leiria;91.3
+693;112995263526498686;QuickLogistics;Logística Integrada;Lisboa;71.17
+694;194490342162997343;GlobalForwarders;Fretes e Distribuição Mundial;Setúbal;41.07
+695;531143051876309288;TransAtlantic;Transporte Marítimo e Terrestre;Aveiro;16.36
+696;179544693139844038;EuroFreight Lda;Transporte Internacional de Mercadorias;Porto;97.26
+697;597523863539280739;GlobalForwarders;Fretes e Distribuição Mundial;Leiria;136.49
+698;478342268729807601;ExpressRail;Transporte Ferroviário Rápido;Coimbra;27.05
+699;896349459565888410;LogiTrans SA;Empresa de Logística e Transporte;Faro;121.03
+700;680620479107155913;TransAtlantic;Transporte Marítimo e Terrestre;Braga;126.03
+701;921261973765421502;TransAtlantic;Transporte Marítimo e Terrestre;Coimbra;111.03
+702;724482696239908641;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Braga;119.22
+703;302339219794489609;EuroFreight Lda;Transporte Internacional de Mercadorias;Faro;101.09
+704;961127162835723926;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Lisboa;91.76
+705;807480070292252200;CargoExpress;Soluções de Transporte Rápido;Porto;48.62
+706;197319842955362213;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Aveiro;37.41
+707;632589874229795710;GlobalForwarders;Fretes e Distribuição Mundial;Porto;63.59
+708;563135392651141900;ExpressRail;Transporte Ferroviário Rápido;Leiria;159.7
+709;856257319456940853;TransAtlantic;Transporte Marítimo e Terrestre;Setúbal;118.95
+710;684465933275951232;ExpressRail;Transporte Ferroviário Rápido;Faro;134.61
+711;209991907990178484;Atlantic Movers;Mudanças e Logística Premium;Leiria;139.3
+712;325230361519999791;QuickLogistics;Logística Integrada;Setúbal;49.98
+713;338953150066743384;Mediterranean Ship;Transporte Marítimo Especializado;Faro;112.48
+714;913106113338301971;TransAtlantic;Transporte Marítimo e Terrestre;Coimbra;18.34
+715;974739628594154542;LogiTrans SA;Empresa de Logística e Transporte;Porto;126.25
+716;229104399448181465;Atlantic Movers;Mudanças e Logística Premium;Aveiro;167.84
+717;176686142624258675;LogiTrans SA;Empresa de Logística e Transporte;Lisboa;42.01
+718;903089313465157105;CargoExpress;Soluções de Transporte Rápido;Faro;52.66
+719;725538025672109653;EuroFreight Lda;Transporte Internacional de Mercadorias;Setúbal;112.6
+720;980165746613260943;ExpressRail;Transporte Ferroviário Rápido;Aveiro;85.06
+721;797841753368289805;QuickLogistics;Logística Integrada;Lisboa;67.62
+722;990482311576319088;GlobalForwarders;Fretes e Distribuição Mundial;Braga;21.24
+723;479962909714744338;TransAtlantic;Transporte Marítimo e Terrestre;Porto;18.79
+724;178001116527632817;ExpressRail;Transporte Ferroviário Rápido;Aveiro;19.15
+725;464172632027448495;GlobalForwarders;Fretes e Distribuição Mundial;Lisboa;36.79
+726;860439139419943085;ExpressRail;Transporte Ferroviário Rápido;Braga;68.56
+727;451344730735667230;LogiTrans SA;Empresa de Logística e Transporte;Aveiro;71.99
+728;557856110259076616;LogiTrans SA;Empresa de Logística e Transporte;Aveiro;138.81
+729;887115918647778030;Mediterranean Ship;Transporte Marítimo Especializado;Coimbra;83.47
+730;107973771779142828;QuickLogistics;Logística Integrada;Braga;117.13
+731;552767228770931849;Atlantic Movers;Mudanças e Logística Premium;Braga;45.32
+732;428887377845947313;Atlantic Movers;Mudanças e Logística Premium;Setúbal;75.36
+733;972359020851298886;QuickLogistics;Logística Integrada;Braga;69.16
+734;234376742636115572;QuickLogistics;Logística Integrada;Leiria;94.51
+735;830472148284883011;Atlantic Movers;Mudanças e Logística Premium;Lisboa;112.84
+736;826510762087851965;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Braga;162.35
+737;914407766899093552;ExpressRail;Transporte Ferroviário Rápido;Coimbra;61.31
+738;685435669137890321;Mediterranean Ship;Transporte Marítimo Especializado;Lisboa;41.02
+739;433988722403259933;ExpressRail;Transporte Ferroviário Rápido;Setúbal;74.21
+740;485204277414379926;Mediterranean Ship;Transporte Marítimo Especializado;Braga;112.23
+741;915194449967409733;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Coimbra;52.93
+742;508126973107425206;CargoExpress;Soluções de Transporte Rápido;Aveiro;48.59
+743;159285230238933656;TransAtlantic;Transporte Marítimo e Terrestre;Leiria;189.07
+744;181596865389160527;EuroFreight Lda;Transporte Internacional de Mercadorias;Faro;56.45
+745;998402348376329856;GlobalForwarders;Fretes e Distribuição Mundial;Coimbra;117.82
+746;625920036539965602;Mediterranean Ship;Transporte Marítimo Especializado;Aveiro;62.89
+747;212770822710841891;Atlantic Movers;Mudanças e Logística Premium;Faro;30.74
+748;110999816371981487;QuickLogistics;Logística Integrada;Aveiro;139.54
+749;754928640491158973;GlobalForwarders;Fretes e Distribuição Mundial;Braga;24.69
+750;224091862136456371;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Coimbra;41.98
+751;158368035112843336;TransAtlantic;Transporte Marítimo e Terrestre;Porto;140.78
+752;750853172923082499;Atlantic Movers;Mudanças e Logística Premium;Setúbal;112.98
+753;623079271238708179;GlobalForwarders;Fretes e Distribuição Mundial;Lisboa;34.32
+754;586419790835612730;QuickLogistics;Logística Integrada;Coimbra;130.86
+755;520486972151423399;CargoExpress;Soluções de Transporte Rápido;Braga;222.78
+756;980455572013114735;TransAtlantic;Transporte Marítimo e Terrestre;Lisboa;29.89
+757;478306168969383256;GlobalForwarders;Fretes e Distribuição Mundial;Setúbal;39.11
+758;229285141481859092;TransAtlantic;Transporte Marítimo e Terrestre;Braga;88.82
+759;953231939554909651;QuickLogistics;Logística Integrada;Coimbra;132.97
+760;733565603408049504;QuickLogistics;Logística Integrada;Leiria;74.19
+761;653538580810577962;QuickLogistics;Logística Integrada;Braga;159.41
+762;383685543711175531;QuickLogistics;Logística Integrada;Faro;119.56
+763;475821260415327821;Mediterranean Ship;Transporte Marítimo Especializado;Aveiro;201.98
+764;916239364532436015;QuickLogistics;Logística Integrada;Aveiro;57.51
+765;797419283275318527;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Lisboa;17.27
+766;311639496118644732;TransAtlantic;Transporte Marítimo e Terrestre;Faro;161.2
+767;167753410903768481;GlobalForwarders;Fretes e Distribuição Mundial;Braga;111.63
+768;804894550458890852;Atlantic Movers;Mudanças e Logística Premium;Leiria;82.36
+769;490501569607377029;GlobalForwarders;Fretes e Distribuição Mundial;Coimbra;120.85
+770;212499524326642111;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Porto;43.85
+771;930114544475545830;LogiTrans SA;Empresa de Logística e Transporte;Coimbra;127.15
+772;588406855267643858;ExpressRail;Transporte Ferroviário Rápido;Braga;32.92
+773;833090288617468797;GlobalForwarders;Fretes e Distribuição Mundial;Lisboa;16.46
+774;628952131368210708;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Setúbal;18.76
+775;567360351701195371;Mediterranean Ship;Transporte Marítimo Especializado;Faro;192.56
+776;509209343882655508;ExpressRail;Transporte Ferroviário Rápido;Setúbal;29.17
+777;365253147240613222;Mediterranean Ship;Transporte Marítimo Especializado;Braga;145.21
+778;758233532228986621;QuickLogistics;Logística Integrada;Setúbal;111.72
+779;688294230766355718;LogiTrans SA;Empresa de Logística e Transporte;Braga;106.77
+780;128883274443037480;TransAtlantic;Transporte Marítimo e Terrestre;Porto;84.08
+781;649564026465892183;Atlantic Movers;Mudanças e Logística Premium;Faro;103.5
+782;503613122323384279;LogiTrans SA;Empresa de Logística e Transporte;Aveiro;132.65
+783;730673103322998690;Mediterranean Ship;Transporte Marítimo Especializado;Aveiro;36.36
+784;150569376572765082;TransAtlantic;Transporte Marítimo e Terrestre;Porto;106.98
+785;366899930693154168;Mediterranean Ship;Transporte Marítimo Especializado;Braga;116.13
+786;491652090209062520;CargoExpress;Soluções de Transporte Rápido;Porto;109.5
+787;188675725893151990;Atlantic Movers;Mudanças e Logística Premium;Porto;100.92
+788;482438621201337028;EuroFreight Lda;Transporte Internacional de Mercadorias;Porto;46.67
+789;205996599385371807;Atlantic Movers;Mudanças e Logística Premium;Setúbal;28.12
+790;909086053020426332;EuroFreight Lda;Transporte Internacional de Mercadorias;Setúbal;106.68
+791;348239134232685001;CargoExpress;Soluções de Transporte Rápido;Lisboa;103.44
+792;429031799893598907;ExpressRail;Transporte Ferroviário Rápido;Braga;100.83
+793;359565529291233498;Mediterranean Ship;Transporte Marítimo Especializado;Coimbra;43.67
+794;474492668772389134;CargoExpress;Soluções de Transporte Rápido;Braga;82.8
+795;951111227372533077;Mediterranean Ship;Transporte Marítimo Especializado;Porto;24.54
+796;797006743506301976;GlobalForwarders;Fretes e Distribuição Mundial;Braga;121.4
+797;743928261856529289;GlobalForwarders;Fretes e Distribuição Mundial;Faro;66.7
+798;261590909698977171;ExpressRail;Transporte Ferroviário Rápido;Braga;101.8
+799;811918508777113296;LogiTrans SA;Empresa de Logística e Transporte;Aveiro;94.78
+800;735391899102323977;EuroFreight Lda;Transporte Internacional de Mercadorias;Lisboa;135.09
+801;703139405143656816;TransAtlantic;Transporte Marítimo e Terrestre;Coimbra;136.61
+802;984694157852761309;LogiTrans SA;Empresa de Logística e Transporte;Braga;74.37
+803;242818337610151903;LogiTrans SA;Empresa de Logística e Transporte;Braga;42.86
+804;835796985869465697;Mediterranean Ship;Transporte Marítimo Especializado;Coimbra;140.43
+805;855279235949196123;Mediterranean Ship;Transporte Marítimo Especializado;Setúbal;22.72
+806;507989066626303231;ExpressRail;Transporte Ferroviário Rápido;Setúbal;153.97
+807;462144663943844699;QuickLogistics;Logística Integrada;Braga;237.99
+808;996801804619561580;CargoExpress;Soluções de Transporte Rápido;Setúbal;107.92
+809;972204085158609033;LogiTrans SA;Empresa de Logística e Transporte;Aveiro;108.74
+810;438747597906137992;TransAtlantic;Transporte Marítimo e Terrestre;Aveiro;66.99
+811;855808034785022247;Mediterranean Ship;Transporte Marítimo Especializado;Leiria;93.0
+812;506126975346697112;GlobalForwarders;Fretes e Distribuição Mundial;Setúbal;111.27
+813;537899055437554449;GlobalForwarders;Fretes e Distribuição Mundial;Setúbal;170.09
+814;480074645087446324;EuroFreight Lda;Transporte Internacional de Mercadorias;Coimbra;21.84
+815;175082030999251106;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Porto;35.77
+816;945308317975216323;CargoExpress;Soluções de Transporte Rápido;Setúbal;19.57
+817;506307534846836259;QuickLogistics;Logística Integrada;Braga;194.75
+818;311184881817402267;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Setúbal;125.75
+819;573182847729947436;EuroFreight Lda;Transporte Internacional de Mercadorias;Leiria;147.73
+820;486404849077219267;Mediterranean Ship;Transporte Marítimo Especializado;Leiria;63.5
+821;852792946455348863;TransAtlantic;Transporte Marítimo e Terrestre;Lisboa;81.07
+822;538818570355604271;EuroFreight Lda;Transporte Internacional de Mercadorias;Aveiro;22.94
+823;441108599334553532;GlobalForwarders;Fretes e Distribuição Mundial;Porto;83.35
+824;308903241117960701;EuroFreight Lda;Transporte Internacional de Mercadorias;Braga;105.08
+825;898543332236917528;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Setúbal;21.4
+826;431339643707767633;Mediterranean Ship;Transporte Marítimo Especializado;Lisboa;41.98
+827;595817852871306643;ExpressRail;Transporte Ferroviário Rápido;Leiria;122.63
+828;158320313308045918;Mediterranean Ship;Transporte Marítimo Especializado;Lisboa;24.12
+829;481940884749704377;QuickLogistics;Logística Integrada;Braga;38.27
+830;524169810112593245;CargoExpress;Soluções de Transporte Rápido;Setúbal;140.0
+831;183006079005028122;ExpressRail;Transporte Ferroviário Rápido;Leiria;68.3
+832;940242691682122642;EuroFreight Lda;Transporte Internacional de Mercadorias;Lisboa;44.05
+833;240282119589332586;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Aveiro;16.07
+834;509217901936245182;Atlantic Movers;Mudanças e Logística Premium;Leiria;125.21
+835;702765003228560984;EuroFreight Lda;Transporte Internacional de Mercadorias;Aveiro;135.68
+836;468120650858559055;GlobalForwarders;Fretes e Distribuição Mundial;Porto;23.12
+837;424823482268768064;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Faro;70.54
+838;256824223912013781;ExpressRail;Transporte Ferroviário Rápido;Coimbra;18.33
+839;602395685187203867;GlobalForwarders;Fretes e Distribuição Mundial;Faro;48.72
+840;806468456994136276;GlobalForwarders;Fretes e Distribuição Mundial;Aveiro;63.48
+841;661784979742410218;GlobalForwarders;Fretes e Distribuição Mundial;Coimbra;119.56
+842;989669248355621463;QuickLogistics;Logística Integrada;Faro;67.0
+843;132815701875120634;TransAtlantic;Transporte Marítimo e Terrestre;Faro;108.22
+844;492338023339872912;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Aveiro;29.09
+845;359581505696488730;LogiTrans SA;Empresa de Logística e Transporte;Aveiro;22.96
+846;282966661944612802;LogiTrans SA;Empresa de Logística e Transporte;Braga;56.39
+847;121440419579854390;ExpressRail;Transporte Ferroviário Rápido;Lisboa;139.57
+848;628520078543863029;ExpressRail;Transporte Ferroviário Rápido;Porto;24.66
+849;299750855605391659;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Aveiro;109.1
+850;130468505788279685;EuroFreight Lda;Transporte Internacional de Mercadorias;Aveiro;75.33
+851;924572468072950271;QuickLogistics;Logística Integrada;Braga;81.34
+852;498885261424422160;CargoExpress;Soluções de Transporte Rápido;Braga;59.28
+853;815574195199657293;GlobalForwarders;Fretes e Distribuição Mundial;Faro;56.46
+854;206588147429610652;TransAtlantic;Transporte Marítimo e Terrestre;Aveiro;157.02
+855;373958541538301809;TransAtlantic;Transporte Marítimo e Terrestre;Leiria;165.9
+856;917453741659353282;GlobalForwarders;Fretes e Distribuição Mundial;Coimbra;19.59
+857;700104227862139462;Mediterranean Ship;Transporte Marítimo Especializado;Faro;21.76
+858;772074503124807056;EuroFreight Lda;Transporte Internacional de Mercadorias;Leiria;152.1
+859;253847813342256645;TransAtlantic;Transporte Marítimo e Terrestre;Leiria;112.03
+860;318057651649759947;CargoExpress;Soluções de Transporte Rápido;Leiria;59.71
+861;444673465405052214;CargoExpress;Soluções de Transporte Rápido;Coimbra;22.42
+862;588477583837437160;Mediterranean Ship;Transporte Marítimo Especializado;Setúbal;71.39
+863;173939236732936711;ExpressRail;Transporte Ferroviário Rápido;Coimbra;120.37
+864;249744990020047027;LogiTrans SA;Empresa de Logística e Transporte;Setúbal;197.13
+865;227526027947437472;GlobalForwarders;Fretes e Distribuição Mundial;Aveiro;91.86
+866;641183940616343641;GlobalForwarders;Fretes e Distribuição Mundial;Faro;143.7
+867;290461846078363669;LogiTrans SA;Empresa de Logística e Transporte;Setúbal;21.66
+868;989541729303128029;TransAtlantic;Transporte Marítimo e Terrestre;Setúbal;65.29
+869;890495316397875437;GlobalForwarders;Fretes e Distribuição Mundial;Aveiro;15.41
+870;542078952593823459;CargoExpress;Soluções de Transporte Rápido;Setúbal;109.44
+871;230544209836546472;TransAtlantic;Transporte Marítimo e Terrestre;Coimbra;111.59
+872;952374080427036251;Mediterranean Ship;Transporte Marítimo Especializado;Lisboa;24.34
+873;687578039049995762;LogiTrans SA;Empresa de Logística e Transporte;Lisboa;75.85
+874;720896758383071532;GlobalForwarders;Fretes e Distribuição Mundial;Faro;100.68
+875;961145231301778978;GlobalForwarders;Fretes e Distribuição Mundial;Leiria;105.11
+876;258998301587342691;Atlantic Movers;Mudanças e Logística Premium;Leiria;20.59
+877;245519751714503797;TransAtlantic;Transporte Marítimo e Terrestre;Porto;41.28
+878;781765421961479861;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Braga;223.53
+879;495336296451589317;LogiTrans SA;Empresa de Logística e Transporte;Aveiro;18.73
+880;376943295916649722;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Aveiro;36.82
+881;593355733559958082;GlobalForwarders;Fretes e Distribuição Mundial;Aveiro;17.07
+882;703595787319293622;ExpressRail;Transporte Ferroviário Rápido;Setúbal;118.8
+883;226033871884140944;ExpressRail;Transporte Ferroviário Rápido;Setúbal;19.64
+884;497685023091260958;Mediterranean Ship;Transporte Marítimo Especializado;Faro;123.4
+885;196310570001508538;QuickLogistics;Logística Integrada;Faro;70.53
+886;923184035356348509;Mediterranean Ship;Transporte Marítimo Especializado;Coimbra;43.87
+887;798225312696776057;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Porto;102.71
+888;713201639626368285;Mediterranean Ship;Transporte Marítimo Especializado;Faro;140.97
+889;840676506861514391;ExpressRail;Transporte Ferroviário Rápido;Setúbal;48.53
+890;819715569781052545;LogiTrans SA;Empresa de Logística e Transporte;Coimbra;32.7
+891;287082408556864869;EuroFreight Lda;Transporte Internacional de Mercadorias;Setúbal;95.86
+892;196619345778072920;GlobalForwarders;Fretes e Distribuição Mundial;Setúbal;32.69
+893;844767600329797346;CargoExpress;Soluções de Transporte Rápido;Coimbra;153.24
+894;657890030884606334;TransAtlantic;Transporte Marítimo e Terrestre;Leiria;83.93
+895;831419188180222208;CargoExpress;Soluções de Transporte Rápido;Porto;170.91
+896;425438671379156065;GlobalForwarders;Fretes e Distribuição Mundial;Porto;59.78
+897;738900165233313129;EuroFreight Lda;Transporte Internacional de Mercadorias;Setúbal;27.3
+898;602622123809066700;Atlantic Movers;Mudanças e Logística Premium;Setúbal;96.82
+899;798138753058237642;Atlantic Movers;Mudanças e Logística Premium;Lisboa;37.82
+900;609737097943327648;TransAtlantic;Transporte Marítimo e Terrestre;Braga;46.74
+901;293449049566402362;QuickLogistics;Logística Integrada;Aveiro;160.8
+902;461749720196400934;Mediterranean Ship;Transporte Marítimo Especializado;Leiria;17.59
+903;907431473960712609;QuickLogistics;Logística Integrada;Porto;74.42
+904;482041047898621505;Mediterranean Ship;Transporte Marítimo Especializado;Setúbal;70.96
+905;577214938594108605;QuickLogistics;Logística Integrada;Porto;59.72
+906;221403696443162683;QuickLogistics;Logística Integrada;Leiria;75.15
+907;118145915439166446;LogiTrans SA;Empresa de Logística e Transporte;Lisboa;63.95
+908;969693960560748740;TransAtlantic;Transporte Marítimo e Terrestre;Aveiro;83.68
+909;644324662810407290;TransAtlantic;Transporte Marítimo e Terrestre;Aveiro;16.15
+910;889052109548377101;Atlantic Movers;Mudanças e Logística Premium;Lisboa;39.59
+911;727180208955727602;CargoExpress;Soluções de Transporte Rápido;Lisboa;59.28
+912;863956307860626526;ExpressRail;Transporte Ferroviário Rápido;Braga;91.94
+913;141375240024251380;CargoExpress;Soluções de Transporte Rápido;Faro;64.98
+914;705834910258114639;TransAtlantic;Transporte Marítimo e Terrestre;Coimbra;118.6
+915;673160074350762151;GlobalForwarders;Fretes e Distribuição Mundial;Braga;110.92
+916;334042337184293440;QuickLogistics;Logística Integrada;Leiria;101.08
+917;782519345664799098;TransAtlantic;Transporte Marítimo e Terrestre;Coimbra;23.03
+918;133188335121298770;EuroFreight Lda;Transporte Internacional de Mercadorias;Coimbra;32.64
+919;289681744219443507;ExpressRail;Transporte Ferroviário Rápido;Leiria;63.9
+920;111332947412947501;QuickLogistics;Logística Integrada;Leiria;85.19
+921;428652458245869606;EuroFreight Lda;Transporte Internacional de Mercadorias;Faro;20.26
+922;827461355254334068;QuickLogistics;Logística Integrada;Coimbra;158.82
+923;998835591401121527;CargoExpress;Soluções de Transporte Rápido;Faro;72.57
+924;706623104251480171;TransAtlantic;Transporte Marítimo e Terrestre;Coimbra;36.69
+925;394860648508632220;QuickLogistics;Logística Integrada;Coimbra;89.0
+926;897230523033810545;EuroFreight Lda;Transporte Internacional de Mercadorias;Faro;78.91
+927;948408206336875180;EuroFreight Lda;Transporte Internacional de Mercadorias;Lisboa;88.2
+928;496080405419325602;QuickLogistics;Logística Integrada;Braga;19.0
+929;811078215085755445;TransAtlantic;Transporte Marítimo e Terrestre;Setúbal;89.6
+930;824866707034467556;Atlantic Movers;Mudanças e Logística Premium;Porto;98.94
+931;663639674727641766;QuickLogistics;Logística Integrada;Lisboa;130.22
+932;537812833075070238;QuickLogistics;Logística Integrada;Leiria;112.78
+933;287105358554803752;ExpressRail;Transporte Ferroviário Rápido;Braga;30.59
+934;400397298279830645;LogiTrans SA;Empresa de Logística e Transporte;Setúbal;96.35
+935;624855945460492067;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Faro;135.61
+936;346151015688014371;Atlantic Movers;Mudanças e Logística Premium;Faro;72.83
+937;799953518898863356;EuroFreight Lda;Transporte Internacional de Mercadorias;Braga;167.71
+938;897926130174530746;TransAtlantic;Transporte Marítimo e Terrestre;Lisboa;178.72
+939;306590984283844111;ExpressRail;Transporte Ferroviário Rápido;Faro;17.39
+940;246111749655389869;Atlantic Movers;Mudanças e Logística Premium;Aveiro;87.51
+941;698398336090398095;ExpressRail;Transporte Ferroviário Rápido;Lisboa;49.26
+942;591842320591437742;GlobalForwarders;Fretes e Distribuição Mundial;Leiria;22.92
+943;541056598695260719;TransAtlantic;Transporte Marítimo e Terrestre;Lisboa;31.05
+944;667814340435683585;GlobalForwarders;Fretes e Distribuição Mundial;Coimbra;136.22
+945;234693603352791140;ExpressRail;Transporte Ferroviário Rápido;Setúbal;50.82
+946;329727922813543333;ExpressRail;Transporte Ferroviário Rápido;Faro;160.06
+947;774718308478152941;Atlantic Movers;Mudanças e Logística Premium;Braga;201.94
+948;539548234440554469;Atlantic Movers;Mudanças e Logística Premium;Lisboa;94.74
+949;233688797763688906;EuroFreight Lda;Transporte Internacional de Mercadorias;Coimbra;122.72
+950;694371943793098143;Mediterranean Ship;Transporte Marítimo Especializado;Leiria;36.44
+951;133715312593812619;CargoExpress;Soluções de Transporte Rápido;Setúbal;25.6
+952;412056654075539509;TransAtlantic;Transporte Marítimo e Terrestre;Porto;108.39
+953;830028411224565319;LogiTrans SA;Empresa de Logística e Transporte;Aveiro;127.9
+954;303484436123335444;Atlantic Movers;Mudanças e Logística Premium;Leiria;19.57
+955;726325804032056203;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Coimbra;20.99
+956;434811336624619894;LogiTrans SA;Empresa de Logística e Transporte;Leiria;18.59
+957;567939152896859918;TransAtlantic;Transporte Marítimo e Terrestre;Coimbra;18.77
+958;734194764431000115;TransAtlantic;Transporte Marítimo e Terrestre;Braga;117.87
+959;727183088839596626;QuickLogistics;Logística Integrada;Faro;36.68
+960;641226615496983754;QuickLogistics;Logística Integrada;Setúbal;97.48
+961;375133554603420735;Mediterranean Ship;Transporte Marítimo Especializado;Porto;102.93
+962;304371535030006288;Atlantic Movers;Mudanças e Logística Premium;Leiria;39.47
+963;744874918934396802;LogiTrans SA;Empresa de Logística e Transporte;Aveiro;47.91
+964;704953951548497282;CargoExpress;Soluções de Transporte Rápido;Faro;142.03
+965;341049140815484756;ExpressRail;Transporte Ferroviário Rápido;Porto;43.11
+966;282264880474692507;ExpressRail;Transporte Ferroviário Rápido;Leiria;229.15
+967;825456990412448313;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Lisboa;104.0
+968;135959784350643952;EuroFreight Lda;Transporte Internacional de Mercadorias;Faro;94.28
+969;811570359450882251;Atlantic Movers;Mudanças e Logística Premium;Coimbra;111.18
+970;233497436899420317;TransAtlantic;Transporte Marítimo e Terrestre;Coimbra;20.06
+971;943891607081166058;EuroFreight Lda;Transporte Internacional de Mercadorias;Porto;21.78
+972;244582387866166628;TransAtlantic;Transporte Marítimo e Terrestre;Porto;163.94
+973;529488816622005534;ExpressRail;Transporte Ferroviário Rápido;Setúbal;118.96
+974;972480769229987890;EuroFreight Lda;Transporte Internacional de Mercadorias;Coimbra;89.96
+975;100930574427041360;EuroFreight Lda;Transporte Internacional de Mercadorias;Porto;92.41
+976;298381363158972265;CargoExpress;Soluções de Transporte Rápido;Lisboa;87.91
+977;630768643191891710;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Aveiro;27.12
+978;935940063916704961;EuroFreight Lda;Transporte Internacional de Mercadorias;Setúbal;16.77
+979;684782800367261453;TransAtlantic;Transporte Marítimo e Terrestre;Faro;76.79
+980;902926694007442626;Mediterranean Ship;Transporte Marítimo Especializado;Faro;45.92
+981;339497524116563509;CargoExpress;Soluções de Transporte Rápido;Braga;90.35
+982;239817427830137168;LogiTrans SA;Empresa de Logística e Transporte;Faro;70.63
+983;406745328920427551;TransAtlantic;Transporte Marítimo e Terrestre;Braga;25.41
+984;430469295086830991;Mediterranean Ship;Transporte Marítimo Especializado;Leiria;59.73
+985;451837146940120753;CargoExpress;Soluções de Transporte Rápido;Coimbra;72.58
+986;168921262130501050;Ibéria Cargo;Cargas Aéreas e Rodoviárias;Leiria;69.99
+987;711273264459617458;ExpressRail;Transporte Ferroviário Rápido;Porto;74.61
+988;865845795149519819;LogiTrans SA;Empresa de Logística e Transporte;Porto;79.41
+989;223264883906537066;GlobalForwarders;Fretes e Distribuição Mundial;Aveiro;39.66
+990;513798166504755105;CargoExpress;Soluções de Transporte Rápido;Faro;68.3
+991;607456595826389454;TransAtlantic;Transporte Marítimo e Terrestre;Lisboa;157.41
+992;455125369315935152;ExpressRail;Transporte Ferroviário Rápido;Coimbra;84.62
+993;894458499882163114;LogiTrans SA;Empresa de Logística e Transporte;Porto;78.72
+994;903135289413467443;CargoExpress;Soluções de Transporte Rápido;Porto;107.33
+995;695300827943191177;LogiTrans SA;Empresa de Logística e Transporte;Leiria;48.73
+996;578799144293357715;TransAtlantic;Transporte Marítimo e Terrestre;Leiria;136.48
+997;694804937576512417;LogiTrans SA;Empresa de Logística e Transporte;Faro;134.04
+998;741749783457978293;Atlantic Movers;Mudanças e Logística Premium;Faro;22.8
+999;134796143460800239;GlobalForwarders;Fretes e Distribuição Mundial;Braga;101.67
+1000;554157944701714512;CargoExpress;Soluções de Transporte Rápido;Faro;150.39

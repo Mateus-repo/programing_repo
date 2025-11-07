@@ -1,0 +1,1001 @@
+Label Number;Company Name;Company Address;Product Description;Net weight;Batch Number;Country of origin;SN - Serial Number;Expiration Date;GTIN-14
+1;Química Duarte;R. de Neves, S/N, 8302-588 Tomar;Farinha;54.85 L;31876;Itália;ASK0ABV44KQ4;09/04/2032;17951160855001
+2;Empresa do João;Praça Domingues, 21, 5595-352 Trofa;Computador;15933 g;94439;Espanha;IL1XR3LHXZVH;16/08/2029;14399019057954
+3;Empresa do José;Praça Miguel Coelho, 245, 2281-102 Vila Franca de Xira; Azeite;16340 mL;60597;Brasil;NW38ZF6ZRBEX;01/09/2025;14002859610232
+4;Têxtil Lusa;Alameda do Tejo, 6, 7411-829 Anadia;Impressora;254.62 L;33266;Espanha;TGLHFZVQVQIH;02/07/2026;69025780229464
+5;Empresa do José;Largo Fernandes, 40, 7025-535 Fafe;Farinha;500 un;43409;Brasil;SJNN95KIQR0B;NODATE;23425186778558
+6;Empresa do João;Avenida Irina Fonseca, 643, 5447-136 Mirandela;Cadeira;273 un;57590;China;1FUT88WX2BKT;16/08/2028;47345660128468
+7;Móveis Raiz;Avenida das Gáveas ao Parque das Nações, 312, 5989-116 Valongo;Camisola;16222 g;20995;França;M34X2DZ5A0Y7;28/03/2027;88717774704209
+8;Empresa Alfa;Largo Guerreiro, S/N, 4555-848 Sacavém;Impressora;233.43 kg;18094;China;5IUTISAV94O7;22/12/2030;74658054555027
+9;Móveis Raiz;Av do Lagarteiro, 91, 3498-356 Gafanha da Nazaré;Pão;19213 g;97607;Brasil;PWI64NIYL6CO;NODATE;75460313344536
+10;Empresa do João;Alameda Jorge Melo, 347, 0126-023 Loulé;Camisola;316.62 L;40909;França;GE86M0YQQTYP;26/10/2027;52469257983044
+11;Padaria Central;Avenida de Silva, 71, 8244-083 Mirandela;Madeira;379.66 kg;25019;Espanha;Y2DL9KYX01AG;24/01/2034;21139059717919
+12;Empresa do José;Rua de Moreira, 517, 5816-442 Amadora;Sabonete;333.34 L;35144;Brasil;MHWA1FTQFQ49;13/05/2031;97770417959462
+13;Empresa do José;Praça de Tavares, 51, 3173-305 Mêda;Farinha;452.26 kg;12667;França;V0ORU8BHJQ3M;08/06/2030;75809384860024
+14;Empresa Alfa;R. do Anjo da Guarda, 98, 3993-696 Bragança;Computador;381 un;75583;França;385V7659LSU6;02/08/2028;49647966917118
+15;Global Tech;R. Erica Batista, 32, 0710-528 Câmara de Lobos;Madeira;14789 g;21076;China;QB5O801F5RAZ;12/09/2025;90247686713587
+16;Móveis Raiz;Travessa de Machado, 61, 6455-687 Abrantes;Madeira;2087 mL;42405;Itália;Y9JSIAAUV4SX;07/09/2029;25140103435263
+17;Global Tech;R. Mendes, 25, 7684-028 Angra do Heroísmo;Vinho;49.51 kg;20148;Itália;AHYZHOHMWAYE;07/09/2030;17923490341430
+18;Química Duarte;Av Rocha, 91, 1358-303 Estremoz; Azeite;12819 mL;28391;França;6AZ037TKIISQ;17/01/2031;96099494897674
+19;Empresa do José;Rua Laura Matos, 515, 1043-848 Póvoa de Santa Iria;Madeira;1613 g;45063;China;Z1VEPOF7JLAZ;12/10/2030;82350328911054
+20;Empresa do José;Av do Cerco do Porto, 30, 2028-724 Alcácer do Sal;Madeira;4 un;79185;Itália;NQZP1P4LUPCY;08/11/2033;69849487073417
+21;Empresa Alfa;R. de Mendes, 688, 6726-803 Almeirim;Pão;748 un;74567;Brasil;34E001PD7FWM;NODATE;37977476736869
+22;Padaria Central;Travessa de Paiva, 765, 0274-462 Fátima;Computador;545 un;85381;Alemanha;IQ8GKUDB3NON;29/05/2029;77853634612188
+23;Empresa do João;Alameda Sara Jesus, 725, 3088-164 Entroncamento;Madeira;6228 g;71925;Brasil;ELI1A2AHZ1ML;NODATE;77582214232258
+24;Global Tech;R. de Freitas, 270, 3830-993 Tavira;Vinho;12326 mL;33502;China;DM6LSYBZY3X8;16/11/2032;46520281297700
+25;Móveis Raiz;Travessa de Santos, 83, 1932-603 Sabugal;Farinha;103 un;96616;Itália;KDTP3DRMSKO2;NODATE;34225313520478
+26;Móveis Raiz;Alameda Renato Rocha, 999, 0983-099 Costa da Caparica;Farinha;147 un;18351;Portugal;JPE1TL69YQXW;29/02/2032;01498763402555
+27;Global Tech;Alameda Sousa, 91, 4561-526 Amora; Azeite;366.21 L;94827;Alemanha;2AKU0GHHUZY6;24/07/2030;15836676540867
+28;Química Duarte;Praça do Calhau, 5, 1458-178 Figueira da Foz;Pão;147.01 L;54987;Espanha;4QURNSN8C093;15/07/2030;99500585354325
+29;Empresa Alfa;Rua de Anjos, 80, 8296-190 Mealhada;Impressora;16140 mL;90220;Espanha;88DTVBQH5FBA;NODATE;13805877048775
+30;Empresa do João;Praça Cruz, 7, 8427-504 Ourém;Cadeira;9294 mL;80161;França;MROK2ZI5WAB0;NODATE;03707730542837
+31;Empresa Alfa;Avenida Flor Leal, S/N, 7785-333 Fiães;Vinho;464.51 L;66613;Itália;CWK7RQLSW8XE;30/07/2025;47222296449309
+32;Empresa do José;Av de Faria, S/N, 5879-669 Barcelos;Computador;5874 mL;64495;Brasil;MJFQS6HF9WG7;29/11/2034;14834441582257
+33;Química Duarte;Largo de Mendes, 48, 0088-162 Vila do Conde;Farinha;18751 mL;23739;Portugal;PU6XR0LSA4HR;NODATE;18624860073768
+34;Empresa Alfa;Praça de Luís António Verney, 23, 5877-022 Vila Nova de Santo André;Farinha;19042 mL;55174;China;SFVZVDZ818JJ;NODATE;50980019685491
+35;Empresa do José;Alameda de Tavares, 20, 0642-871 Santiago do Cacém;Pão;281.84 kg;68209;Portugal;QZEP2323IC2I;18/11/2027;57047978517354
+36;Empresa do João;Av do Rego Lameiro, S/N, 7377-232 Tarouca; Azeite;10862 g;32513;Brasil;JK2CNTZ3VGOL;13/11/2030;91882326423014
+37;Empresa do João;Av Filipe Pereira, S/N, 3339-655 Portimão; Azeite;15544 mL;42814;Itália;YDS8IVRE7H2O;27/10/2028;61067732156786
+38;Empresa do José;Largo Jorge Rodrigues, 38, 4122-226 Macedo de Cavaleiros;Pão;458.9 kg;83267;Espanha;M6H3U3P7LE0X;21/01/2028;10887755717096
+39;Empresa Alfa;Praça Velho do Outeiro, 14, 1294-948 Póvoa de Varzim;Vinho;15426 g;50894;Brasil;Y84MTQNR9WII;NODATE;45539065026242
+40;Móveis Raiz;Alameda Neto, 35, 7664-354 Cantanhede;Vinho;285.97 kg;21305;Brasil;YDNYQ0CMZY04;24/08/2031;88539671121782
+41;Têxtil Lusa;Praça Anjos, S/N, 1212-142 Marinha Grande;Vinho;120.68 kg;76670;Alemanha;V2W7S85SE4YR;02/02/2028;99435264455143
+42;Empresa do João;Largo Nacional 209, 48, 1389-853 Trofa;Impressora;265.38 L;31751;Alemanha;36K5H9U7NMJ9;15/03/2035;97899618920522
+43;Química Duarte;Travessa Mafalda Pinto, 38, 7508-886 Aveiro;Farinha;193.17 kg;92388;Brasil;ENOQULYDXVO1;19/08/2029;88806878601195
+44;Têxtil Lusa;Travessa de Vinte e Quatro de Agosto, 25, 5933-028 Setúbal;Madeira;812 un;28780;Alemanha;Z288SWCWVCMX;NODATE;67049911529333
+45;Empresa do João;Travessa Lia Campos, 79, 1556-017 Covilhã;Farinha;2030 g;70926;França;JWSBK7LLGC8E;20/10/2028;94816774987319
+46;Empresa Alfa;Rua Matias, 764, 7062-415 Gafanha da Nazaré; Azeite;299.22 L;69204;Espanha;UD3H7J19CIBW;11/09/2025;11131024712822
+47;Global Tech;Avenida Larissa Rocha, 593, 9368-189 Santiago do Cacém;Cadeira;814 un;66308;Espanha;UQ17SRQIJBTY;NODATE;44995656192382
+48;Global Tech;Av de Magalhães, S/N, 6628-857 Vila Nova de Santo André;Impressora;471 un;34064;Brasil;AHR3GVZKHQDF;15/11/2025;28304943218449
+49;Empresa do João;Praça Sousa, 33, 0348-462 Faro;Impressora;2124 mL;24214;Espanha;6CXZOA24UGUE;10/05/2030;86581035384398
+50;Padaria Central;Rua Amália Rodrigues, 97, 9194-315 Vendas Novas;Impressora;578 un;83440;Alemanha;72WWBNC584HH;28/04/2028;66282834727546
+51;Padaria Central;Avenida Campos, 39, 7609-406 Felgueiras;Farinha;14359 g;84041;Itália;Q5SAXBC9EEJ4;NODATE;65326644249693
+52;Padaria Central;Largo dos Melros, 6, 8616-436 Quarteira;Madeira;948 un;85520;Espanha;XBQKNJMJCIZ1;13/12/2030;28052787158320
+53;Global Tech;Avenida de Almeida, 67, 1271-589 Coimbra;Camisola;2468 mL;33181;França;TB8D3NF6NG30;NODATE;34697957267336
+54;Têxtil Lusa;R. de Nogueira, 22, 8098-482 Almada;Computador;17426 g;89330;Alemanha;TKXKM661DDXU;NODATE;08369372643463
+55;Química Duarte;R. Lourenço Santos, 96, 7668-382 Porto;Cadeira;250 un;95165;Espanha;HIXA7392MR31;NODATE;04674470633792
+56;Têxtil Lusa;R. Madalena Morais, 81, 7633-643 Braga;Impressora;199.93 L;95739;Brasil;V9IQ9PN7RSB2;18/03/2034;64941652442375
+57;Global Tech;Praça da Figueira, 94, 1663-932 Vizela;Madeira;402 g;77518;China;6JZL1CFLBLWK;22/05/2027;24987267167885
+58;Padaria Central;Praça de Carvalho, 78, 1249-219 Espinho;Pão;103.83 L;44249;China;FGZDF9H1W84S;NODATE;47545822826137
+59;Empresa do José;Avenida Inês Brito, 297, 4276-839 Mirandela;Camisola;12819 mL;45643;Alemanha;WQCMEY9ZCW1M;23/07/2033;82788540606432
+60;Química Duarte;Av Cunha, 84, 1894-545 Sintra;Cadeira;257.28 kg;88568;Brasil;28I9YC95F9DU;04/11/2034;74986055409242
+61;Empresa do João;Largo Andrade, S/N, 0894-093 Vila do Conde;Vinho;5.09 kg;60380;Espanha;H1R0MG6ECOX9;24/07/2030;24772708980768
+62;Química Duarte;Rua Silva, S/N, 3671-003 Póvoa de Varzim; Azeite;16795 mL;87808;Brasil;8T1KV050G6TB;NODATE;47745007032155
+63;Global Tech;Avenida Sá, S/N, 8826-858 Mêda; Azeite;471.68 L;67786;Brasil;2DT73EQ24YBV;05/08/2031;24517807614068
+64;Empresa Alfa;Alameda do Sodré, 9, 6038-911 Santa Maria da Feira;Cadeira;85.13 kg;88683;Alemanha;XO9B3X2VJUTU;04/02/2028;39506033507065
+65;Têxtil Lusa;Alameda Diana Lopes, 71, 9106-185 Seia;Pão;173.05 kg;39069;Portugal;HQV6MTWCFSL0;07/07/2027;23087292609380
+66;Empresa Alfa;Avenida Ângelo Leal, 68, 2105-439 Amadora; Azeite;1659 mL;68500;Portugal;GNECSAWPVLB3;30/07/2033;16302224476654
+67;Empresa do José;Alameda do Trancão, 2, 8455-790 Mangualde;Camisola;6462 mL;20656;Espanha;U1T5OPF35CQC;25/11/2025;38673229227208
+68;Empresa Alfa;Rua Nicole Branco, 7, 1979-601 Tavira; Azeite;395.36 kg;65206;Espanha;FHR6UAFRDV0Z;30/05/2027;66739020997021
+69;Empresa Alfa;R. da Pasteleira, 62, 7443-774 Vila Nova de Famalicão;Impressora;247.99 kg;65861;Portugal;C6NTCSXDVWJ9;19/07/2030;49922298512118
+70;Empresa Alfa;Travessa Noa Rocha, 70, 8115-030 Marinha Grande;Madeira;96.23 L;25825;Alemanha;M7HEFRFPVFC4;12/08/2030;88956233978977
+71;Móveis Raiz;Travessa Campos, 50, 7745-912 Figueira da Foz;Madeira;3053 mL;17208;Itália;JBXTJ1AD1PJK;12/03/2031;85043231030051
+72;Química Duarte;Avenida de Cardoso, 15, 6371-193 Tondela;Vinho;92.28 kg;82926;França;V2MK23IWA1PT;NODATE;25749400871268
+73;Padaria Central;Rua Rafael Neto, S/N, 7992-003 Peniche;Computador;226.77 kg;57361;Portugal;KOZTZW9XN3LU;13/11/2031;85413139321367
+74;Química Duarte;Alameda Fernandes, 54, 3105-977 Vila Franca de Xira;Sabonete;269.2 kg;52230;China;22PLKOVBKMLC;09/02/2032;19939923035139
+75;Padaria Central;Avenida Paiva, 8, 7361-704 Caniço; Azeite;9900 g;40409;Portugal;KDTGIU98BL4H;18/11/2025;70128374023526
+76;Química Duarte;Travessa Assunção, 724, 4111-626 São João da Madeira;Sabonete;33.59 L;60921;Alemanha;8M609NDOP1WM;24/01/2029;28543009766352
+77;Química Duarte;Praça de Lima, S/N, 3820-223 Gouveia;Camisola;7662 g;32517;Espanha;JXKTNDLVG5XJ;21/09/2031;18372582690636
+78;Global Tech;Avenida Almeida, 28, 4785-170 Mirandela;Cadeira;159.73 kg;78169;China;89NXA6QOO318;NODATE;84870947289560
+79;Empresa Alfa;R. do Seminário, 2, 0554-926 Tomar;Computador;78 un;11254;Alemanha;Z8URSAWZQ9O1;NODATE;45811849415953
+80;Empresa do José;Praça Branco, 507, 6509-489 Estremoz;Sabonete;222.77 L;74134;Brasil;VYAQQLOQOU0H;12/08/2029;29566938339880
+81;Química Duarte;Largo Maria Mota, 5, 1674-001 Rio Tinto;Sabonete;109.81 kg;81517;França;372L857FPVKM;NODATE;78362254061323
+82;Global Tech;Praça de Loureiro, 368, 9986-988 Fundão;Vinho;73.68 L;54541;Portugal;HLNS6GU62GSL;NODATE;18438950828605
+83;Empresa do João;R. de Amorim, 27, 8731-407 Fiães;Farinha;493.95 kg;15041;Portugal;UU7MXH3WZQXU;07/01/2026;41553287076379
+84;Têxtil Lusa;Praça de Loureiro, S/N, 6354-893 Santa Cruz; Azeite;151.31 L;84570;China;Y4OZR8JSP37E;23/01/2029;48954392857332
+85;Empresa do João;Alameda de Azevedo, 27, 6653-145 Póvoa de Varzim;Cadeira;312.06 L;91967;Brasil;BNFEOR13MOLN;24/05/2035;58476000119120
+86;Química Duarte;Rua Neves, 49, 7017-768 Setúbal;Computador;254.53 L;16654;China;QKPY6JH24AHD;11/08/2031;71530152252562
+87;Global Tech;Av de Neto, 3, 1419-420 Costa da Caparica;Cadeira;217.27 L;52111;Portugal;S9YPHW9I2SM4;22/01/2032;47630638393468
+88;Têxtil Lusa;Largo João Jayme Faria Affonso, 37, 7540-700 Mangualde;Farinha;39.62 kg;28807;Itália;8FKZ7SS1R05Z;NODATE;82020140368109
+89;Móveis Raiz;Praça de Anjos, 757, 0309-178 Peso da Régua;Computador;441.81 kg;21556;Brasil;TFGTNJ1YVJIQ;23/10/2029;36946858955486
+90;Têxtil Lusa;Praça Débora Gonçalves, 65, 1685-429 Portalegre;Vinho;13484 g;12250;França;0Y7P8FPMF9AJ;NODATE;06508111363347
+91;Global Tech;Praça da Beneditina, S/N, 0861-529 Viana do Castelo;Camisola;55.97 L;62307;Portugal;AMZO6XGMVPYT;05/09/2025;25723892613777
+92;Global Tech;Rua Ângela Figueiredo, 35, 7068-214 Serpa; Azeite;924 un;33863;Portugal;WZF6BOJ2PMBS;01/06/2034;68871977100050
+93;Química Duarte;Alameda Inês Batista, 79, 7562-055 Paços de Ferreira;Vinho;16758 mL;26397;Portugal;KZETSR64H9K7;23/08/2033;01349447025155
+94;Móveis Raiz;R. Clara Barbosa, 89, 4142-916 Barreiro;Pão;24.82 kg;56967;Alemanha;540CIN017NVL;09/07/2028;99464369017732
+95;Química Duarte;Largo de Carreiras, 5, 7884-478 Rio Tinto;Computador;8924 mL;60672;Alemanha;R31F2DB9PY5J;13/06/2030;28716617190496
+96;Móveis Raiz;Av Fonseca, 38, 2188-505 Viseu;Computador;428.04 L;16607;Espanha;83UV9VJ46C6Q;13/12/2028;08211714308838
+97;Padaria Central;Largo Campos, 4, 5874-366 Elvas;Cadeira;151.52 L;37853;Brasil;V4WZLROECJ3F;NODATE;17392331554219
+98;Móveis Raiz;Av de Domingues, 19, 5967-438 Coimbra;Vinho;0.28 L;25124;Itália;4UR3GOPXCEPK;16/01/2034;08788034592441
+99;Empresa do José;Praça Bruna Guerreiro, 79, 3661-431 Ovar;Camisola;434.14 kg;18880;França;5NYCYB74Y34S;15/05/2032;26972472231493
+100;Padaria Central;Praça de Coelho, 79, 1239-756 Ovar;Sabonete;282.31 L;12258;Portugal;H0PSZ3RGPZWH;NODATE;05301924626885
+101;Empresa Alfa;Alameda Barbosa, 341, 4348-296 Sabugal;Vinho;136.18 kg;19467;França;7G243KVPBHHK;29/10/2026;56960583522038
+102;Global Tech;Rua de Correia, 89, 9633-270 Caldas da Rainha;Madeira;934 un;93982;França;4O5KOERDXSYN;22/10/2033;37686446738920
+103;Empresa Alfa;Avenida da Boa Viagem, 76, 3854-973 Câmara de Lobos;Camisola;323.67 kg;53846;Brasil;9I3QXQFFYEU6;03/06/2030;40385860383211
+104;Global Tech;Alameda Matias, 29, 8131-083 Cantanhede; Azeite;16753 mL;11986;China;ZEWXNK87VFOV;04/08/2034;90728478248353
+105;Têxtil Lusa;Praça Madalena Assunção, S/N, 3613-387 Valpaços;Vinho;264.52 kg;62727;Portugal;9QJB4ZH1WW23;02/10/2032;19253832641874
+106;Têxtil Lusa;Rua de Ramos, 774, 3515-489 Póvoa de Varzim;Vinho;133.94 kg;99702;China;Q0THL5IUYT1E;05/02/2031;90335484660018
+107;Química Duarte;Rua Guerreiro, 25, 8547-454 Paredes;Pão;9359 g;65902;Alemanha;05LA032E1XN6;26/01/2027;22129153560388
+108;Química Duarte;Av Ramos, 3, 3865-319 Rio Maior;Farinha;407.94 kg;38798;China;V24ASI8CRIUJ;17/07/2034;79094840974599
+109;Padaria Central;Avenida de Carvalho, 89, 0942-275 Quarteira;Farinha;10168 g;98473;China;2XZ2AA4U3SPV;11/09/2028;97854485306863
+110;Global Tech;Rua Areeiro, 2, 8681-468 Fafe;Cadeira;474 un;92368;Alemanha;0GUQ9REZL897;16/03/2033;61752103638485
+111;Empresa do João;Rua de Nascimento, S/N, 8972-610 Braga;Vinho;15233 mL;27245;Brasil;7FGNXTY0FCZX;25/05/2035;90750344255892
+112;Empresa do João;Rua do Machado, 45, 7250-251 Barcelos;Sabonete;805 un;53607;Brasil;SO6RVG0CDONP;NODATE;24939066551396
+113;Global Tech;Alameda de Grijó, 97, 0459-823 Vendas Novas;Cadeira;823 un;45636;Alemanha;984V0LGOUGHK;12/04/2032;06312548408303
+114;Empresa Alfa;Largo Alice Loureiro, 280, 8789-049 Fátima;Farinha;9995 g;38917;Alemanha;RBYGK2XM50T0;26/08/2025;78214616610154
+115;Empresa do José;Alameda Maia, 5, 2878-590 Amarante;Sabonete;7540 mL;32396;Alemanha;MK7RE9PUSC0A;NODATE;85861787437669
+116;Padaria Central;Largo Gil Santos, 871, 9496-737 Póvoa de Santa Iria;Pão;143.94 kg;71979;China;O39TLQFUGS8W;21/03/2031;79351490644917
+117;Padaria Central;Praça de Assunção, 46, 2653-305 Lagoa;Madeira;721 un;83324;Alemanha;8MV3O0KZOB6J;25/03/2028;99038056725443
+118;Empresa do José;R. Pereira, S/N, 8294-882 Vila Real;Madeira;18.22 kg;33870;França;6WJHZZW6OJPU;01/01/2031;72960986779058
+119;Empresa do João;Travessa Nunes, 69, 1058-125 Valongo;Camisola;150.58 L;51637;Brasil;9VP9R9VJTIYY;NODATE;28276175906649
+120;Têxtil Lusa;R. Marcos Matias, 85, 9025-692 Santana; Azeite;452.72 L;75787;Alemanha;VUWCS5YB9A0S;04/05/2032;62509615057434
+121;Global Tech;Travessa Branco, 27, 7532-961 Amarante; Azeite;98.95 L;81514;Itália;19RR0UA7XCG8;13/10/2034;19997540960398
+122;Global Tech;Rua de Batista, 4, 4007-642 Vila Real;Camisola;208.63 L;37858;Portugal;F8AKD7HPRF1L;NODATE;75477983641139
+123;Empresa do João;Travessa Alexandre Macedo, 88, 5046-943 Sintra;Computador;16219 mL;54055;China;58HI647LGG1I;06/06/2031;23592686639471
+124;Global Tech;Avenida Júlia Moreira, 86, 2794-935 Torres Novas; Azeite;149.54 L;74447;França;QUW3HGSDVLNR;22/06/2033;49701867711385
+125;Padaria Central;Praça Bruno Miranda, S/N, 9624-878 Trofa;Madeira;10286 mL;57953;Brasil;KH1RCBIGT2GN;17/02/2033;90176443119351
+126;Empresa do João;Praça Gonçalves, 6, 1524-123 Barreiro;Pão;36.32 L;72263;Itália;KOOHLE3GRNRC;NODATE;63061549433925
+127;Móveis Raiz;Largo de Branco, 281, 8126-989 Vila Real;Cadeira;241.6 L;26979;Espanha;HSTEUKJNOGIN;05/01/2034;62507147061665
+128;Empresa do José;Avenida Leite, S/N, 7537-087 Bragança;Vinho;258.15 L;60607;Itália;PFVRM4WZPL5P;02/08/2030;09599610034039
+129;Padaria Central;Rua da Associação Empresarial de Portugal, 2, 1381-870 Portalegre;Sabonete;15867 g;96473;Brasil;HMUJ9FR7DC8R;03/04/2032;17943845091890
+130;Padaria Central;Alameda Eduarda Macedo, 11, 9813-274 Gouveia;Cadeira;329.89 L;43106;Itália;DJQ2GNEAYW6G;12/12/2028;98560187766604
+131;Móveis Raiz;Avenida de Cruz, S/N, 2747-698 Oliveira do Hospital;Farinha;7043 mL;75157;França;F6DUIO7WP3TG;10/02/2028;60939310234314
+132;Padaria Central;R. de Freitas, 6, 2198-688 Vendas Novas;Camisola;10448 g;63618;Brasil;IMVNOMDXVDPP;02/08/2027;30702405573763
+133;Empresa do José;Largo de Caselas, S/N, 2350-275 São Salvador de Lordelo;Impressora;3120 mL;49654;Espanha;RXOLZL4I74DQ;06/12/2028;58138619189382
+134;Global Tech;R. Renato Macedo, 317, 2696-598 São Salvador de Lordelo;Cadeira;140.48 kg;43580;Itália;CF4E7R1ZRKWY;25/05/2030;07704531985966
+135;Empresa do João;Rua Pereira, 71, 9355-870 Covilhã;Camisola;11625 g;32033;França;0TE28ITK23SH;12/03/2031;48077143108659
+136;Global Tech;Av Borges, 28, 2916-382 Beja;Camisola;310.87 L;12657;Portugal;GWSY9JV1S9E7;31/10/2030;78804318914853
+137;Móveis Raiz;Largo da Conceição, S/N, 1661-697 Viana do Castelo;Camisola;274.7 L;51934;Espanha;Y6VE2D9N8Q8R;06/06/2029;73454781830048
+138;Móveis Raiz;R. do Calvário, 2, 6100-409 Guarda;Farinha;11846 mL;72136;França;Z0S52Z397QEY;21/12/2027;62955520873682
+139;Empresa Alfa;Praça Correia, 5, 5967-737 Vila do Conde;Madeira;4845 g;97542;Itália;RA32LJZA3CP7;14/12/2030;10771129648789
+140;Empresa do José;Av dos Vice-reis, 6, 9072-109 Mealhada;Madeira;493.67 kg;87777;Portugal;QVHF4TMQ3MLH;NODATE;50527239583816
+141;Padaria Central;Rua Diana Pinto, 94, 6962-561 Ovar;Pão;13188 g;12152;China;9V4GKUCT82JS;23/09/2033;36418690072176
+142;Empresa Alfa;Avenida das Antas, 17, 7202-378 Gafanha da Nazaré;Cadeira;482.57 L;18302;Brasil;H8PYP9UZM1Q8;18/10/2032;13830950145069
+143;Empresa do João;Largo dos Pinheiros, 31, 1781-594 Rio Maior;Vinho;167 g;24155;Brasil;9L6PVDYKQPX8;25/12/2034;68247149608936
+144;Padaria Central;Av Vicente, 96, 1275-242 Ponta Delgada;Madeira;52.64 kg;61947;Itália;XMKFW5V3B4JJ;07/08/2025;93679557388720
+145;Empresa Alfa;Av de Neto, 2, 1139-729 Viseu; Azeite;2.41 kg;19108;Espanha;JWG44JEYG5G7;21/04/2028;68281567939961
+146;Padaria Central;R. Hugo Coelho, S/N, 7037-300 Ponta Delgada;Madeira;803 un;16089;Itália;E732LBHXUE52;30/08/2031;09726421870870
+147;Móveis Raiz;R. Moreira, 33, 8112-554 Oliveira do Bairro;Sabonete;141.4 L;31475;Itália;79PT585UMIGH;10/02/2027;38671410464477
+148;Empresa do José;Alameda Lourenço Anjos, 56, 7559-916 Portalegre;Vinho;463 un;29083;Portugal;G20VLUFO62A7;NODATE;67038119805597
+149;Empresa Alfa;Praça de José Serra, S/N, 6526-459 Valongo; Azeite;15521 mL;16950;Itália;L0XYW09N7ZQN;26/10/2034;76807552993181
+150;Empresa do João;Avenida Silva, 31, 7098-469 Vila Real de Santo António;Madeira;350.17 L;66206;Espanha;HZBJ3L65TTED;08/02/2026;34260959812457
+151;Empresa do João;Avenida Anjos, 10, 5197-905 Vale de Cambra;Farinha;35.41 L;22233;Alemanha;M4VAGOBGWIIW;13/01/2028;92389770867855
+152;Global Tech;Av do Tronco, 657, 6724-283 Lagoa;Madeira;269.58 L;92323;Alemanha;YN0F6TRDFJKB;NODATE;19599338006201
+153;Têxtil Lusa;Praça Sara Freitas, S/N, 5298-280 Horta;Impressora;709 un;48816;Itália;VBTVOJOCVCE6;13/08/2032;01993048591758
+154;Padaria Central;Travessa Guerreiro, 97, 0975-804 Santa Maria da Feira;Sabonete;245.77 kg;20571;Itália;M8DBKAMKSUT1;13/12/2031;19338181244028
+155;Empresa Alfa;Largo de Teixeira, 59, 9881-251 Covilhã;Computador;18005 mL;19508;Brasil;13J58ZWF4YE8;23/07/2030;89451090343482
+156;Química Duarte;Alameda Matilde Bensaúde, 764, 4220-672 Aveiro;Computador;236.95 L;79630;China;CDWUM0PM7GY1;15/04/2028;24314488606712
+157;Têxtil Lusa;R. de Jesus, 15, 5292-292 Costa da Caparica;Madeira;3208 mL;94961;Alemanha;EI54DCHNY1IC;18/05/2026;21042132058497
+158;Empresa Alfa;Avenida Rocha, 92, 6047-896 Serpa;Cadeira;13160 g;74826;Brasil;PKOIZZANV97O;08/12/2027;68353729732511
+159;Empresa Alfa;R. Luana Domingues, 61, 0381-291 Tondela;Sabonete;16614 g;31399;Portugal;XSNG4Y3QHEAU;02/04/2027;69135326693500
+160;Têxtil Lusa;Largo Nicole Morais, 44, 7648-231 Albufeira;Camisola;9165 mL;87633;Brasil;OSP1M5FX1OVV;18/03/2033;48671271754975
+161;Global Tech;Avenida Teresa Ferreira, S/N, 9775-813 Torres Vedras;Camisola;15251 g;13331;Alemanha;5RPYBH4WORC7;02/01/2034;80549405122518
+162;Móveis Raiz;Rua Gustavo Oliveira, 940, 9323-921 Santiago do Cacém;Impressora;901 un;19886;Itália;VM7DB4YB6BWG;19/11/2028;42640030473198
+163;Global Tech;Rua de Santo António dos Capuchos, S/N, 7477-277 Horta;Camisola;495 un;35911;Alemanha;JGD0HR579VQP;16/05/2034;02088452565931
+164;Empresa do João;R. de Pacheco, 69, 5758-245 Angra do Heroísmo;Pão;455.73 kg;38494;França;00UZCD261K65;25/12/2027;48211028308810
+165;Global Tech;R. de Pinto, 43, 7165-068 Guarda;Camisola;14399 g;46167;Brasil;O3060SP6Y8DO;14/02/2033;39639352384908
+166;Empresa do João;R. Eduardo VII de Inglaterra, 3, 5825-939 Caldas da Rainha;Sabonete;105 un;44294;Portugal;85AY1B6IFSZR;05/08/2026;47365137225864
+167;Empresa Alfa;Alameda Frederico Machado, 239, 8417-345 Santo Tirso;Madeira;421 un;91383;Brasil;U8I94OR9O8JM;05/03/2032;97587477070972
+168;Têxtil Lusa;Avenida de Freitas, 33, 0094-728 Coimbra;Impressora;9548 g;94259;Alemanha;SP63GVUOL3DD;12/01/2032;02899225365832
+169;Têxtil Lusa;Av Yara Monteiro, 87, 9022-560 Funchal;Impressora;549 un;17563;França;1Z7PQH05QCGP;08/02/2028;03235673105056
+170;Têxtil Lusa;Av de Nova Sintra, 98, 3795-349 Viseu; Azeite;652 un;38880;China;RVU5PUUHGD3O;16/09/2025;65707654793943
+171;Empresa do João;Travessa Campos, 47, 9944-420 Torres Vedras;Farinha;214 un;40566;Brasil;KO1JYBZP8XQY;02/07/2030;95591290540658
+172;Têxtil Lusa;Largo de São Lourenço, 90, 0590-854 Moura;Camisola;475.98 kg;68801;Portugal;EC5AFYAQG3VV;08/09/2033;87563685206385
+173;Móveis Raiz;Rua William Brito, 89, 5676-882 Felgueiras;Sabonete;8005 mL;84928;Alemanha;TN8NEAB3R80T;NODATE;42001384788836
+174;Química Duarte;Avenida Vaz, S/N, 2851-333 Fiães;Camisola;170.76 L;79011;China;EYVPZY0XN51Y;21/08/2027;43708813421113
+175;Empresa do João;Praça de Vieira, S/N, 4749-317 Rio Maior;Vinho;19339 g;22299;China;CNJ242PMRH2H;17/01/2035;84200979166124
+176;Empresa do José;Av Nádia Pinho, 38, 7218-527 Valbom;Farinha;448.43 kg;59594;Espanha;C8OUBYL41DYO;08/07/2029;95913939829602
+177;Química Duarte;Avenida Sebastião Neto, 75, 5074-797 Lourosa;Vinho;4959 g;42055;Portugal;0YYGMAY8OBI0;29/09/2031;55753685067198
+178;Empresa Alfa;Alameda de Campos, 38, 6001-070 Barcelos;Vinho;11355 g;24480;Brasil;PPPMGJP74T2I;NODATE;02198338350292
+179;Padaria Central;Largo da Pasteleira, 9, 6344-117 Vila Nova de Foz Côa;Computador;8174 mL;30216;Portugal;GPLLDIJPQZA8;19/01/2034;54070410571435
+180;Têxtil Lusa;Rua Adriana Reis, 4, 9646-458 Marinha Grande;Pão;134 un;19629;Portugal;2HBJ7QVDPHGO;21/08/2027;89970196923373
+181;Padaria Central;Av do Preto, 8, 4746-115 Lagoa;Vinho;13337 g;39196;Alemanha;CQ4DMFQ8LI58;10/09/2033;88049237119015
+182;Empresa do José;Travessa Castro, 4, 6146-041 Rebordosa;Pão;14699 mL;90139;Portugal;XJQPC3HAME37;24/09/2032;46837542809801
+183;Empresa do João;Avenida Anjos, 28, 9104-871 Lixa;Camisola;12574 g;16490;Itália;B80QG2CKK6GO;07/06/2031;22111998600493
+184;Empresa do João;Avenida Gonçalves, 86, 6579-289 Alcácer do Sal;Pão;549 un;72265;Itália;D7HXHQC0Q2SQ;26/10/2033;63711153580044
+185;Empresa do José;Rua de Tavares, 1, 9152-957 Loulé; Azeite;177.22 L;12567;Alemanha;068IO4RLEBYM;06/05/2032;92617416297972
+186;Empresa do João;Largo Roentgen, 36, 1002-528 Santo Tirso;Cadeira;102.99 kg;87517;Espanha;6CGTYK5W3AHR;19/06/2026;33569613642042
+187;Global Tech;Travessa Andrade, 92, 1715-746 Abrantes; Azeite;271 un;66183;Brasil;AS9LTUSTOPJV;24/09/2034;93597418944207
+188;Têxtil Lusa;Rua da Boavista, 638, 7010-711 Anadia;Cadeira;284.62 kg;36874;Espanha;9T3B0RZV133P;03/11/2029;29494455988463
+189;Têxtil Lusa;Travessa das Andorinhas, 655, 3391-211 Lagoa;Vinho;143.0 L;21054;Alemanha;SIZWES1VLGTN;17/07/2033;60955111918869
+190;Empresa do José;Alameda Eduarda Paiva, S/N, 2280-840 Porto Santo;Impressora;451.55 kg;26354;Alemanha;UJAVNPT1AMWY;28/02/2026;91645254024803
+191;Empresa do João;Alameda de Abreu, 63, 6004-501 Amora;Cadeira;827 un;33441;Brasil;8JC226N2X3Z0;19/09/2026;06262750576533
+192;Empresa do João;Largo do Forno Velho, 979, 2096-194 Lamego;Farinha;68.52 kg;23852;Brasil;BN7224NJVSVZ;17/07/2028;57229641818002
+193;Móveis Raiz;Av de Monteiro, 14, 3729-547 Paredes;Sabonete;411 un;21890;Brasil;NLM7B4S8N6ZQ;16/06/2029;67639375606642
+194;Têxtil Lusa;Rua da Alfândega, 97, 5849-669 Vila Real de Santo António;Computador;11958 g;85862;Brasil;J05F53SIJ003;14/04/2032;16013366392237
+195;Têxtil Lusa;Rua Rodrigues, 53, 1104-969 Portimão;Sabonete;73.55 L;95768;Itália;0WX455U81MBU;04/06/2030;02418208017246
+196;Móveis Raiz;Rua das Congostas, 45, 5737-070 Mirandela;Camisola;158.36 L;91698;Espanha;TWOXR0ASAI8U;05/04/2030;16278728956243
+197;Empresa do José;Avenida Soares, 9, 6614-313 Agualva-Cacém;Cadeira;10481 g;34699;Alemanha;YX2RXKX6B51K;21/06/2028;35107688177204
+198;Padaria Central;Avenida da Ilha do Ferro, S/N, 1876-070 Vila Nova de Gaia;Computador;2754 g;19659;Itália;P92TLEAILKMS;NODATE;71544122968898
+199;Empresa do João;Avenida Lima, S/N, 6461-082 Ourém;Cadeira;11575 g;67016;Brasil;7KNVM2UMUN4U;01/04/2027;95891857219183
+200;Móveis Raiz;Travessa de Castro, 358, 2795-773 Viseu;Computador;120.48 L;57839;Portugal;BJI8IYGDH3IX;16/07/2028;18102914284510
+201;Empresa do José;Praça de Cardoso, S/N, 7030-308 São Salvador de Lordelo;Impressora;70.14 kg;58989;Espanha;JYTUO4FJV9RX;NODATE;18592212371366
+202;Têxtil Lusa;Praça de Guerreiro, 35, 5377-444 Gondomar;Impressora;15644 mL;29206;Portugal;NAINUK0EKWRI;08/10/2026;08583379320427
+203;Têxtil Lusa;Praça Matilde Vicente, 32, 0065-962 Rebordosa;Vinho;191.62 L;82028;França;1U93XAK89RCY;09/08/2029;41226734709344
+204;Empresa do José;R. de Sá, 945, 1059-059 Angra do Heroísmo; Azeite;457.32 kg;38571;Itália;76MFUWFEZ0MD;NODATE;49120898862496
+205;Global Tech;Av de Assunção, 91, 9351-592 Caldas da Rainha;Cadeira;655 un;53848;Itália;XVTRGETD8G2S;18/04/2035;25895113957479
+206;Global Tech;Largo Gonçalves, 26, 6882-702 Funchal;Cadeira;6293 g;75759;França;WCJT2DRY2O7G;24/11/2029;59440394483331
+207;Móveis Raiz;Travessa Rocha, S/N, 2524-049 Costa da Caparica;Vinho;973 mL;65514;Portugal;GOPQQNP9R6WP;02/09/2033;36208237998802
+208;Têxtil Lusa;Praça Torres, 56, 2507-144 Vila Nova de Santo André;Farinha;2071 g;20577;Espanha;WTM91TK3D1N0;18/03/2033;21196335211282
+209;Têxtil Lusa;Av de Neto, 6, 7052-057 Rio Tinto;Cadeira;184.0 kg;81200;Itália;R0PV3HY8CGRQ;NODATE;12923174574014
+210;Química Duarte;R. de Oliveira, 53, 9535-462 Entroncamento;Farinha;268.24 L;48909;Espanha;DW1PM6WW5UXF;09/01/2027;51511126783477
+211;Móveis Raiz;Largo Soares, 85, 9222-733 Lourosa;Farinha;339.32 L;96456;Brasil;9URQVGG9VAN0;11/05/2026;30955709612906
+212;Móveis Raiz;Praça de Pinheiro, 51, 0418-082 Viseu;Farinha;6991 g;99350;Itália;VCCOSBUOQDRB;04/06/2032;59089512734759
+213;Empresa do João;Praça Feia, 4, 6565-476 Lagos;Cadeira;1426 mL;16566;França;EP2K5QNMA2IJ;20/12/2027;71770294329644
+214;Empresa do João;Rua de Fernandes, 808, 3386-242 Trofa;Sabonete;392.6 L;48353;China;KB82C3FN1B71;08/12/2028;74578719427821
+215;Padaria Central;Travessa de Soares, 93, 7870-412 Seia;Impressora;612 un;45150;Espanha;BUPB4QWTBI93;23/11/2033;26463268319505
+216;Global Tech;Alameda Visconde de Alvalade, 32, 7274-838 Sacavém;Sabonete;420.08 kg;75430;China;RQTIWOZ8NSFX;07/09/2026;28786724596327
+217;Global Tech;R. do Bessa, 17, 0794-160 Santa Maria da Feira;Computador;73.54 L;85652;Portugal;LMEO2A56QZ7N;13/11/2034;68415627136884
+218;Empresa Alfa;Rua Domingues, 97, 5232-490 Oliveira do Bairro;Vinho;19933 g;59529;Alemanha;FOY5B0T7S70J;10/06/2033;77492579453383
+219;Empresa do João;Travessa de Torres, 9, 1657-511 Vila Nova de Santo André;Pão;19300 g;87463;França;PUVGGHIJ99BJ;08/08/2028;34280688409564
+220;Padaria Central;Av do Alto do Varejão, 290, 8485-048 Viana do Castelo;Pão;431.45 kg;88290;França;4KAGGVW8BGR7;21/01/2028;42269091341221
+221;Padaria Central;R. da Galega, 3, 1482-205 Ermesinde;Vinho;921 un;38380;Brasil;CSATQ99X78DN;26/05/2028;25262338352028
+222;Química Duarte;Praça Miriam Barbosa, 78, 6771-772 Mealhada;Cadeira;161.45 L;30591;Espanha;6TZL260ZKMDP;23/05/2034;68455493855821
+223;Empresa do José;Alameda de S. Marçal, 57, 7021-950 Mangualde; Azeite;19576 g;42780;Portugal;42NX9Z1EKJ10;NODATE;34925542770652
+224;Empresa do João;Largo de Carneiro, 53, 1710-446 Bragança;Sabonete;43.95 kg;50808;Espanha;PGGA37JPNJRS;22/12/2033;82599134593976
+225;Empresa do João;Praça Sérgio Nascimento, 45, 1601-643 Santiago do Cacém;Vinho;6340 g;33374;China;9A686TYROHTK;13/08/2031;38715357787605
+226;Empresa Alfa;Alameda dos Cruzados, 37, 8534-488 Sines;Pão;4110 g;88857;Espanha;MKWQT8AGTLYA;22/01/2028;96958127528304
+227;Padaria Central;Av Soraia Pinho, 55, 3340-646 Trancoso;Madeira;2844 mL;83864;Itália;AQIS052HA2CM;30/12/2026;60950323865568
+228;Padaria Central;Alameda Hugo Pinto, 80, 8389-293 Barreiro;Vinho;15711 g;10778;Brasil;FP6UVB0UKN2Y;NODATE;83249966836807
+229;Global Tech;Rua do Sequeiro, 25, 7147-737 Fundão;Farinha;279.98 kg;94966;Espanha;RBCRKLW2ST8V;01/01/2026;90506890825282
+230;Empresa do João;Alameda Leandro Teixeira, 80, 9507-589 Guarda;Computador;6153 g;74338;Itália;AFWRL0MQE3HK;09/10/2029;80933753388576
+231;Têxtil Lusa;Travessa Torres, 722, 7790-645 Esmoriz;Pão;425.41 kg;43078;Espanha;VXM5P9GGQIYA;23/04/2028;53961652404757
+232;Empresa do José;Largo Guerreiro, 24, 7777-067 Ílhavo;Vinho;637 un;82121;Alemanha;HDN6RTOZNTIE;03/06/2028;34214670287900
+233;Têxtil Lusa;R. José Leal, 81, 1928-580 Silves;Vinho;519 un;89241;China;JHR6KQCNZBGD;06/10/2027;98057916093483
+234;Empresa do José;Largo das Andorinhas, 87, 3092-226 Paços de Ferreira;Cadeira;446.46 kg;94529;China;0QAFVLR5476K;29/10/2031;99876960271130
+235;Têxtil Lusa;Av de Luís António Verney, S/N, 2252-819 Rio Tinto;Sabonete;18020 mL;59282;Espanha;K0WE0FR0RQ4E;16/08/2034;49614954171018
+236;Padaria Central;Av Lopes, S/N, 5532-312 Ponte de Sor;Vinho;11085 mL;74735;Portugal;1TZCKX0FLSQ6;27/10/2026;16140039050167
+237;Móveis Raiz;Praça de Melo, 29, 3176-986 Vila do Conde;Farinha;443.12 kg;82737;Espanha;ZXOYHJ1R66VV;16/08/2030;58401358978215
+238;Empresa do João;Rua Adriana Pereira, S/N, 1641-534 Mêda;Camisola;457.82 L;82440;Brasil;ELJ0SFM3I38B;20/10/2032;92217089706956
+239;Empresa do João;Alameda Nogueira, S/N, 5766-237 Amora;Cadeira;2323 mL;29142;China;DPXL42DV2Q4R;NODATE;00779175094641
+240;Global Tech;Largo Vaz, 246, 8012-896 Mealhada;Vinho;17008 mL;79318;Alemanha;EFCBVS5ZQB8G;10/08/2025;55051595209213
+241;Química Duarte;Largo da Bela Vista, 127, 7149-731 Freamunde;Impressora;272.39 L;95411;Alemanha;PLSCJK7NLGZB;27/12/2029;00696932591602
+242;Química Duarte;Praça Fábio Mendes, 623, 4018-512 Anadia;Vinho;3310 g;36662;França;111OQQTQXKMD;26/03/2027;50805882241522
+243;Têxtil Lusa;Avenida Fernandes, 58, 0703-200 Santa Maria da Feira;Vinho;13373 g;93701;Alemanha;NXOG79Z8DWET;04/04/2035;41735297223654
+244;Global Tech;Rua do Carregal, 54, 6624-030 Lagos; Azeite;3109 g;37709;Portugal;FNL4J11G94NA;25/09/2033;68366468906646
+245;Empresa do José;R. de Reis, 630, 0248-980 Miranda do Douro;Computador;427 un;30789;França;S62WPCTZSBPW;01/02/2027;67193705104890
+246;Móveis Raiz;Praça André Assunção, 6, 0419-473 Pombal; Azeite;449.14 kg;51577;Espanha;R334X5878EQO;28/06/2030;75053904712351
+247;Empresa Alfa;Alameda de Gomes, 55, 0507-282 Santana;Pão;9190 mL;29422;França;CY8KPEXMM73L;27/10/2033;07017077783705
+248;Móveis Raiz;Avenida de Antunes, S/N, 8013-322 Santo Tirso;Madeira;19385 mL;88870;França;USOKIYCZVJ11;11/04/2031;05469073461995
+249;Padaria Central;Praça Neto, 23, 1840-555 Seixal;Madeira;56.37 kg;47775;Alemanha;90ZR7A3DUUO0;12/10/2025;41020047139515
+250;Empresa Alfa;Alameda Bryan Reis, 855, 8474-199 Olhão;Impressora;76.09 kg;31254;Alemanha;8QT8NHEV8FXJ;03/01/2026;73603244051111
+251;Padaria Central;Largo Ângela Lopes, 3, 2901-544 Braga;Camisola;15898 g;79033;Brasil;JG6BPHFUSUVH;05/05/2028;07326779750604
+252;Empresa do José;Alameda João Magalhães, 78, 7463-636 Paços de Ferreira;Madeira;150 un;64403;Alemanha;KTZ44YDXZTXS;13/07/2026;64311763321419
+253;Padaria Central;R. Professor José Conde, S/N, 3284-674 Viseu;Vinho;420.94 L;85899;Espanha;NHTL0TO5FG25;08/06/2035;46508573608018
+254;Móveis Raiz;Praça Garcia, 29, 0652-001 Braga;Camisola;79 un;96839;Alemanha;V2QNS4Q522LG;29/12/2033;03317342927718
+255;Padaria Central;Travessa Ismael Nunes, 389, 4363-429 Paredes;Cadeira;220.09 kg;54761;França;BI4QLF49AZKO;03/08/2033;48702191581667
+256;Móveis Raiz;Alameda da Igreja, 47, 0302-817 Almada;Farinha;2983 mL;78327;Alemanha;OK0DOX7JD2GS;NODATE;91369144756834
+257;Global Tech;Travessa Silva, 43, 7699-421 Funchal;Vinho;51.43 kg;81391;Espanha;BA3KYWLEU5DX;13/10/2029;37297809014504
+258;Química Duarte;Largo de Torres, 2, 6547-945 Vila Nova de Santo André;Impressora;36.77 kg;17540;França;NONF4Z26CJTK;05/11/2034;96905040172956
+259;Empresa do João;Avenida Mariana Simões, 7, 8803-789 Santa Maria da Feira;Cadeira;629 un;48128;Alemanha;E1FMVCWYDGCG;20/03/2031;93258003919874
+260;Empresa do José;R. Coelho, 359, 3824-810 Paços de Ferreira;Sabonete;1086 g;10984;Itália;TO7ODQI4VM58;16/09/2031;41025781152042
+261;Química Duarte;Largo de Branco, 72, 7200-211 Valpaços;Pão;13585 g;64523;Itália;B08TJF3MAQSP;31/01/2035;60997223424151
+262;Empresa do José;Travessa de Marques, 464, 8112-949 São Salvador de Lordelo;Madeira;11108 g;28971;China;K8F3S3O2UUM9;05/06/2026;86887850930256
+263;Têxtil Lusa;Avenida Henriques, S/N, 7363-816 Santo Tirso;Vinho;173 un;58166;Portugal;N36PSICWV4P9;15/01/2031;74148629077439
+264;Global Tech;Travessa Joel Amaral, 66, 8252-876 Ermesinde;Pão;206.01 L;57154;Brasil;VU6UUKQ2XMBQ;03/08/2033;71966150608170
+265;Empresa do José;Av Maria José Moura, 4, 4327-250 Peniche;Impressora;447.39 L;37519;China;4A8E2F2YI518;28/04/2033;36008576794042
+266;Têxtil Lusa;Rua Branco, 5, 7640-008 Santiago do Cacém;Vinho;232.76 kg;36297;França;V32B12DLNC76;NODATE;51652078389442
+267;Empresa do José;Av Nuno Machado, S/N, 6031-947 Loures;Vinho;9226 g;62738;Itália;1QXIPNMTU4FF;18/11/2030;72664797883354
+268;Química Duarte;Praça de Martins, S/N, 1259-431 Ílhavo;Pão;318 un;26960;Portugal;QYI6J2VZ1LBS;10/03/2027;30558576378394
+269;Global Tech;Avenida de Cunha, 449, 7710-221 Mangualde;Cadeira;136 un;59012;França;YB04SD7W0XSV;03/03/2031;01773700674672
+270;Padaria Central;R. de Lourenço, 996, 7742-343 Tarouca;Computador;358.71 L;68850;Espanha;DQP0PUO8BWB8;02/10/2033;96735249085847
+271;Empresa do João;Avenida de Branco, 3, 1682-327 Figueira da Foz;Impressora;3453 mL;87272;França;QL357FXOB2MI;12/05/2031;65408944336349
+272;Química Duarte;Praça Caetana Borges, 99, 0634-558 Freamunde;Madeira;5528 g;81406;Itália;MLFI4Q5YO5D5;07/08/2034;98201281560478
+273;Global Tech;Largo de Machado, 3, 6074-028 Cantanhede;Vinho;236.47 L;51627;Portugal;NAKDHLNJWFCE;24/11/2030;31931738374729
+274;Global Tech;Rua Marques, 18, 4866-459 Queluz;Sabonete;13380 g;81650;Alemanha;78D1MJ2TRMN7;28/11/2028;13705353801712
+275;Empresa do João;Travessa Miranda, S/N, 4231-464 Vale de Cambra;Pão;206.76 L;57663;Portugal;VEE3JXYK39DQ;NODATE;95812316844540
+276;Padaria Central;Rua Moura, 5, 9160-814 Trofa;Camisola;561 g;25328;Brasil;II4M5H15DR5A;NODATE;60429691049485
+277;Padaria Central;Av Bianca Amaral, 54, 6346-888 Figueira da Foz;Sabonete;10896 mL;18405;França;9IV5CCYUYRG7;18/07/2033;16418323563634
+278;Empresa do João;Rua Eduardo Prado Coelho, S/N, 4136-597 Tarouca;Vinho;22.08 kg;97099;China;ORZBACA53I7R;NODATE;67467167856100
+279;Têxtil Lusa;Avenida Kyara Pereira, 93, 3879-196 Seixal;Pão;138.8 kg;60442;Portugal;LH4BEXWTZI0E;19/02/2026;27055908872663
+280;Empresa do João;R. Lopes, S/N, 6243-491 Matosinhos;Impressora;32.22 L;62514;China;X38U9TCGI84X;29/09/2029;52693709285074
+281;Química Duarte;Rua Luciana Guerreiro, 70, 2222-570 Oliveira do Hospital;Sabonete;84.29 L;73860;Itália;KPREM7N2EYFU;03/10/2028;58513700526924
+282;Têxtil Lusa;Travessa de Matias, 10, 0447-860 Vale de Cambra;Madeira;810 mL;20258;Brasil;3XPO0W1EY7QL;03/01/2026;32743783066604
+283;Padaria Central;Alameda Denis Magalhães, 983, 7629-062 Lamego;Impressora;1683 mL;65006;Itália;00EL42YBTF8M;20/10/2028;84708326479793
+284;Empresa do José;Av de Baptista, 4, 6225-017 Braga;Sabonete;162.29 kg;59725;Itália;O291E8YW9OC5;07/01/2029;20298642897118
+285;Padaria Central;Rua Salomé Gaspar, 7, 0050-105 Queluz;Madeira;146.21 L;74406;Brasil;2LRSWEG13FFO;16/02/2031;72169690842941
+286;Empresa Alfa;Travessa de Gomes, 97, 3719-771 Ponte de Sor;Computador;292.23 L;62184;Itália;6BQ8O5R2J0P9;01/06/2033;12826014724713
+287;Móveis Raiz;Alameda Pacheco, 900, 3085-583 Santarém;Pão;9320 g;18777;Brasil;AT7FZJIOHW47;15/05/2035;40479417247261
+288;Móveis Raiz;Praça de Araújo, 78, 6561-960 Gafanha da Nazaré;Sabonete;19118 g;20933;Portugal;GG2FBTGQPM6I;24/02/2031;83375662632603
+289;Global Tech;Alameda de Reis, 93, 5147-016 Santiago do Cacém;Pão;199 un;46945;Itália;5CC9KNCN7QTX;12/05/2032;49412241855751
+290;Móveis Raiz;Alameda de Faria, 3, 7775-565 Covilhã;Madeira;154.87 kg;37841;China;2ELF7OPRUU7M;18/09/2029;26389903509774
+291;Têxtil Lusa;Avenida de Brito, 1, 7880-177 Freamunde;Madeira;10650 mL;65532;China;OB25VSZT2ULO;27/11/2028;01392884296797
+292;Empresa do João;Av Castro, S/N, 8730-952 Horta; Azeite;149.16 kg;21962;França;FF58ND6NQQ1A;03/10/2027;93621321943294
+293;Empresa do José;Travessa Ribeiro, 58, 7300-468 Vila Real de Santo António;Pão;1226 mL;89264;Alemanha;OI3BFEQ5DRK6;23/07/2030;78471481571713
+294;Empresa do José;R. de Sidónio Pais, 68, 3828-589 Almeirim;Vinho;48.08 L;26711;Brasil;4KDD6KX0T4EV;19/11/2027;62156411050395
+295;Química Duarte;Rua Érica Torres, 35, 5927-150 Covilhã;Farinha;9320 mL;75980;Portugal;GPXQ0KGBNMNS;09/08/2025;38083325505613
+296;Padaria Central;Av do Maestro Afonso Valentim, 55, 3987-633 Ílhavo;Madeira;142.33 L;54093;Itália;XTC5X5O5B36G;12/05/2035;99985351307521
+297;Empresa do José;Praça Andreia Maia, S/N, 7406-467 Angra do Heroísmo;Computador;16185 g;76995;Portugal;THRGZBAWH2X8;31/08/2029;00981069163554
+298;Padaria Central;Avenida Leandro Araújo, S/N, 9317-198 Lixa; Azeite;464.33 kg;45760;França;6QQCXROADZCK;04/04/2027;33891726334986
+299;Global Tech;Travessa de Oliveira, 42, 6113-652 Olhão;Farinha;193.61 kg;77325;Alemanha;QHY0ZC6W496Q;NODATE;14130221043715
+300;Empresa do José;Avenida Lia Barbosa, 91, 1253-730 Odivelas;Computador;411.36 kg;46194;Brasil;G5UG6ZDGEKVL;NODATE;03417815088818
+301;Empresa Alfa;Rua do Barcal, 361, 0920-925 São João da Madeira;Vinho;243 un;12219;Espanha;5R3CQXXYM0O1;01/01/2031;61914595041119
+302;Empresa do João;Largo de Valente, 71, 2164-151 Marco de Canaveses;Cadeira;9032 mL;42375;Itália;T3260HJJ9AKW;10/10/2026;12300891592493
+303;Empresa do José;Largo Paris (Nascente), 2, 2489-419 Esmoriz;Farinha;96 un;97887;China;M2BR76AZEV47;31/12/2026;22138108393999
+304;Empresa Alfa;Praça Ferreira, 10, 6153-186 Câmara de Lobos;Madeira;575 un;28356;Portugal;BKC3IEIQ1NMF;15/08/2026;88092792971114
+305;Empresa do João;Alameda Reis, 25, 4627-509 Vizela;Madeira;11620 g;62461;China;WQYBJKX81T2N;17/11/2034;47230475950651
+306;Global Tech;Largo Mauro Pinheiro, 41, 7139-449 Montijo; Azeite;128.89 L;37083;Alemanha;GCUWVEX9K8HQ;11/03/2032;78773977191944
+307;Empresa Alfa;Travessa de Carvalho, 2, 2991-683 Porto;Cadeira;465 g;14077;Alemanha;THHK6TASXXAN;19/05/2035;41398926959555
+308;Têxtil Lusa;Travessa Kevin Paiva, S/N, 0303-427 Alcobaça;Cadeira;9643 g;38504;Itália;2BEQO8L8WDML;15/03/2035;48510526998235
+309;Têxtil Lusa;Rua Jesus, S/N, 6151-797 Vila Nova de Santo André;Sabonete;6514 g;45568;Espanha;8J0LY1L7O7CK;12/12/2031;74704754960590
+310;Padaria Central;Alameda de Neves, 53, 4279-005 Vila Nova de Gaia; Azeite;491 un;12417;França;PN00ODFIHM2X;NODATE;33971950838306
+311;Empresa do José;Rua Pequeno, 246, 8850-052 Bragança;Cadeira;194.6 L;69202;Alemanha;WB0AD8WC8AC1;22/07/2025;61964354147742
+312;Móveis Raiz;R. de Antunes, 64, 5236-633 Porto;Computador;8871 g;38533;Alemanha;EJU9TVOJ6NYO;NODATE;28043571486602
+313;Global Tech;Alameda das Carquejeiras, 60, 0013-672 Gandra;Pão;19041 g;39265;Portugal;5CKQR20HKUSG;15/12/2029;66124450813112
+314;Empresa do João;Praça Ivo Faria, 71, 9138-988 Abrantes;Sabonete;484.08 L;85805;Espanha;34Z30TN9OUVU;23/07/2031;26726366376470
+315;Empresa do José;R. das Gáveas ao Parque das Nações, 59, 6563-516 Sines;Impressora;69.93 L;66703;Alemanha;BLPE0465KHFU;NODATE;97013550773818
+316;Empresa do João;Largo Maia, 52, 8907-079 Câmara de Lobos;Farinha;173.38 kg;69926;Portugal;7R5WXFY75RHS;31/01/2028;54599727645989
+317;Padaria Central;Largo Campos, 466, 1706-791 Vila Franca de Xira;Madeira;2976 mL;92061;França;GDN1C0HY0RIQ;25/08/2029;28285072299273
+318;Empresa Alfa;Rua Lopes, 94, 4771-203 Paços de Ferreira;Madeira;1306 mL;43880;França;W5JBDI4EWX16;30/01/2026;60216440595230
+319;Empresa do José;Av Constança Matias, 569, 4841-854 Porto;Camisola;661 un;31680;França;E4DJO1OXGAQY;31/01/2031;10016586487156
+320;Padaria Central;Largo de Paiva, 43, 5085-534 Câmara de Lobos;Pão;780 un;16862;Brasil;940MFZQH4QPH;NODATE;17799710768888
+321;Empresa do José;Largo de Freitas, S/N, 2930-151 Peniche;Farinha;353 un;22061;Portugal;BPDG324YA762;22/12/2026;98402026471853
+322;Global Tech;Praça do Recanto, S/N, 4016-037 Mealhada;Cadeira;175.92 kg;90628;Alemanha;KJRIWKDEM6WH;22/05/2027;39238424702083
+323;Empresa do José;Av de Ribeiro, 236, 0529-980 Odivelas;Pão;201.3 L;88114;China;MAACDWZAU78N;16/09/2032;97933944325344
+324;Têxtil Lusa;R. de Carvalho, 97, 2852-103 Paços de Ferreira;Cadeira;141.89 kg;41955;Portugal;E3F6ZBXJZKAD;17/05/2029;88397154734627
+325;Têxtil Lusa;Alameda Patrícia Simões, 1, 7868-987 Lourosa;Cadeira;204.71 kg;23989;Espanha;ONRWCN95Z8UQ;06/11/2034;60484071546108
+326;Empresa do José;Travessa de Cunha, 53, 7075-685 Oliveira de Azeméis;Sabonete;81.24 L;38698;França;UY3QBH1OF3OY;04/09/2030;95204020255671
+327;Empresa do João;Travessa de Torres, 33, 9850-875 Barreiro;Madeira;7626 g;43650;França;ZN49ESMFBN22;12/12/2032;86122568479856
+328;Empresa Alfa;Praça da Quinta de Santo António, 50, 7136-371 Reguengos de Monsaraz;Sabonete;7484 g;74335;Itália;LJVDB659S9S2;30/01/2033;19973531327138
+329;Química Duarte;R. Pires, 47, 2888-093 Tavira;Impressora;253.14 kg;45890;Portugal;SVDHJ01Q0LWQ;20/12/2033;11477746634568
+330;Empresa do José;Travessa do Freixo, 84, 2217-007 Loulé;Cadeira;945 un;65797;China;EQZ5FFEKD141;28/09/2034;31448792635858
+331;Global Tech;R. de Adelino Amaro da Costa, 305, 6431-426 Espinho;Vinho;11198 g;90778;Itália;60CM0RFS63GD;27/06/2027;68762838970149
+332;Empresa do João;R. Brian Magalhães, 39, 2034-468 Olhão;Pão;44.88 kg;61937;Brasil;CWIN9G4RGVNB;23/07/2030;90980237339937
+333;Global Tech;R. Érica Rocha, 66, 9707-424 Sacavém;Vinho;9083 g;54176;Portugal;QBD3TV6MIKPB;09/07/2027;15549836588364
+334;Química Duarte;Largo Leite, 97, 9076-503 Portalegre; Azeite;17532 mL;95454;Itália;SUNQLNKTTKTH;24/12/2025;97965119657445
+335;Empresa Alfa;Avenida Jaime Marques, 92, 5331-268 Gouveia;Pão;160.41 kg;89569;França;9IRSUFF2ZCXW;29/11/2027;04356502237106
+336;Global Tech;Rua Henriques, 4, 6893-162 Mirandela;Sabonete;450.01 kg;87306;China;5YKRTWDNGBMS;27/02/2030;90151319542662
+337;Padaria Central;Praça de Rodrigues, 54, 5257-144 Gafanha da Nazaré;Impressora;56.22 L;61772;Alemanha;JFDAP5Z6F587;29/08/2027;18845897870651
+338;Padaria Central;Rua Rodrigo Esteves, 43, 7167-932 Paredes;Madeira;14518 mL;19653;França;I0H9QW1U0O0R;14/06/2033;01466566574497
+339;Empresa do José;Avenida de São Francisco, S/N, 7492-454 Macedo de Cavaleiros;Vinho;574 un;71183;Alemanha;F6IGXHB1L955;NODATE;07414552441356
+340;Química Duarte;Praça Campos, S/N, 4342-901 Entroncamento;Computador;238 un;88375;Alemanha;JGCRZJKOVTEU;08/06/2026;30211888897129
+341;Têxtil Lusa;Av Ariana Nogueira, 13, 8562-054 Gandra;Sabonete;104.46 L;45311;Itália;UXE9995RELLV;22/12/2027;41133825271640
+342;Global Tech;Largo Carneiro, 6, 0971-399 Bragança;Sabonete;495 un;63771;Itália;C47NGQVQEIHH;25/04/2029;51978538950741
+343;Padaria Central;Praça Leite, 5, 3787-273 Seia;Pão;375 un;14155;Portugal;JOCFMEG0X0MT;11/01/2034;94127805329352
+344;Global Tech;Av Mélanie Matos, S/N, 9443-615 Elvas;Cadeira;2828 g;69507;Portugal;04X3M0OS0T0O;01/12/2028;23290038773126
+345;Global Tech;Travessa Fabiana Miranda, S/N, 5955-261 Alverca do Ribatejo;Farinha;12617 g;65391;França;298NS1JOKQM9;21/07/2030;99322612289017
+346;Têxtil Lusa;R. do Picoto, 34, 9381-559 Entroncamento;Madeira;13720 g;87668;China;TJ5HKTE82NSY;08/05/2035;69616936237678
+347;Química Duarte;Largo Cruz, 60, 1594-813 Alverca do Ribatejo;Cadeira;281.27 L;75836;Alemanha;REVQNC8DKFG4;04/07/2033;17604718870394
+348;Têxtil Lusa;Alameda Maia, 785, 6729-746 Setúbal;Farinha;27.37 kg;71978;Espanha;D2KTV573SBAG;31/10/2025;73284453836279
+349;Empresa Alfa;Avenida Adriana Garcia, 77, 5742-573 Guarda;Sabonete;173 un;47647;China;RKGFDZVUDUVX;NODATE;37004973733912
+350;Padaria Central;Av das Japoneiras, 66, 2564-407 Oliveira do Bairro;Computador;213.62 kg;97511;China;AXQGFFE3MPZK;NODATE;11698570402181
+351;Química Duarte;Avenida Oliveira, 167, 9277-381 Barreiro;Vinho;376.29 kg;53360;China;JIFUZCWCPHVS;NODATE;74034602208603
+352;Padaria Central;R. dos Flamingos, 22, 3221-561 Santa Cruz;Impressora;201 un;44092;China;7K7EYH5OQXZ6;14/08/2029;31617251463204
+353;Empresa do José;Travessa S. Bartolomeu, 7, 8763-026 Lagoa;Sabonete;333 un;85486;Itália;JYA402Q80OR3;15/04/2035;48297874731204
+354;Empresa do José;Alameda Barros, S/N, 0220-199 Horta;Impressora;492.66 L;61748;Espanha;5XL85CB9P4ER;NODATE;83710609108882
+355;Global Tech;Rua de Fonseca, 13, 4123-669 Cantanhede;Cadeira;13055 mL;53775;Itália;ZY4GARDMA3VZ;20/08/2025;04651495192978
+356;Global Tech;R. Melo, 3, 3382-178 Costa da Caparica;Impressora;19 un;61504;Espanha;DFQ1STTIQ8KJ;26/05/2026;49085892180815
+357;Global Tech;Rua Oliveira, 2, 7651-786 Santo Tirso;Camisola;106.82 kg;79998;Alemanha;CKN3A19J48MI;11/06/2026;78509473132526
+358;Química Duarte;R. de Figueiredo, 25, 1664-373 Costa da Caparica;Camisola;294.4 kg;62486;Brasil;FG9Z7NOBY0WZ;NODATE;14422646845288
+359;Empresa Alfa;Av de Matias, 44, 3023-890 Reguengos de Monsaraz;Vinho;14018 mL;67399;Portugal;XXR4H40VTO2M;14/09/2029;21914757403167
+360;Química Duarte;Alameda de Batista, 916, 1950-029 Beja;Madeira;14870 mL;73380;Itália;WE54NZPEZHGA;24/11/2032;94376238883562
+361;Empresa do João;R. Tatiana Pinho, S/N, 7235-168 Tomar; Azeite;15587 g;98821;França;84XGR8UBWEB8;30/06/2031;51707037333331
+362;Empresa Alfa;Praça Simão Faria, 53, 6367-078 Peniche;Sabonete;14506 mL;99645;Espanha;UJKHSSTKIKSU;05/02/2034;82592739171111
+363;Empresa do João;Travessa Rita Ribeiro, 5, 6807-663 Amarante;Impressora;393.76 kg;95606;Brasil;HDE9DEM999DF;14/07/2027;23336726281205
+364;Química Duarte;Av de Magalhães, 7, 4933-918 Porto;Madeira;15536 mL;90807;Itália;1AH4PUKID3J7;25/04/2028;34299202978379
+365;Padaria Central;Largo D. Carlos I ao Parque das Nações, 288, 7540-246 Anadia;Impressora;247 un;51426;Espanha;9GQ7VQJM7ROD;NODATE;02381930636099
+366;Empresa Alfa;Avenida Vaz, 43, 7669-553 Viana do Castelo;Impressora;344.71 L;84741;Itália;1ZGLXL8WTIAF;09/11/2025;38382551570911
+367;Global Tech;Travessa Ferreira, 41, 4254-481 Valpaços;Camisola;385 un;45416;Brasil;UAN73C88SV9L;30/11/2031;48740770752808
+368;Empresa do João;Alameda Lia Cruz, 31, 0555-762 Funchal;Madeira;266 un;67646;França;H5S6YG3GPFMN;14/09/2034;32613903858796
+369;Móveis Raiz;Rua Alexandra Matias, 78, 9814-856 Pombal;Sabonete;139.63 kg;94486;China;UGNJJMOD6CXT;07/06/2030;32029339761351
+370;Padaria Central;Praça de Pinto, 151, 0148-632 Bragança;Farinha;498 un;16384;Itália;6UDCUU1PAM5S;NODATE;71073132703055
+371;Móveis Raiz;Travessa de Henriques, S/N, 1769-286 Évora;Impressora;48.42 L;11033;Brasil;HSFTZ6IOFV8V;12/05/2028;20828112586948
+372;Móveis Raiz;Rua Guerreiro, 271, 2319-561 Valpaços;Madeira;216 un;19306;Brasil;F3LF9LIMJDEQ;28/03/2026;83495631144076
+373;Empresa Alfa;Travessa Campos, 82, 8740-127 Tondela; Azeite;38.29 L;65042;Brasil;3Q768GFBXZVO;15/09/2033;60155996327121
+374;Padaria Central;Largo Castro, 41, 6947-827 Moura;Vinho;130 un;77416;França;O589B8TNEBTG;27/12/2033;21036667087044
+375;Móveis Raiz;Praça de Santos, 68, 6157-900 Lisboa;Cadeira;267.47 L;78146;França;CZD8QY69S0J0;20/01/2029;36920761736657
+376;Móveis Raiz;Praça Henriques, S/N, 9219-041 Caniço;Sabonete;15238 mL;40997;China;4HGA0AEZJYCF;14/03/2030;60371701550629
+377;Móveis Raiz;R. de Morais, 54, 4768-309 São Salvador de Lordelo;Sabonete;59.88 kg;82983;Brasil;1A72SNXMMM5W;09/05/2029;27812085194224
+378;Móveis Raiz;Rua Monteiro, 6, 1176-105 Torres Vedras;Vinho;2486 mL;64355;Alemanha;TSW5AYOCP85A;NODATE;08382250551322
+379;Empresa do José;Avenida de Carvalho, 68, 3194-066 Portimão;Pão;16537 g;66218;Portugal;WIIRAW2MCUZ7;18/03/2029;49650248536681
+380;Empresa do João;Avenida Pinto, 4, 6315-425 Torres Vedras;Vinho;455.83 L;93236;França;SY6PCBB7WOLN;NODATE;65718611361005
+381;Global Tech;R. do Borratém, 126, 2986-891 Viseu;Impressora;16264 g;74537;França;33GA5MP085AU;27/11/2027;22341183171359
+382;Móveis Raiz;Av Nicole Magalhães, 67, 2514-197 Sacavém;Sabonete;11141 g;23139;Alemanha;M01CQT1XPF51;22/07/2030;12631784219371
+383;Global Tech;Av de S. Lázaro, 3, 5133-276 Paços de Ferreira;Pão;19643 g;29010;Alemanha;M66XVCDXOHGG;08/09/2026;33087751974230
+384;Empresa Alfa;R. Monteiro, 83, 0027-795 Lisboa;Pão;211 un;13359;Itália;S2MIYFZQA2UK;20/04/2027;10431231164131
+385;Têxtil Lusa;Avenida Alícia Valente, S/N, 4037-280 Ílhavo;Sabonete;159 un;86900;Portugal;FN6Y5M9G4MP6;28/08/2025;52423035446986
+386;Empresa do João;Rua Pereira, S/N, 5112-183 Abrantes;Camisola;601 un;58043;Portugal;QRJYGO8CUI3B;23/01/2030;80504380042024
+387;Padaria Central;Avenida Araújo, 8, 5308-644 Lagos;Vinho;8518 g;45293;Alemanha;2UPUVSD9T1MW;18/12/2034;18012830366479
+388;Têxtil Lusa;Av Kyara Mendes, 2, 1610-498 Santa Maria da Feira;Cadeira;253.73 kg;59312;Brasil;L2B1TTO5S6CO;NODATE;19031609428507
+389;Empresa Alfa;Largo de Cardoso, 35, 8443-358 Abrantes;Madeira;105.83 kg;77629;Alemanha;AYR789ATBDIZ;30/08/2026;15508237080504
+390;Móveis Raiz;Largo de Vieira, S/N, 2229-507 Esmoriz;Cadeira;382.78 kg;12020;China;I5BDJ0QTIHUL;11/12/2028;37980840985265
+391;Química Duarte;Av de S. João da Foz, 13, 3953-351 Santa Maria da Feira;Farinha;10201 g;73187;Espanha;KUECPY0D063W;24/01/2026;76292833825940
+392;Móveis Raiz;Av de Nascimento, 711, 1412-983 Peso da Régua;Vinho;12927 mL;67469;China;JVINT9033Y6Q;NODATE;68643898564001
+393;Empresa Alfa;R. de Nunes, 365, 2944-463 Évora;Sabonete;16214 mL;32133;Alemanha;RC0ZFPUVD4TT;27/06/2032;85143279898683
+394;Empresa do João;Alameda Júlio Verne, 68, 4019-758 Santo Tirso; Azeite;420 un;50628;Espanha;SWL4GT7O51AU;14/10/2030;09937949049841
+395;Empresa do José;Rua Fonseca, 970, 9752-144 São Mamede de Infesta;Farinha;3778 g;74203;China;IS4X8Z1KO5YK;NODATE;62978988141025
+396;Química Duarte;Alameda Rocha, 2, 2804-399 Castelo Branco;Cadeira;139.34 kg;80726;Espanha;DMV8ZC2AY0QH;NODATE;58983376077694
+397;Empresa do João;Av de Leal, 10, 2434-113 Fátima;Vinho;879 un;57866;Alemanha;6GG14KM9R17T;10/07/2027;57315892026207
+398;Empresa do João;Avenida Nogueira, 19, 0783-838 Ribeira Grande; Azeite;17821 mL;74603;Brasil;C4I6H27BTMFD;05/02/2028;39213287093427
+399;Têxtil Lusa;Travessa de Amorim, S/N, 3762-303 Figueira da Foz;Sabonete;2364 mL;63794;China;2PX9HLPDKCR9;17/12/2031;37801081385142
+400;Têxtil Lusa;Travessa do Conde de Óbidos, 17, 0900-918 Costa da Caparica;Sabonete;781 un;81516;Portugal;X9YXMGEKDAON;08/08/2032;07429123105639
+401;Empresa do João;Avenida Correia, 91, 2355-133 Pombal; Azeite;112 un;38705;Itália;9T4BV20ST06L;15/06/2030;69103859164323
+402;Química Duarte;Avenida Castro, 25, 1196-469 Sabugal;Impressora;97.46 L;29703;Itália;FLWSNMH88HYP;06/09/2032;98912631821756
+403;Química Duarte;Avenida de Moreira, 9, 6276-450 Tomar;Impressora;17439 mL;56696;Portugal;T6SEGFMP3BT0;15/11/2033;31960210837373
+404;Global Tech;Praça Lourenço Neves, 20, 7681-500 Fundão; Azeite;662 mL;46759;Brasil;6Y9TJYYLB1YJ;16/07/2029;79312609742607
+405;Têxtil Lusa;Avenida de Lopes, S/N, 3548-633 Vila Nova de Famalicão;Vinho;1813 g;95545;Portugal;FT73WE311UJG;15/02/2035;17640983998106
+406;Global Tech;R. de Caselas, 16, 1410-082 Figueira da Foz; Azeite;209.82 kg;91335;Itália;7EW6IRMQI38P;23/03/2028;71625157326925
+407;Padaria Central;Largo Nunes, 66, 2387-467 Leiria;Vinho;231.48 L;50239;China;RMZYJ2EPLLKV;26/05/2029;50051072034990
+408;Empresa Alfa;Travessa de Paiva, 75, 0457-976 Vila Nova de Gaia;Sabonete;18910 mL;69297;França;USWCTQYET2PX;23/02/2030;07828735092543
+409;Empresa do João;Travessa Luciana Freitas, 372, 8339-041 Santa Cruz;Impressora;84 un;47915;Brasil;U8Y9ICXHGLDJ;17/05/2035;99788341617461
+410;Padaria Central;Largo da França, 84, 1487-235 Estarreja;Cadeira;707 un;30833;Itália;CR1K7EGZ4DN3;21/12/2025;40244785586414
+411;Empresa do João;Largo Monteiro, 2, 7340-748 Reguengos de Monsaraz;Pão;9539 g;94094;Espanha;S7ASCOH9Y4DG;06/10/2026;82928044994947
+412;Empresa do João;Avenida Freitas, 18, 7532-361 Ermesinde;Pão;379.74 kg;30134;China;TGDDSOTYVXX4;NODATE;50573132991663
+413;Padaria Central;Rua de Assunção, 6, 3330-949 Fátima;Camisola;964 un;22228;Itália;C10EZ14264PN;21/04/2033;33209513677827
+414;Padaria Central;Praça Nascimento, 73, 7060-104 Aveiro;Cadeira;562 un;11776;Itália;JOY1Y0Z0XPAM;NODATE;11760321818508
+415;Móveis Raiz;Alameda de Matos, 9, 6593-854 Montemor-o-Novo;Pão;803 un;73915;Espanha;02EG21J13IZ2;11/05/2026;36752383921629
+416;Empresa do João;Av de Machado, S/N, 9037-147 Santa Cruz; Azeite;791 un;49873;Brasil;6DLELEMFDI0D;08/06/2029;17869579413967
+417;Móveis Raiz;Travessa de Esteves, 29, 9502-997 Praia da Vitória;Farinha;316.75 kg;25085;Brasil;T54QCPNRJC69;28/06/2030;68032749158457
+418;Têxtil Lusa;R. Amaral, 3, 2509-980 Lisboa;Impressora;4346 g;34497;Alemanha;574YTYV0MVFC;09/01/2026;65057658062691
+419;Móveis Raiz;Largo Machado, 40, 1944-884 Esmoriz;Madeira;170.19 L;37502;Brasil;M69AQ1CTEXPT;12/02/2027;28825188702279
+420;Empresa do José;Avenida Loureiro, 1, 0631-340 Sines;Camisola;5883 mL;61592;Alemanha;CWQGK0EOMTZ0;05/12/2034;08711363024581
+421;Padaria Central;Avenida Prof. Francisco Caldeira Cabral, 33, 3281-666 Vila Franca de Xira;Madeira;258.07 kg;28734;China;DWGYKQ9LF22C;30/06/2032;01223211529580
+422;Móveis Raiz;Praça Vieira, 11, 6637-194 Angra do Heroísmo;Impressora;149 un;38845;China;YV6YGSA9ZPL9;16/10/2026;46704661385360
+423;Têxtil Lusa;Rua de Monteiro, 85, 1902-172 Tavira;Computador;306.59 L;19462;Espanha;EVB8WSGWOGH7;25/02/2032;45422452902584
+424;Empresa do José;Travessa Paiva, 82, 0425-575 Marinha Grande;Computador;14936 g;63610;Portugal;0ZFC8IYN8TSF;NODATE;10699919356103
+425;Empresa do João;Av Tristão da Silva, 3, 7227-533 Porto;Farinha;9864 mL;88088;Alemanha;OHLYH36TED2R;23/05/2028;06469103438509
+426;Têxtil Lusa;R. de Marques de Oliveira, 61, 8465-244 Lixa;Camisola;433.64 kg;24489;Espanha;D6BR7KP6FE37;03/02/2033;58364995900022
+427;Empresa do José;Av Luna Gonçalves, 6, 9106-705 Serpa;Impressora;466.64 kg;84103;Brasil;Q1IB2261WD3X;27/12/2027;05455551061347
+428;Empresa do José;Av de Loureiro, 769, 2778-905 Chaves;Camisola;18053 mL;56216;Portugal;EIBUEA1MBJXF;30/03/2027;35055100388098
+429;Empresa Alfa;Largo Victória Pinto, 14, 2802-666 Agualva-Cacém;Camisola;9868 g;46681;Itália;R4LHR18RY2JU;02/10/2033;26270420061825
+430;Padaria Central;Largo Moreira, S/N, 2802-582 Tondela;Impressora;358.37 kg;99362;Brasil;F8U777TXE084;NODATE;93117528741100
+431;Global Tech;Alameda Martins, 114, 0774-649 Amora;Cadeira;2143 g;21307;Portugal;PXX8TWWA9W32;21/03/2029;53547631248166
+432;Padaria Central;Largo Machado, 39, 4749-177 Viseu; Azeite;409.18 L;71366;Portugal;48IV8AGI4JN4;06/12/2030;59179297154676
+433;Móveis Raiz;Alameda Marcos Correia, 68, 5412-789 Póvoa de Santa Iria;Cadeira;991 un;85942;Alemanha;2L57I0GIWHXA;16/05/2028;35574712058342
+434;Padaria Central;Travessa de Monteiro, S/N, 9166-034 Maia;Impressora;601 un;33807;França;IWNW2KTF8RZB;21/04/2027;75731141208639
+435;Móveis Raiz;Alameda Yasmin Batista, 77, 4089-127 Oliveira de Azeméis;Impressora;4419 g;65551;Itália;TUJ9UM4FCJG6;17/05/2031;09333975724046
+436;Empresa Alfa;Largo de Rodrigues, S/N, 3144-577 Estremoz; Azeite;249.51 kg;77614;Brasil;6XRUX9VZXHDT;10/08/2031;44260900568258
+437;Têxtil Lusa;Praça de Gonçalves, 31, 6282-204 Vila do Conde;Impressora;0.64 L;34349;China;CKQQMZ1NELEF;11/11/2032;70583406077600
+438;Global Tech;Largo de Pinho, S/N, 3348-962 Viseu;Pão;223.32 kg;97947;Espanha;G2XDR0KHXVPI;28/02/2035;97402708802306
+439;Empresa do José;Largo Nunes, 6, 2469-340 Seixal;Impressora;266 un;58644;Alemanha;UWY1SP2ROMAC;28/07/2026;00885867831169
+440;Empresa do José;Avenida Nair Moura, 762, 9738-385 Peso da Régua;Pão;55.06 L;47997;Espanha;YMLZ8XESQIBQ;11/08/2033;39073319508679
+441;Têxtil Lusa;R. de Mota, 29, 4154-394 Lagoa;Vinho;8321 mL;73457;China;YD23D3E3B1AM;26/08/2030;95579508753254
+442;Química Duarte;R. das Naus, S/N, 1198-926 Guimarães;Sabonete;408.64 kg;40418;Espanha;G8VE3ZYQXL31;NODATE;25850555527438
+443;Empresa do José;Praça Bárbara Coelho, 21, 0140-853 Castelo Branco;Farinha;738 un;29292;China;0CF05JDKZB8W;29/08/2032;70374578339934
+444;Global Tech;Avenida de Macedo, 30, 7802-835 Penafiel; Azeite;19250 g;89314;França;I2FQ9P95KYL5;NODATE;82863744019845
+445;Global Tech;Praça Mélanie Assunção, 47, 6067-847 Ourém; Azeite;16411 mL;49587;Brasil;X3WFNXILIYCH;NODATE;99765437061743
+446;Global Tech;Alameda da Boa Viagem, 93, 2827-909 Seixal;Farinha;187.67 kg;88541;Brasil;AV96UZAAFDGN;08/02/2029;80308410166683
+447;Têxtil Lusa;R. Ivan Neto, 6, 7367-447 Cantanhede;Pão;700 un;44942;Itália;04PV70XQ6KVV;14/09/2028;70804128102185
+448;Têxtil Lusa;Alameda da Agra do Amial, 4, 2391-983 Praia da Vitória;Vinho;556 un;33278;França;9SYM4WJ6B289;29/04/2030;48128515879413
+449;Móveis Raiz;Rua República da Colômbia, 600, 3028-911 Sacavém;Impressora;249.12 L;88992;Brasil;HIIC5YAUDK8Z;06/06/2028;54197770727616
+450;Empresa Alfa;Praça dos Mártires da Pátria, 7, 4644-429 Paredes;Computador;477 un;15033;Brasil;JR0UA7ZNYT7D;23/08/2034;23405574133051
+451;Móveis Raiz;Largo Tavares, S/N, 7143-407 Ourém;Farinha;351.91 L;81709;Alemanha;XNN6E6DUH49Y;NODATE;20774190260328
+452;Empresa Alfa;Largo Reis, S/N, 0563-408 Loures; Azeite;19452 mL;72766;Brasil;UR4R22YB04AF;NODATE;24121844137063
+453;Química Duarte;Largo de Santos, 11, 2203-520 Chaves;Farinha;475 un;20400;China;ZRDYAJYDXS9S;20/07/2034;21792993676049
+454;Global Tech;Avenida da Música, 405, 0976-060 Angra do Heroísmo;Madeira;176.23 kg;80384;Itália;AMN9L6RAVUDP;21/06/2030;24543053218337
+455;Química Duarte;Av Andrade, 58, 8576-119 Amarante;Vinho;455.52 kg;70462;França;U8HYWURYBBGT;22/03/2035;78520918150103
+456;Empresa Alfa;Travessa Eva Neto, 613, 1379-680 Vila Nova de Gaia;Madeira;354.65 L;57067;Alemanha;JQRQ9QI1BKJ3;16/12/2029;66851947660572
+457;Empresa do José;Alameda Gaspar, 95, 4970-551 Vila Nova de Santo André;Camisola;489.39 L;43047;Portugal;69CSLS2R8YXS;19/07/2033;48471159935887
+458;Empresa Alfa;R. de Soares, 92, 7917-411 Agualva-Cacém;Cadeira;3757 g;22736;Alemanha;7P72APAX0LER;06/03/2033;78463704945110
+459;Têxtil Lusa;Avenida de José Régio, 23, 1441-649 Horta;Madeira;383.5 kg;39357;França;KNJ9VS25N2LC;16/03/2031;31123262869302
+460;Global Tech;Largo Correia, 417, 0907-984 Sacavém; Azeite;284.06 kg;51898;Itália;W0V678FXN6X8;NODATE;74485174661658
+461;Empresa do José;Travessa do Codeçal, 11, 3830-254 Santa Cruz;Farinha;211.89 L;93990;Alemanha;IYSMOSRSU3ED;25/03/2031;48388475927229
+462;Móveis Raiz;Travessa de Eduardo Soares, 742, 6106-413 Mealhada;Vinho;4147 g;16256;França;PV3IHAJDO09R;24/06/2032;99809517429822
+463;Têxtil Lusa;Alameda Jaime Tavares, 460, 7352-834 Oliveira de Azeméis;Pão;216.95 kg;14510;França;I4JVE9UY1F73;26/10/2027;91165361209651
+464;Química Duarte;R. Diana Andrade, 79, 2812-807 Lamego; Azeite;117.56 kg;96807;Alemanha;QD9ZXHRV05PX;05/05/2034;15979693580713
+465;Química Duarte;Alameda de Assunção, 82, 1341-773 Lamego;Camisola;19446 mL;58277;Itália;KS30K8T7XKUQ;11/10/2031;21385133605092
+466;Global Tech;Praça Machado, 56, 2062-571 Alcobaça;Impressora;184.53 kg;77402;Espanha;AWU7JH8Y6EJ6;19/05/2029;56007622251467
+467;Global Tech;Rua Lourenço Oliveira, 381, 2062-212 Estremoz;Madeira;662 un;84595;Portugal;CVB7QMAFNTYU;01/07/2033;69254369345346
+468;Móveis Raiz;Avenida de Sousa, 67, 3926-758 Ovar;Impressora;140.89 L;51299;França;MQ1RDAFDCP7E;01/08/2027;94759602471835
+469;Têxtil Lusa;Largo de Cardoso, 592, 5904-501 Mangualde;Vinho;11158 g;73407;França;CLOSHSDTVL1L;12/04/2026;55645069908356
+470;Empresa do José;Largo Carolina Michaelis de Vasconcelos, 796, 0994-407 Fiães;Sabonete;1879 mL;78103;Itália;G9004KAOO1HT;14/11/2033;71179432604794
+471;Química Duarte;Travessa Silva Porto, 438, 0837-988 Bragança;Pão;15833 g;43242;França;3GY31V5MFZF6;29/04/2026;20318889429917
+472;Têxtil Lusa;Travessa de Branco, 39, 0382-587 Matosinhos;Madeira;17070 g;15179;China;0XU6ER1QFURR;28/10/2033;79299336875360
+473;Global Tech;Travessa Bruna Rocha, 83, 3644-569 Praia da Vitória; Azeite;143.74 kg;86622;Itália;SIZ0H89SXYIX;18/11/2033;45899479397734
+474;Têxtil Lusa;Largo de Pinto, 70, 6685-665 Portalegre;Vinho;7174 g;46072;Itália;LKYC09SCEQI3;26/10/2033;71411130293156
+475;Química Duarte;Av de Batista, S/N, 7937-164 Marco de Canaveses;Impressora;483.65 kg;83269;China;HE7TPWYVTIF7;05/07/2030;35017321298874
+476;Global Tech;Alameda de Carvalho, 19, 3783-712 Lisboa;Impressora;356.49 kg;90053;França;NU342N6YUAO2;19/05/2031;07879048321442
+477;Empresa Alfa;Alameda Alícia Nunes, 88, 5744-496 Funchal;Sabonete;19.45 kg;93572;Brasil;T1QFBBQRIUGU;12/07/2032;09241237731545
+478;Química Duarte;Travessa Reis, S/N, 2585-136 Olhão;Sabonete;7715 g;37283;Itália;1DX072SM2GX6;30/05/2035;51124341635102
+479;Padaria Central;R. Lima, 54, 8385-651 Barcelos;Impressora;485.1 kg;76135;Alemanha;PYJJITGQL3ZE;NODATE;11040563198496
+480;Química Duarte;Largo Leite, 58, 1184-698 Santarém;Farinha;428.32 L;66390;China;K13EQ1FQ1ULJ;NODATE;27166601508632
+481;Empresa do João;Avenida de Esteves, 48, 1899-828 Rio Tinto;Sabonete;302.69 kg;67080;Alemanha;AJI5ITC5E3VE;02/06/2033;18961555249839
+482;Têxtil Lusa;Alameda Benedita Costa, 54, 6996-453 Valongo;Madeira;723 un;28583;China;P1ED0ALVB3XQ;07/12/2027;13210917911860
+483;Têxtil Lusa;Rua de Cintura Interna, 276, 8318-540 Rio Maior;Madeira;888 un;18680;Portugal;JR7MMTG2GVFW;17/01/2027;78910671580065
+484;Móveis Raiz;Rua do Carvalhido, 687, 3160-034 Braga;Vinho;1492 g;79284;Itália;BGQ5IXVI4ZE0;15/06/2027;56058591563438
+485;Empresa do João;R. Coronel Marques Júnior, 61, 9169-487 Tavira;Vinho;8245 mL;13285;Espanha;ZGA0A1MJXU4H;10/06/2032;91730483709743
+486;Móveis Raiz;Largo Tiago Henriques, 92, 1207-271 Estremoz;Farinha;74.41 kg;54760;Espanha;G7S9SAOX599W;17/11/2029;25303306395691
+487;Têxtil Lusa;Av Correia, 23, 6623-708 Ermesinde;Farinha;0.21 kg;62694;Espanha;4K0OJR5F22GM;02/06/2032;49234940185965
+488;Têxtil Lusa;Avenida Pinheiro, 31, 1353-594 Póvoa de Varzim; Azeite;8238 g;79930;França;H5ZCOB3KPEW1;NODATE;68543021157817
+489;Global Tech;Alameda Costa, 7, 4425-730 Fafe;Camisola;181 un;53143;Espanha;NW5JWRX4SGC0;20/02/2031;68830154832747
+490;Têxtil Lusa;Travessa César Almeida, 660, 2734-763 Costa da Caparica; Azeite;292.3 kg;19132;Alemanha;7E0IY1PNCVFN;08/02/2029;05235267939912
+491;Química Duarte;Rua de Magalhães, 64, 6393-702 Gafanha da Nazaré;Farinha;19259 g;82524;China;TSEYX15O7DDU;17/06/2028;59336869679035
+492;Padaria Central;Alameda Freitas, 84, 6919-355 Lagos;Madeira;6809 mL;93558;Alemanha;X2KAZAO8TRNM;05/03/2028;69435663278133
+493;Móveis Raiz;Av de Esteves, 92, 7142-331 Santa Comba Dão;Pão;6482 mL;77834;Brasil;BSC2IMF4FKHU;10/04/2033;78908531597334
+494;Móveis Raiz;Rua do Monte Cativo, 8, 6236-071 Quarteira;Computador;11337 mL;44130;Portugal;SUX01FVGD4JW;22/11/2032;48002444906355
+495;Têxtil Lusa;Alameda do Tronco, 26, 7509-770 Alcobaça;Farinha;11272 mL;38654;Itália;1AAUH4E2BHUQ;NODATE;84884111869967
+496;Padaria Central;Avenida Matilde Bensaúde, S/N, 3379-643 Santo Tirso; Azeite;904 un;31505;China;J7LE8KQPLDNG;20/04/2029;00294117233443
+497;Têxtil Lusa;Praça Carneiro, 86, 1443-712 Évora; Azeite;439.6 L;78643;Alemanha;5UK3Z2QLXF7D;NODATE;77124818134903
+498;Empresa do João;Avenida de Melo, S/N, 7624-288 Sintra;Sabonete;4310 g;44653;Portugal;E9GMOAP3CCHN;NODATE;84763730419578
+499;Global Tech;Av Cardoso, 2, 2224-444 Fátima;Camisola;3539 g;71025;Brasil;FAIZ02531XQW;03/05/2031;01081204691006
+500;Móveis Raiz;Avenida de Batista, 2, 6224-515 Lamego;Madeira;8897 g;89974;Alemanha;NM8AIQ7N7L3K;31/05/2029;27250525721246
+501;Empresa do José;Avenida de Teixeira, 351, 1298-192 Amora;Farinha;218.36 L;49792;China;0TSUK1K969WC;10/11/2026;97459874865527
+502;Móveis Raiz;Largo dos Pinheiros, 58, 4451-651 Rio Tinto;Madeira;312.23 kg;15241;França;5GR5WSIQRR77;14/02/2032;27293563713975
+503;Móveis Raiz;Largo Jesus, 10, 8205-884 Marinha Grande;Madeira;427.74 kg;47941;Brasil;XXMXX0M33QG0;15/06/2031;40114837020901
+504;Empresa do João;Rua Vicente, 42, 9328-550 Alverca do Ribatejo;Impressora;282.17 kg;34006;China;YD1POVC5FE4R;24/06/2029;08195373477595
+505;Móveis Raiz;Alameda de Guerreiro, 57, 4982-345 Lourosa;Madeira;129.06 kg;25573;Brasil;GV8QYN6V40IE;02/08/2033;65947371435214
+506;Empresa do João;Alameda Clara Vaz, 25, 4826-505 Figueira da Foz;Madeira;3634 g;88879;China;3A0IZ8EVYR5G;17/08/2030;69079008750967
+507;Padaria Central;Alameda de Amaral, 298, 6321-882 Torres Vedras;Sabonete;10591 mL;13243;Brasil;TRBYIE8DV10Q;18/07/2030;20822534974081
+508;Têxtil Lusa;Travessa Anita Cardoso, 69, 5958-639 Câmara de Lobos;Computador;9.99 L;98063;Itália;YC0C89YRRUC5;11/04/2031;89792202150162
+509;Empresa do João;Alameda Márcio Ribeiro, 18, 9462-337 Estarreja;Camisola;15230 g;52747;China;S3ZC9NGL8FYL;17/03/2035;06545093187941
+510;Têxtil Lusa;Avenida de Gonçalves, 86, 5780-351 Lixa;Sabonete;432.19 L;94784;Portugal;SBGWNS0XL10N;25/03/2034;86632085096044
+511;Têxtil Lusa;Alameda da Graça, 84, 0703-001 Beja; Azeite;12521 mL;56068;Portugal;QK3WU1AE2LWD;29/11/2032;34982195926642
+512;Empresa Alfa;Largo de Brito, 7, 5889-048 Tarouca;Cadeira;12981 g;71569;China;HRMPSAX5U27H;29/12/2026;35039102334964
+513;Padaria Central;Largo de Simões, 61, 0596-757 Lagoa;Computador;61 un;89531;Brasil;55VQNYBKVN9P;NODATE;35414183336964
+514;Padaria Central;Alameda de Azevedo, 942, 2792-644 Gandra;Camisola;4894 mL;64001;China;64KVDUARXDO1;16/06/2034;92531595229123
+515;Móveis Raiz;Av Gaspar, S/N, 5217-275 Mêda; Azeite;136 un;53871;Itália;Y7W0EP90NFVH;15/07/2034;18363744526143
+516;Empresa do João;Av de Abreu, 10, 3241-531 Pinhel;Computador;522 un;82776;China;1KM8UEC6UT6Y;28/08/2032;87027484003240
+517;Empresa Alfa;Alameda Diogo Vieira, S/N, 9227-953 Leiria; Azeite;83 un;55552;China;VECYR8IV7SR3;15/12/2032;91458028911201
+518;Empresa do João;Av Azevedo, S/N, 6769-768 Ermesinde;Camisola;500 un;64128;China;TIAS0FJELEWC;20/08/2028;45657155360243
+519;Global Tech;Largo Leandro Melo, 56, 7317-060 Praia da Vitória;Vinho;196.34 kg;94984;Brasil;4GMKE7PYUAPB;25/07/2032;44332983322965
+520;Química Duarte;Travessa do Olival, 39, 8533-958 Póvoa de Santa Iria;Sabonete;11946 mL;25008;Brasil;PM0N8NBOFVI1;NODATE;18067670738486
+521;Empresa do João;Travessa 9 de Abril, 86, 9454-648 São Salvador de Lordelo;Camisola;6963 mL;35210;Alemanha;4D2GR84BGSMQ;14/01/2031;67858710915492
+522;Móveis Raiz;Praça Teixeira, 3, 9874-082 Peso da Régua;Computador;259.03 L;64127;Portugal;XEU3KB19CDOO;18/10/2025;64755880433873
+523;Móveis Raiz;R. Violeta Nunes, S/N, 9283-181 Amarante;Farinha;357 g;47302;Brasil;U6JAN4A8K513;NODATE;99403242845396
+524;Têxtil Lusa;Avenida do Campo da Bola, 79, 2279-647 Albufeira;Cadeira;13772 mL;74770;Alemanha;ZGGF21E5S97T;26/12/2030;37419582950218
+525;Móveis Raiz;Praça Araújo, 73, 9181-821 Sines;Sabonete;3913 mL;61533;França;U6LPMO2PMGJU;03/11/2030;14899183398832
+526;Empresa do João;Largo de Marques, 12, 3166-752 Viseu;Pão;15277 g;56296;Itália;YLWPPFNJANPV;NODATE;03384138879575
+527;Global Tech;Largo de Castro, S/N, 3066-494 Alcobaça;Impressora;16509 mL;20768;Alemanha;SLY0OEJX70UR;19/09/2028;71205578696316
+528;Global Tech;Rua de Castro, 94, 8584-113 Odivelas;Impressora;14950 mL;97365;Espanha;8F4JRN2K96F5;NODATE;16598100174483
+529;Química Duarte;Largo Gabriel Fernandes, 3, 6564-235 Praia da Vitória;Madeira;5237 g;71711;Espanha;N30SG92E8A6L;17/11/2028;62520697383219
+530;Móveis Raiz;R. Rafaela Anjos, 22, 6912-690 Fafe;Impressora;2816 g;73559;China;Y1IZHYW8ZHUA;NODATE;27579389229260
+531;Têxtil Lusa;Travessa Naiara Jesus, 10, 1276-498 Mangualde;Impressora;6277 g;74681;China;YFB9MMH8DMEK;08/06/2034;45841851846532
+532;Móveis Raiz;Praça Gaspar, 35, 6047-912 Beja;Sabonete;9132 mL;15176;Alemanha;U9CWA232T2I3;23/11/2034;10461947191939
+533;Química Duarte;Avenida João Glama, 9, 2933-899 Rio Maior;Farinha;135.48 L;39004;Brasil;VHOWMZODQH4P;08/03/2029;01131329081580
+534;Empresa Alfa;Largo Brito, 8, 8348-033 Figueira da Foz; Azeite;16626 g;98698;Espanha;6ULFMV02KSUU;29/09/2030;22993958614317
+535;Empresa do João;Praça do Adro, 20, 2255-615 Maia;Farinha;10262 mL;67133;Portugal;SUVG00UFWG60;18/09/2026;68142966204547
+536;Química Duarte;Largo Teixeira, 15, 4904-401 Barreiro;Sabonete;124.11 kg;97287;França;TX0JZBKXF11S;04/02/2030;19238980478896
+537;Empresa do José;Largo de Assunção, S/N, 3731-392 Vila do Conde;Camisola;3433 mL;53378;Espanha;PIEQHOB2TMOQ;24/01/2031;35286337732755
+538;Têxtil Lusa;Travessa de Cardoso, S/N, 4078-834 Olhão;Sabonete;264 un;85454;Espanha;RHK7G1A08UZT;12/05/2030;83022454985504
+539;Móveis Raiz;Travessa Matias Soares, 37, 6286-443 Tarouca;Farinha;1473 g;48116;Itália;ARNZTHV5NF5B;16/07/2028;12957949626434
+540;Química Duarte;Alameda de Henriques, S/N, 6503-666 Felgueiras;Camisola;8336 mL;85916;Portugal;RYSPYC6BIS6B;21/02/2033;96836309860878
+541;Empresa do José;Rua de Domingues, S/N, 8088-637 Almeirim;Camisola;520 mL;45016;China;0HJDNOJ6WUYM;28/04/2032;62371263007803
+542;Móveis Raiz;Praça de Soares, 981, 9705-977 Vila Nova de Foz Côa; Azeite;456.58 L;80997;Portugal;BND14DPCHHPQ;04/08/2034;43582909122668
+543;Têxtil Lusa;Av de Amaral, 79, 5895-523 São Salvador de Lordelo; Azeite;354.49 kg;67083;China;UGLWV5VPDY10;NODATE;50732456927236
+544;Têxtil Lusa;Alameda António Dias Lourenço, 33, 4880-511 Lixa;Impressora;967 mL;51922;Itália;XKYB0ZTECB66;19/03/2029;47710689280935
+545;Empresa do João;R. Júlio Verne, 53, 3604-177 Fafe;Pão;2184 mL;54427;China;OEBBLXV8OZDO;01/06/2031;13186567100858
+546;Têxtil Lusa;Av Simões, 51, 8657-279 São Mamede de Infesta;Vinho;418.52 L;27533;Itália;5N8V6S9BVI23;22/02/2026;99232309726221
+547;Têxtil Lusa;R. Prof. Francisco Caldeira Cabral, 6, 0305-694 Guimarães;Farinha;102.9 L;37007;Itália;EFNRF7ZCZ7FU;12/01/2035;99058553541836
+548;Empresa do José;Alameda Duarte Guerreiro, 39, 4160-351 Freamunde;Cadeira;7718 g;59092;Itália;J2B0Z2QPSX1X;03/08/2032;09436756726104
+549;Têxtil Lusa;R. de Batista, 88, 6784-751 Ponta Delgada;Sabonete;11894 mL;74678;Itália;YV73I82GOKCO;16/02/2027;21814119867694
+550;Empresa do José;Travessa Abreu, 20, 4917-701 Cartaxo;Sabonete;279.14 kg;32818;Alemanha;F0I287EZO0O3;NODATE;77726684428632
+551;Móveis Raiz;Avenida de Sá, 51, 1719-804 Montijo;Camisola;209.37 kg;18291;China;YQ4LN460G1WY;01/10/2032;05967776249349
+552;Empresa Alfa;Travessa Bernardo Fernandes, S/N, 7069-930 São Salvador de Lordelo;Pão;81.29 kg;14768;Portugal;TUQUKVRCGOK7;23/12/2032;67428046879349
+553;Empresa do João;Largo Clara Vaz, S/N, 3119-436 Tavira;Sabonete;667 un;95887;Brasil;XLVXOSRBVS9Y;30/01/2033;73008192606086
+554;Global Tech;Travessa de Vicente, 626, 3022-438 Fundão;Cadeira;91 un;87788;Alemanha;LLEA2GCP6MEE;16/08/2028;46298464502418
+555;Química Duarte;Rua de São Lourenço, 97, 0282-361 Mêda;Vinho;4239 g;45352;Alemanha;779WYFDC37KU;26/12/2030;46674871599569
+556;Padaria Central;Alameda de Lima, 71, 2491-540 Porto;Cadeira;413.3 kg;99379;Alemanha;HBEXI8H7NCC2;29/04/2028;54543325505910
+557;Têxtil Lusa;Av Bryan Amaral, 71, 0846-935 Fafe; Azeite;135.4 kg;68458;Alemanha;A0PLL3U7ZAS4;19/08/2028;72043283325465
+558;Empresa do José;Largo de Freitas, 75, 5945-841 Odivelas;Camisola;424.82 L;34529;Portugal;8FYSBZLF4L6M;06/06/2033;23381083403445
+559;Empresa do José;Largo Petra Rocha, 84, 5698-781 Santana;Camisola;394.52 kg;30364;China;E3APHTQSEEJ2;NODATE;73066446765218
+560;Global Tech;Largo de Borges, 9, 5203-437 Ovar;Farinha;19863 g;36693;China;W7OCI48E9KV8;15/02/2027;75906402170157
+561;Têxtil Lusa;Praça de Silva, 32, 8706-974 Vila Nova de Famalicão;Camisola;10171 mL;37403;Itália;0M7FOA1EPU8O;NODATE;85726436035293
+562;Empresa Alfa;Alameda Santiago Rodrigues, S/N, 0748-465 Vila Nova de Gaia;Computador;443 un;81238;Espanha;62ZVVQPJ9P62;20/09/2030;54826511701522
+563;Global Tech;Av de Macedo, 74, 1450-729 Santana;Cadeira;16913 g;21656;Itália;9QSQ2HS415OH;10/07/2027;65858242558761
+564;Química Duarte;Travessa de Abreu, 71, 1571-109 Ponta Delgada;Cadeira;18980 g;52787;França;P7YNA0HMP2TV;06/07/2029;65183495215496
+565;Têxtil Lusa;Praça Daniela Cardoso, S/N, 7130-622 Lixa;Camisola;8385 g;25801;Portugal;0M0QSXWMYGQH;12/04/2032;66578251416339
+566;Móveis Raiz;Alameda Panorâmica Edgar Cardoso, 49, 6020-231 Marinha Grande;Cadeira;173.79 kg;33990;Portugal;U0BXKYDQRZN2;08/09/2027;81032488603838
+567;Empresa Alfa;R. Isaac Mota, 90, 1180-173 Tondela;Sabonete;7964 g;68884;Espanha;1KU871YBAM5Q;NODATE;07790815106640
+568;Padaria Central;Praça Artur Mendes, 793, 9108-792 Gouveia;Farinha;1931 mL;55421;Espanha;N49J2NAF2O9L;12/11/2029;50888974246849
+569;Empresa Alfa;Travessa Oliveira, 67, 5119-741 São João da Madeira;Cadeira;178.96 kg;50243;Espanha;CXHITMH8IQ3F;NODATE;63554119315104
+570;Móveis Raiz;R. de Maia, 11, 5997-289 Felgueiras; Azeite;35.2 L;76914;China;303A9XXA3N4A;06/05/2032;42555950249554
+571;Empresa Alfa;Praça António Sérgio, S/N, 9691-120 Ponta Delgada;Madeira;10586 mL;17257;Portugal;GRV0WTYAXOIQ;12/01/2028;34711098148406
+572;Química Duarte;Praça Melo, 73, 5242-987 Câmara de Lobos;Pão;303.88 kg;56980;Brasil;7RZPHOKHOI14;10/10/2026;34571185660953
+573;Têxtil Lusa;R. Jaime Paiva, 763, 0821-620 Fátima;Cadeira;230.85 L;41619;Brasil;1U9YMRTEI8TW;26/01/2031;04381257388312
+574;Padaria Central;Av Benjamim Machado, 49, 6733-132 Vila Nova de Foz Côa;Sabonete;183 un;91380;Alemanha;4T2F3OFUU9HE;08/01/2034;87333289376155
+575;Móveis Raiz;Alameda Maria de Lourdes Sá Teixeira, 71, 0694-775 Seia;Impressora;2435 mL;19273;Itália;2YO0ULCWUE0G;11/09/2032;73796315078722
+576;Global Tech;Alameda de Monteiro, 95, 2253-752 Póvoa de Santa Iria;Camisola;5011 g;71900;Portugal;CSBJX9OUYYEJ;25/03/2030;90987150650907
+577;Química Duarte;Largo Matias, 39, 5682-693 Mirandela;Camisola;17851 g;56836;Brasil;P4VAJUPYS7YI;30/01/2033;96985030359538
+578;Empresa Alfa;Rua de Costa Cabral, 718, 1164-147 Castelo Branco;Vinho;99.77 L;45390;Alemanha;HX0YQL9FEYEV;17/03/2030;68154530844896
+579;Móveis Raiz;Alameda das Conchas, 59, 6873-390 São Mamede de Infesta;Sabonete;300.96 L;65309;Itália;9DXP6JBDYY9D;03/11/2027;51476903254532
+580;Têxtil Lusa;R. do Regado, 53, 3625-142 Lixa; Azeite;127.74 kg;21503;Espanha;25WEYRLLM7LL;NODATE;54448947925884
+581;Global Tech;Alameda Sá, 76, 7640-508 Alcobaça;Impressora;444.33 L;62752;França;BH4IZ9ME2409;NODATE;14062587525524
+582;Química Duarte;Alameda Melo, 9, 0320-971 Vendas Novas;Vinho;307 un;36012;Alemanha;UID1TXWZ333M;01/08/2027;56921743160629
+583;Empresa do José;Avenida de Simões, S/N, 4957-303 Amadora;Vinho;364.15 L;19347;Itália;YJBVLJEA97IV;14/06/2030;36921186456697
+584;Empresa do João;Alameda de Assunção, 3, 8260-897 Póvoa de Santa Iria;Madeira;462.97 L;96513;Itália;Z2YMEUQJREKA;NODATE;58016194876447
+585;Têxtil Lusa;Travessa de Lopes, 210, 9464-546 Valongo;Impressora;16055 g;36707;Brasil;TIHKSQH073WC;NODATE;70055822812402
+586;Empresa Alfa;Largo Campos, 4, 9577-819 Sabugal; Azeite;169 un;55848;Itália;UJ5LRMH0D2DI;07/03/2029;05160791779875
+587;Química Duarte;Rua Barbosa, 39, 3073-993 Fafe;Pão;297.92 kg;14376;China;USTU1YTHJXQG;03/06/2031;75131005188674
+588;Têxtil Lusa;Rua de Ramos, 176, 3992-333 Espinho;Madeira;15714 mL;78345;Alemanha;8LCPC71DVVDE;04/05/2029;78899793091126
+589;Empresa Alfa;Praça Marques, 872, 3870-162 Vila Nova de Foz Côa;Pão;388 un;49537;Espanha;LTSNLF5U0UR2;03/11/2028;27640709387091
+590;Empresa do João;Av de Pires, 43, 3769-609 Sintra;Sabonete;424.06 L;20482;Brasil;OZVCA58203LK;16/06/2034;47829303841959
+591;Global Tech;R. Cláudio Campos, 84, 3969-156 Valongo;Madeira;447.37 kg;73285;Alemanha;H026260RZCHC;10/09/2026;25782543070336
+592;Têxtil Lusa;Alameda Lúcia Brito, 33, 3997-830 Seixal;Cadeira;443.35 L;81274;Portugal;4514NMNU1QTC;23/02/2027;09949796988410
+593;Empresa do José;Praça de Macedo, 783, 4394-511 Gondomar;Impressora;12347 mL;50963;França;DJ89TE8U5C8D;25/02/2033;34019860088081
+594;Empresa do João;Largo Miguel Costa, 735, 1683-289 Braga; Azeite;17290 g;34874;Itália;0EG1OOYHZ7XO;NODATE;13565428404405
+595;Têxtil Lusa;Rua Matos, 44, 3847-976 Serpa;Vinho;429.28 L;75205;Brasil;7RJVU2V1GOOP;10/11/2029;26917166373924
+596;Empresa Alfa;Travessa de Soares, 29, 1616-979 Santana;Sabonete;18869 mL;98278;Brasil;FFSIHRT8L48B;16/11/2025;21497516409288
+597;Móveis Raiz;Av Bruno Santos, 55, 4528-691 Amora; Azeite;865 un;46386;Alemanha;F4RHGFGDU3F2;24/08/2033;15568167685471
+598;Móveis Raiz;Alameda Denis Araújo, S/N, 4334-718 Lagos;Madeira;287.08 L;26328;Espanha;3G9XJHUYNKDQ;17/05/2033;75235172549272
+599;Móveis Raiz;Alameda Tavares, 60, 8181-517 São Salvador de Lordelo;Vinho;96 un;65027;Itália;EYWGG1GX3X7Z;07/09/2031;57349032732453
+600;Empresa do José;Alameda de Soares, 6, 6600-647 Entroncamento;Cadeira;316.41 L;12294;Portugal;1KA1LXA6R9IF;NODATE;38087830092332
+601;Empresa do José;Travessa Campos, 651, 0709-125 Câmara de Lobos;Pão;6808 g;24476;Portugal;6S8U6IY2U43N;31/08/2034;72281774450447
+602;Empresa do João;Travessa Costa, 15, 9863-856 Agualva-Cacém;Farinha;361.73 kg;85799;Itália;C737AGJPAFZB;NODATE;60949173320694
+603;Têxtil Lusa;Alameda do Tijolo, 24, 0879-054 Loures;Farinha;733 un;20274;China;A9NBP4VCH658;25/06/2032;64689470168514
+604;Empresa do José;Travessa do Monte da Lapa, 88, 6040-378 Alcácer do Sal;Computador;15917 mL;98950;França;JSZO24BG83JR;NODATE;10784244761896
+605;Empresa Alfa;Alameda de Moreira, 25, 7610-212 Guarda;Camisola;7162 mL;58485;Espanha;DFKUU461IHP5;30/11/2032;83739571676064
+606;Empresa do José;Praça Vieira, 60, 8942-232 Entroncamento;Cadeira;274 un;12540;Brasil;46XA1P922PG6;26/07/2030;39049596784940
+607;Padaria Central;Alameda de Monteiro, 46, 3644-752 Ílhavo;Computador;9209 g;30334;Espanha;2HY24NPG6S1K;NODATE;59339730613491
+608;Têxtil Lusa;Avenida de Nunes, S/N, 4221-602 São Salvador de Lordelo; Azeite;98.84 kg;61903;França;MO24L1IW8KU2;NODATE;58513471291598
+609;Padaria Central;Avenida de S. Salvador, 21, 1937-603 Paços de Ferreira;Camisola;10279 mL;42333;Itália;SW1LKO5PIPZO;NODATE;67546671747680
+610;Empresa Alfa;Largo de Moura, 16, 5537-797 Lamego;Camisola;696 un;63991;Itália;HXD374C3WRJC;05/01/2028;68295616590539
+611;Química Duarte;Largo Micael Maia, 52, 0820-138 Amarante;Pão;9902 g;73773;Espanha;ZSWJUQPLM9TC;NODATE;81261892435782
+612;Global Tech;Avenida Ferreira de Mira, 1, 1807-105 Esposende;Vinho;1697 mL;35258;Portugal;YP4ABJTT3L60;10/03/2035;67329436652581
+613;Empresa do José;Avenida Rodrigo Nunes, 65, 4962-845 Torres Novas;Camisola;13720 mL;82975;Alemanha;MOFFV1OA95VE;NODATE;78532955252303
+614;Padaria Central;Rua Luísa Pacheco, 10, 3193-552 Faro;Impressora;24.75 kg;31427;Alemanha;B868ZWPCUX2S;11/11/2034;48576972639666
+615;Móveis Raiz;Largo de Torres, 91, 8360-860 Gouveia;Impressora;127.52 L;86163;Espanha;K4J53UUB4RH1;02/09/2034;73816079291502
+616;Padaria Central;Avenida Vicente, S/N, 4779-962 Lisboa; Azeite;3783 mL;35981;Alemanha;LFTIQC6267E6;26/03/2034;85006658306533
+617;Global Tech;Travessa Central, S/N, 2067-713 Miranda do Douro;Farinha;408.68 L;59612;Brasil;C6LIEJ99QWO2;NODATE;33265504429607
+618;Empresa Alfa;Avenida Neves, S/N, 5644-797 Peniche;Impressora;8826 mL;74235;Brasil;WJJX1NV41JT7;08/03/2029;77803296457808
+619;Empresa do João;R. de Rodrigues, 6, 5372-903 Valongo;Farinha;29.14 kg;38357;China;TV18A49LI8PT;04/11/2029;88112309725270
+620;Empresa do José;R. do Dr. Fernando de Azeredo Antas, 38, 9340-735 Cartaxo;Impressora;279.33 L;59467;Alemanha;FAQJ9NDQYDDR;02/12/2026;06083380532727
+621;Empresa Alfa;Avenida de Almeida, 470, 5920-472 Esposende;Impressora;1959 g;23174;Itália;AVIC9WBKOUG6;15/08/2032;77087156578623
+622;Móveis Raiz;Alameda Valentim Vaz, 41, 6030-153 Odivelas;Camisola;158.9 L;49217;Alemanha;BZMPQ2OZIV24;31/08/2034;69526649981794
+623;Móveis Raiz;Avenida Carvalho, 58, 4512-975 Trancoso;Computador;259 un;99706;França;1EYKIKCHENHL;30/06/2034;54640582054869
+624;Têxtil Lusa;Avenida de Rodrigues, 20, 7685-858 Vila do Conde;Impressora;398.49 kg;78422;Portugal;71W3ZXMMGZB0;18/03/2032;44446841109742
+625;Empresa do João;Travessa Machado, S/N, 9842-757 Vila Franca de Xira;Camisola;17546 g;53457;Portugal;2SADP0WWJ9VI;26/04/2035;10646607961535
+626;Móveis Raiz;Rua Antunes, 7, 2875-866 Mirandela;Cadeira;262.7 L;16264;Itália;9SZK9AXH0NT1;NODATE;72320753821127
+627;Empresa Alfa;Rua de Santa Clara, 8, 0811-526 São Salvador de Lordelo;Pão;161.6 L;51734;Itália;JHMZEXY67PI5;NODATE;07025050957104
+628;Global Tech;Avenida Amorim, 35, 8279-949 Leiria;Sabonete;786 un;86535;Portugal;G6W3UPRQ7RDQ;17/07/2028;60224867605747
+629;Global Tech;Avenida Miranda, 23, 8826-490 Cantanhede;Vinho;414.65 L;71422;China;RJE2H2TRG5X0;13/06/2034;93047872618571
+630;Empresa do João;Alameda Gaspar, 86, 7109-160 Funchal;Impressora;238.42 kg;50995;Portugal;5YCU7579PMWJ;14/02/2027;35676687505888
+631;Global Tech;Avenida Adão Barata, 924, 7744-730 Estarreja;Pão;9712 mL;57657;China;MP0SLJ6B1G4R;28/11/2033;16817941971200
+632;Empresa do João;Largo Alícia Sá, 173, 5152-042 Estarreja; Azeite;9019 mL;69632;Itália;10DA7D4XO5NF;NODATE;81192843678870
+633;Móveis Raiz;Alameda Rodrigues, 14, 9608-040 Rio Tinto;Sabonete;216.14 L;82173;Portugal;YUCTNHN7WU01;27/09/2034;23899487282444
+634;Padaria Central;Largo Francisco Alves, 4, 8523-919 Penafiel;Cadeira;823 un;29422;Brasil;B51AP0DIDLN1;NODATE;48587836502404
+635;Química Duarte;Largo da Quinta de Santo António, 46, 6869-497 Praia da Vitória;Impressora;8.7 kg;84073;Itália;0H8NFBQASDL4;06/11/2031;51788354886924
+636;Móveis Raiz;Largo Duarte Campos, 74, 9362-095 Agualva-Cacém;Madeira;378.19 kg;49958;Itália;96UQE16T2YT6;15/11/2027;27561995258723
+637;Têxtil Lusa;Praça Alexandra Vieira, 40, 4316-528 Santana; Azeite;15747 mL;83704;Itália;AIXVKQHZXWI3;29/03/2029;67379803419308
+638;Empresa do José;Alameda de 25 de Abril, 62, 8866-853 Alcácer do Sal;Pão;16.58 L;77861;Itália;LGAVKARVD90U;17/04/2035;82418677687607
+639;Empresa do João;R. Fernando Cardoso, 994, 5548-607 Cartaxo;Madeira;370.2 kg;27956;Portugal;KTP1GT1HTFPH;05/04/2030;96049650126050
+640;Têxtil Lusa;Av Silva, S/N, 9422-119 Valongo;Cadeira;268 un;53980;Espanha;NSEIX2FXSYLL;NODATE;18321511444332
+641;Empresa do João;Av de Esteves, 50, 0949-223 Sacavém;Impressora;129.3 kg;46332;Espanha;FUG0KZTMD9VI;08/08/2026;96316092131644
+642;Têxtil Lusa;Largo Lourenço Matias, 33, 0129-069 Pinhel;Pão;16688 g;13111;Alemanha;4R2WG5L4UZIF;31/10/2025;79377310336812
+643;Global Tech;Av Júlia Ferreira, 2, 5228-975 Loures; Azeite;293.68 kg;68241;Brasil;YU7QSL5J9WX2;NODATE;99922610885007
+644;Têxtil Lusa;Travessa de Teixeira, 972, 4770-196 Costa da Caparica;Cadeira;316.45 L;96646;Itália;2G13T7M2QR54;30/05/2033;75916629556176
+645;Empresa do José;Praça Moura, 10, 0286-903 Queluz;Vinho;263.0 kg;74092;Brasil;52CANNDK02WH;NODATE;12209091574083
+646;Têxtil Lusa;Avenida de Costa, 72, 1137-356 Lamego;Pão;4214 g;71034;Itália;4J3KQR8S8AQO;01/08/2027;00575178869779
+647;Padaria Central;Av Moura, 92, 6625-216 Moura;Pão;854 un;11261;Espanha;50SWSNWFSAHI;NODATE;23390392679305
+648;Empresa do José;Largo de Tavares, 721, 7609-452 Praia da Vitória;Farinha;129.9 kg;11829;Itália;WHRTTW6E9MBZ;25/03/2029;91346291382419
+649;Têxtil Lusa;Largo Simão Marques, 712, 5245-065 Ponta Delgada;Farinha;377 un;45759;Portugal;DIKK4JB94NAB;29/11/2025;36332434117180
+650;Padaria Central;Largo dos Oceanos, 7, 1879-649 Santarém;Cadeira;10009 mL;72527;Portugal;FGAV1Q830MEC;08/11/2034;33874090833114
+651;Química Duarte;Travessa Diana Maia, 92, 2866-658 Figueira da Foz;Impressora;264 un;40141;Portugal;2PE1QFE5XLAE;29/07/2034;71844321044890
+652;Empresa Alfa;Av Kevin Almeida, 59, 9175-925 São Mamede de Infesta;Madeira;490.37 L;62575;França;X9YBGO3GLKBO;22/03/2030;89233810443006
+653;Empresa do José;Largo Jesus, S/N, 1639-181 Estarreja;Vinho;166.56 kg;30133;China;CLPRWLC22WFM;02/08/2028;57845441525368
+654;Têxtil Lusa;Praça Simões, 69, 5892-494 Oliveira do Bairro;Pão;365.55 L;38063;França;DQRW8HSYYAD9;05/12/2029;62719746698732
+655;Padaria Central;Alameda Vaz, S/N, 3796-114 Santo Tirso;Sabonete;484.23 L;64227;Portugal;W4HQ1B2JQBEF;09/08/2031;62052764704053
+656;Global Tech;R. Paiva, 1, 0422-718 Cantanhede;Madeira;10910 g;87473;Espanha;YP4TYV14FRYO;31/10/2026;83256429902573
+657;Empresa do José;Travessa Jesus, 51, 7291-519 São João da Madeira;Cadeira;449.61 kg;44963;Portugal;NQ9KHJWK8216;11/09/2029;46057779687352
+658;Empresa do João;Rua de Loureiro, 833, 5766-582 Covilhã;Cadeira;26.44 L;76864;Brasil;ETRBYV7U3URH;08/02/2034;69673088916505
+659;Empresa do José;Av Bárbara Ribeiro, 3, 3465-058 Marco de Canaveses;Impressora;273.07 L;15373;Espanha;8DZFL9CRP6B6;15/10/2034;39516236619553
+660;Padaria Central;R. Anita Lopes, S/N, 1626-632 Agualva-Cacém;Computador;818 un;59521;Brasil;Y6RLXTD6RX5Y;NODATE;59126564137319
+661;Empresa do João;Travessa Monteiro, 5, 4065-954 Vila Real;Cadeira;3298 g;53342;Brasil;MUOKCCJ2XM47;14/10/2030;06014796227792
+662;Empresa Alfa;Largo de Viterbo de Campos, 99, 3282-006 Praia da Vitória;Sabonete;19226 g;77644;França;IKF2UUI4BEER;15/07/2029;47323966010301
+663;Global Tech;R. de Torres, 823, 8428-695 Horta;Farinha;19487 mL;52787;China;VVVPHXK7GSXI;30/09/2033;58717929762288
+664;Móveis Raiz;Avenida Kyara Tavares, 7, 6578-079 Vila Real;Vinho;148.03 kg;51902;Alemanha;POT3HPR1PIDJ;16/10/2029;83922432358747
+665;Empresa do João;R. Adriana Cruz, 1, 7133-041 Freamunde;Madeira;366.9 kg;70489;Portugal;7QKG8R489ZSX;NODATE;97844675485263
+666;Global Tech;Rua de S. Brás, 95, 0948-132 Fátima;Camisola;176.08 L;48733;Itália;RBER3H7DRQMT;18/12/2026;29027446311530
+667;Têxtil Lusa;Avenida de Nascimento, S/N, 5491-316 Santana;Camisola;470 un;47846;França;9SELZ90D56FV;17/02/2029;72685472379435
+668;Empresa Alfa;Praça Clara Fernandes, 16, 7182-225 Estarreja;Sabonete;423.45 kg;56682;Brasil;DLPK3124MP67;12/02/2031;84972887241682
+669;Global Tech;Rua Pinho, S/N, 9512-440 Bragança;Camisola;352.02 L;48474;França;POH9VP4A1S85;31/10/2029;79903008613957
+670;Empresa do João;Praça da Vitória, S/N, 2832-203 Marco de Canaveses;Farinha;3491 mL;88515;Brasil;H6ACGAW7S4MB;18/01/2029;52683048258222
+671;Empresa do José;Rua Amália Rodrigues, 12, 6882-296 Santo Tirso;Madeira;717 un;61214;Alemanha;I772DX12B2TE;NODATE;43496475005668
+672;Empresa do José;R. de Reis, 35, 2636-393 Vila Nova de Gaia;Sabonete;11112 g;23344;Brasil;5GPFW6QCCGYL;27/08/2027;22716764885706
+673;Empresa do João;Largo das Naus, 5, 2807-004 Ílhavo;Farinha;11832 mL;78113;França;7BUW722PQ8F3;17/10/2026;40446254174364
+674;Móveis Raiz;R. Júlia Carvalho, 31, 9011-930 Santiago do Cacém;Pão;943 un;39712;França;UP8GMZHP7HGI;06/05/2026;62008263605349
+675;Móveis Raiz;Praça de Brito, 92, 8481-598 Vila Franca de Xira;Impressora;15895 g;28164;Espanha;1XUG0GX6YZ59;02/03/2031;13018709571880
+676;Global Tech;Rua de Silva, 477, 3022-840 Cantanhede;Camisola;2790 mL;86170;Portugal;E4EW8HQEM23A;NODATE;89281187856933
+677;Empresa Alfa;Alameda Rui Oliveira, 4, 2653-360 Quarteira; Azeite;249.95 L;44410;Itália;LJNPXVG06KPE;06/05/2033;96096625576687
+678;Têxtil Lusa;Rua Petra Paiva, 42, 6992-370 Vila Nova de Foz Côa;Farinha;14729 mL;28549;Alemanha;1VLEKS27NG4J;NODATE;87506812009940
+679;Padaria Central;Avenida Rocha, 5, 6021-287 Moura;Pão;945 un;78974;França;YGANINL5B7QJ;05/01/2030;69048890453989
+680;Empresa do José;Travessa de Faria, 3, 7751-845 Almeirim;Madeira;59.25 kg;94641;Brasil;QHN56A5WP5FQ;09/10/2029;12630019402892
+681;Empresa do José;Praça Alexandre Moura, 21, 2581-405 Entroncamento;Impressora;102 un;72592;Espanha;7AEU5TP3EGHH;22/04/2035;68227115227123
+682;Química Duarte;Praça do Monte Cativo, S/N, 9133-973 Loures;Madeira;140.04 L;28142;Portugal;AQKI0MNRYFV0;11/11/2034;92725585526663
+683;Empresa Alfa;Praça de Pereira, S/N, 3971-543 Loulé;Camisola;41.5 kg;77002;China;YM1C2W13F4F6;03/02/2028;37934657015358
+684;Padaria Central;R. de D. Carlos I, 73, 1329-020 Vila do Conde; Azeite;263.63 L;71808;Brasil;W4EVDNL6O8FJ;NODATE;09626726225849
+685;Padaria Central;Praça do Meiral, 54, 3509-620 Marinha Grande; Azeite;290 un;24068;Portugal;O4G08ZB85M9C;NODATE;59141001673091
+686;Padaria Central;Avenida Nunes, S/N, 1307-174 Lagoa;Vinho;97.29 L;43023;Espanha;W8N2J3YJ34DA;20/09/2029;67614529948442
+687;Empresa Alfa;Av Rita Lopes, S/N, 7750-870 Lagos;Farinha;308.5 L;69773;China;SURJ2B5AJQQW;21/07/2025;16492381752918
+688;Química Duarte;Alameda Alexandre Valente, 38, 0039-537 Amarante;Sabonete;268.35 kg;49688;Portugal;ZQOMS6CIWCK2;06/05/2029;79849549246914
+689;Empresa do João;Praça Batista, 4, 2558-434 Ponte de Sor;Impressora;263.54 kg;50288;Alemanha;SUHRFAQE9TJ3;07/12/2028;18185117311121
+690;Empresa do José;Avenida Benjamim Pereira, 643, 6183-820 Lisboa;Cadeira;457.16 L;84588;Brasil;SJY9U18WBDFF;15/05/2029;07259734908243
+691;Padaria Central;Rua de Reis, 76, 9131-743 Barcelos;Pão;17743 g;78659;França;S4JGTUBEKDEG;NODATE;59078480138861
+692;Empresa do José;Rua de Almeida, 27, 6778-663 Serpa;Impressora;463 un;79554;China;AWS4AZIVLVXD;13/03/2033;31814264681496
+693;Empresa Alfa;Av Freitas, 5, 7057-604 Santana;Computador;2039 g;16615;Alemanha;IOE4W26MKPTH;19/03/2027;18359954350886
+694;Empresa Alfa;R. Diana Cunha, 74, 2087-292 Entroncamento;Camisola;134 un;58096;Alemanha;GSSQC5GALLF8;NODATE;67094305768673
+695;Empresa do José;R. Rodrigo Soares, 9, 2744-315 Santana;Vinho;237 un;88186;Itália;IZ515MJ1KDOH;23/02/2034;11961215961181
+696;Empresa do José;Alameda Diego Brito, 19, 5993-943 Torres Novas;Camisola;3534 g;17003;Brasil;ZBPV4A0FLB3J;07/11/2032;41107471899208
+697;Empresa Alfa;Av de S. João da Foz, 79, 9677-784 Peniche;Sabonete;91.01 L;16284;Espanha;XFUAMBDO9C78;27/01/2034;30433112472467
+698;Empresa Alfa;Alameda Nogueira, 60, 1948-185 Miranda do Douro;Sabonete;15249 g;38597;França;TKCW2ZN6CTCP;28/01/2030;65442884098167
+699;Empresa do José;Rua Maria Soares, S/N, 1387-672 Espinho;Pão;828 un;92586;Brasil;M29G67AQ0J7C;NODATE;31515640039023
+700;Padaria Central;Travessa do Amazonas, 6, 0350-162 Matosinhos;Sabonete;670 g;30214;Alemanha;C2TTD4Y5O2W4;NODATE;05511804114675
+701;Empresa do José;Travessa de Vicente, 489, 3342-374 Santo Tirso;Sabonete;18315 mL;41661;França;WZZ802I75TQF;20/03/2033;25297415264072
+702;Empresa do João;Av de Soares, 7, 3288-978 Serpa;Madeira;6412 mL;66679;China;WWT8VNZ3NTIL;08/01/2034;77413779871536
+703;Química Duarte;R. Filipa Fonseca, 83, 0220-010 Câmara de Lobos;Cadeira;13289 mL;99542;Alemanha;QDLE6O8PRQET;29/01/2029;58193721892191
+704;Móveis Raiz;R. Teresa Faria, 11, 2434-488 Valongo;Pão;28.86 L;32541;França;REQX71FQISG2;NODATE;59614247052393
+705;Móveis Raiz;Avenida D. Carlos I ao Parque das Nações, 585, 6143-862 São João da Madeira;Farinha;585 un;95080;Alemanha;05UCLFD917O5;13/02/2028;67428028049054
+706;Móveis Raiz;Alameda Anjos, 66, 0604-209 Pinhel;Pão;7765 mL;29341;Alemanha;LH514CU9E5SA;27/11/2030;42643383792422
+707;Têxtil Lusa;R. de Carreiras, 11, 3525-864 Tondela;Pão;375.1 L;23051;Alemanha;NI64ZAUI65EF;03/08/2030;64550490747590
+708;Global Tech;Praça de Sá, 86, 8660-185 Montemor-o-Novo;Pão;3619 g;49792;Portugal;SM8KB45VHGEE;31/08/2028;01080559156043
+709;Empresa Alfa;R. Carlos Matias, 267, 5822-041 Lagos; Azeite;19538 g;58688;Portugal;S1HULMMTR0QY;NODATE;81244750065296
+710;Empresa Alfa;Praça dos Cruzados, 892, 1569-240 Rio Maior;Farinha;209 un;63059;Itália;VPWYVDU69RGE;25/05/2028;72210919105011
+711;Global Tech;Alameda Branco, S/N, 2948-952 Montemor-o-Novo;Farinha;12874 g;72342;Espanha;J3C59LUELZ12;23/07/2033;27808967410231
+712;Empresa do João;R. Henriques, 5, 8477-030 Castelo Branco;Computador;19951 g;11025;Alemanha;T7I4H2EUZ2DF;06/02/2029;19095496568823
+713;Padaria Central;Av da Vitória, 718, 3656-125 Loulé;Vinho;317.86 kg;45484;Alemanha;P6P4HXFFLYJL;02/02/2027;25531327573930
+714;Empresa Alfa;Rua de Costa Cabral, S/N, 5390-918 Sines; Azeite;978 un;26267;China;9ALE6Y3J47VO;20/02/2030;87372955914134
+715;Padaria Central;Travessa Morais, S/N, 7386-630 Guarda;Madeira;29 un;90894;Portugal;QGK5C32NNRHU;15/01/2028;68837515420384
+716;Empresa do José;Praça Matilde Andrade, S/N, 5648-933 Caniço; Azeite;196.96 kg;90593;Brasil;OTUQD23GQYQ8;02/08/2025;09482099868488
+717;Padaria Central;Alameda Nádia Lima, 594, 0611-011 Marco de Canaveses;Cadeira;17069 g;30942;Itália;AV7TYFWY544E;02/05/2035;45062242864242
+718;Empresa Alfa;Rua Emília Pereira, S/N, 6145-887 Santa Comba Dão;Cadeira;410.5 L;54899;China;YA2N9IP59J49;16/11/2026;22612897138841
+719;Empresa do José;Alameda Bruno Rocha, 669, 5381-060 Guimarães;Sabonete;727 un;32489;Brasil;V39CIFXAB51A;15/11/2026;78829237026013
+720;Móveis Raiz;Avenida Correia, 86, 0247-369 Olhão;Madeira;76.96 L;64257;Itália;LFDX84A0MB1J;13/01/2034;67949866949555
+721;Empresa do João;R. da Ribeira, 8, 1251-234 Amarante;Impressora;613 un;97506;Espanha;T8U4ZMHR8EAL;NODATE;00564457899527
+722;Empresa Alfa;Avenida Nogueira, 64, 7690-909 Peniche;Impressora;8731 g;72685;Alemanha;R1GV3K6JY54O;NODATE;78474019416505
+723;Padaria Central;Alameda Soares, 29, 0291-498 Miranda do Douro;Impressora;418.69 L;11225;Brasil;9BZSUIQPZ18X;19/02/2032;40909810132069
+724;Empresa Alfa;Av do Báltico, 85, 0539-736 Matosinhos;Pão;367.11 L;83797;Portugal;BM0ZQOFHP0L9;NODATE;72097774602511
+725;Têxtil Lusa;Avenida 25 de Abril, 24, 4749-593 Rio Maior;Farinha;268.9 L;84155;Alemanha;HKJED7FM39CW;02/08/2025;28125349444981
+726;Padaria Central;R. de Viterbo de Campos, 84, 2312-075 Oliveira do Bairro;Computador;14.43 L;29646;Alemanha;32Z35TFYPA4C;08/10/2033;49823297191235
+727;Têxtil Lusa;Alameda Silva Porto, 29, 6174-653 Praia da Vitória;Vinho;460.44 kg;77451;Alemanha;TN16R2LS5I8N;20/12/2034;36753027258217
+728;Móveis Raiz;Rua de Teixeira, 16, 6968-490 Praia da Vitória;Computador;271.44 kg;88709;Itália;0B76PHCFN673;15/12/2034;26555028091013
+729;Empresa Alfa;R. Guerreiro, S/N, 3539-994 Ourém;Camisola;40.7 kg;84682;Alemanha;T7XG4BNVQ10M;08/03/2034;50834079678567
+730;Global Tech;Largo Morais, S/N, 4056-952 Mealhada;Cadeira;3204 g;32820;Itália;PPC7XC7INWW0;10/06/2030;83363701975978
+731;Empresa do João;Largo Carvalho, 25, 6683-460 Oliveira do Hospital;Pão;447.85 L;58063;Espanha;IBEE24I1LLL1;28/04/2027;30795614411228
+732;Têxtil Lusa;Largo Andrade, 712, 6756-898 Cartaxo;Camisola;362.22 kg;31518;Itália;NP3JWQBB62IS;05/03/2034;43555092322196
+733;Empresa do José;Av de Costa, 1, 9832-236 Valpaços;Camisola;393.25 kg;69892;França;YQD8ZTDDYOJY;24/06/2026;93038298072380
+734;Têxtil Lusa;Travessa de Andrade, 4, 3080-659 Aveiro;Camisola;6536 g;67303;Espanha;JUNY88YV8LJ5;15/03/2035;00438303305358
+735;Empresa do João;Rua Cuf, 75, 3407-337 Tondela;Impressora;250.29 kg;94084;Portugal;WFT1J8WVY8DH;NODATE;14617315951589
+736;Têxtil Lusa;Alameda de Barros, S/N, 9403-167 Montemor-o-Novo;Madeira;18177 mL;94990;China;XMHFCBA7YBWZ;07/08/2027;80653407229738
+737;Global Tech;Avenida Simão Branco, 561, 4405-915 Esmoriz;Pão;255.13 kg;58729;Espanha;1MFY65W080LH;23/03/2029;40040459787334
+738;Móveis Raiz;Alameda de Nascimento, 297, 0157-900 Oliveira do Hospital;Sabonete;314.36 L;12209;Espanha;KZAMS8M1U2TN;19/02/2026;91253485328500
+739;Têxtil Lusa;Travessa de Branco, 99, 6763-822 Queluz;Farinha;137.5 kg;86011;China;V48KC1KY609U;17/08/2027;69928841289422
+740;Padaria Central;Av da Boavista, S/N, 7065-374 Lagoa;Vinho;658 un;51648;Portugal;KS3YVOHKC2WV;21/02/2031;06909606382917
+741;Móveis Raiz;Travessa de Silva, 73, 0984-525 Barcelos;Computador;18268 g;99548;Espanha;BG0P47YOY28D;20/05/2026;79684822671951
+742;Têxtil Lusa;Alameda de Garcia, 73, 6933-879 Vila Real de Santo António;Impressora;803 un;26403;França;P74CUDSWGU2X;08/05/2033;33594851545066
+743;Móveis Raiz;Av das Bolas, 51, 0787-394 Valbom;Camisola;214.27 L;42605;Brasil;XA2T3AT6J6H5;06/09/2032;89502276040205
+744;Empresa do José;Travessa da Nau Catrineta, 69, 4630-455 Mealhada;Sabonete;9362 g;21753;França;8IEGR9V81IPU;26/07/2029;82546520853853
+745;Móveis Raiz;Rua Amorim, 93, 0207-764 Fiães;Computador;4635 mL;29520;França;RQKUJGCNO5A4;17/05/2033;15732833147698
+746;Empresa do João;Avenida de Pinheiro, S/N, 8170-144 Sintra;Impressora;851 un;98753;França;ATLJ0NAHGZQ8;30/12/2027;80042253940189
+747;Global Tech;R. Abreu, S/N, 9550-200 Estarreja;Pão;198 un;21466;China;26G5559Q69DT;17/04/2029;22965016525186
+748;Móveis Raiz;Travessa Benedita Monteiro, 1, 2336-916 Almada;Madeira;1697 mL;13248;Alemanha;2SGHQXMFHWSM;12/08/2029;74920652110115
+749;Empresa do João;Alameda das Fragatas, 12, 3495-493 Tomar;Computador;9632 mL;16637;China;OE486BOSJ4Q1;07/04/2027;32041828657450
+750;Móveis Raiz;Avenida do Codeçal, 3, 8534-599 Torres Vedras;Camisola;39.6 L;49013;Brasil;EHRNWZTXDBWD;15/01/2027;30063180266061
+751;Global Tech;R. Amorim, 525, 2328-150 Moura;Sabonete;485.47 L;93366;Espanha;XFD0VR0O022W;22/07/2030;26054094315444
+752;Global Tech;Av Frederico Carneiro, 40, 3381-079 Angra do Heroísmo;Impressora;233.26 kg;37200;Itália;BW1SWH9F99PC;NODATE;36088681544516
+753;Padaria Central;Avenida da Ilha do Ferro, 33, 5119-115 Figueira da Foz;Madeira;153 un;17049;França;73RVQJF7UG80;27/11/2026;73604329188156
+754;Móveis Raiz;Av Rocha, 954, 4695-143 Valbom;Vinho;12040 mL;72992;França;DEDC5E6G26X2;27/08/2029;50555095087126
+755;Têxtil Lusa;Rua do Seminário, 807, 0349-618 Caniço;Madeira;15491 g;80505;Brasil;468Q1EL8KID9;29/11/2029;43922754339936
+756;Química Duarte;Praça Manuel Pinto de Azevedo Júnior, 318, 8771-436 Marco de Canaveses;Vinho;6235 g;29703;Espanha;5MULCAQJXU9V;15/03/2034;57438772620120
+757;Móveis Raiz;Travessa José Luís Nunes, 35, 2801-807 Lamego; Azeite;294.32 L;60224;Brasil;697IKOPX97MS;10/10/2032;65094458872627
+758;Química Duarte;R. das Gaivotas ao Parque das Nações, 711, 4810-159 Montijo;Computador;7864 mL;69773;França;WFYLXT9219H1;10/08/2025;64362831735402
+759;Móveis Raiz;Travessa de Reis, S/N, 2786-266 Serpa;Vinho;414.54 L;63166;Brasil;KYLHY75Z5NN8;21/10/2034;51299630033416
+760;Química Duarte;Praça Moreira, 2, 3209-605 Sines;Farinha;4817 mL;54344;Portugal;UL835XWLO6PW;25/07/2030;63668078847079
+761;Empresa do José;Travessa Tomé Pires, 37, 2882-361 Rebordosa;Farinha;12261 mL;97493;Alemanha;H8ATDWL88ID7;18/06/2030;92881053493508
+762;Móveis Raiz;Rua Freitas, S/N, 5017-937 Fafe;Camisola;623 un;12648;China;8KT94SKYAQXE;19/07/2025;29081355445707
+763;Móveis Raiz;Rua Letícia Moreira, 354, 3046-199 Mealhada;Computador;708 un;60050;França;0A3M316G4W4X;19/09/2031;57482076451719
+764;Empresa do José;Largo da Foz, 81, 0330-527 Barcelos;Computador;5717 mL;37752;Brasil;4CDSGHYUZBMN;17/08/2026;45874024978527
+765;Química Duarte;Travessa do Pinzaleiro, 2, 3162-067 Santarém;Pão;198 un;66413;Brasil;M5BP7T5WBCDT;04/04/2034;74835331153088
+766;Empresa do João;Avenida de Azevedo, 33, 4937-335 Bragança;Madeira;336.89 L;22388;China;NHL2BDXRI8VU;18/08/2028;77204145959746
+767;Empresa do João;Largo de Loureiro, 98, 6604-058 Lourosa;Cadeira;7895 mL;58926;França;8WL218755CWR;08/09/2029;09140581240279
+768;Padaria Central;Praça Rodrigues, 7, 3694-650 Alcobaça;Pão;19504 mL;19910;Portugal;HACLBAWMLQFR;NODATE;96019503360484
+769;Móveis Raiz;Travessa Alícia Silva, 93, 2966-941 Santana;Pão;179.72 L;81024;Alemanha;DJQVH49K0OZ3;11/05/2033;62393388823891
+770;Empresa Alfa;Alameda Emma Guerreiro, 5, 4052-189 Évora;Impressora;1.6 kg;57346;Brasil;XFUP5RRZQ9ZW;NODATE;91805229925486
+771;Empresa Alfa;R. Grande, S/N, 0727-043 Santarém;Pão;7142 mL;13319;China;0N3UQXQ7M5SR;NODATE;37896824983870
+772;Empresa do João;R. de Paiva, 8, 1076-506 Valbom;Cadeira;4601 g;39123;Brasil;2S0QS1YOC421;02/04/2027;86377414630092
+773;Global Tech;Largo Emanuel Figueiredo, 59, 0070-369 Santarém;Vinho;314.6 kg;15470;Alemanha;5ZJ0KBUV269C;16/01/2026;06872225102035
+774;Móveis Raiz;Avenida Bruno Silva, 225, 9103-619 Horta;Madeira;14337 g;91578;Itália;VR1WY95ICUAS;30/04/2034;15196609885468
+775;Empresa Alfa;Praça Neves, 26, 8176-213 Évora;Impressora;55 un;47826;China;81YELXFKYL0O;02/08/2033;26415119210521
+776;Empresa Alfa;R. da Ponte da Lama, 403, 9096-038 Torres Vedras;Farinha;241.69 L;43821;Portugal;VNMTKC8MV5C0;04/06/2030;25768217615864
+777;Global Tech;Avenida Henrique Miranda, 843, 3030-445 Vila Franca de Xira; Azeite;392 un;30601;Itália;F6WQZ16A6M53;NODATE;35581523701119
+778;Empresa Alfa;Travessa Mara Valente, 3, 1034-606 Reguengos de Monsaraz;Farinha;355.63 kg;12379;Brasil;JEL330XR3FAC;30/08/2032;08133203217079
+779;Empresa Alfa;Alameda Mário Ruivo, 36, 2174-876 Vila do Conde; Azeite;47 un;10284;Alemanha;DTPTTUU1I8J6;NODATE;39859359167827
+780;Empresa do João;Largo Fonseca, 8, 8722-495 Moura; Azeite;341.18 kg;30999;Espanha;V8R2AHRO88EY;12/08/2027;62605040508916
+781;Empresa Alfa;Rua Lorena Costa, 21, 3179-611 Macedo de Cavaleiros;Camisola;294.17 kg;22686;Itália;6FCFJHEOHSCY;19/10/2030;94576255812726
+782;Têxtil Lusa;Av Diogo Simões, 40, 8626-206 Santa Cruz;Pão;14788 g;97643;China;71OXWILO2SI1;18/11/2028;35097111290163
+783;Padaria Central;Praça da Pasteleira, S/N, 2548-362 Guimarães;Sabonete;439.18 kg;43861;Portugal;UXIHON50L67F;03/05/2030;49980330671120
+784;Química Duarte;Avenida Andrade, 7, 8500-163 Albufeira;Impressora;587 un;45336;China;YUZY23LRKI6P;NODATE;65307920507570
+785;Empresa Alfa;Praça Adriana Magalhães, S/N, 9940-508 Vila Real de Santo António;Madeira;18950 g;44855;Itália;51N876ZEQ7SK;08/08/2027;69202928095801
+786;Empresa Alfa;Av Coelho, 24, 7452-359 Queluz; Azeite;226.28 L;66899;Espanha;XNCSE2YXYYR6;09/07/2033;80167079792224
+787;Empresa do José;R. Nicole Azevedo, 1, 4145-716 Angra do Heroísmo;Sabonete;308.16 L;10676;Alemanha;ZPZUNMV80CJU;21/10/2032;36222850888090
+788;Móveis Raiz;Largo Brian Anjos, 306, 1098-622 Amadora;Vinho;127.57 L;27004;Itália;FM26B0P1ALU4;15/10/2026;70807398893860
+789;Empresa do João;R. Figueiredo, 74, 1201-735 Torres Vedras;Computador;17977 g;94138;Alemanha;E4VI0KOL6DZ6;24/07/2031;49650728342183
+790;Empresa do João;Alameda Gonçalves, 103, 8757-976 Montijo;Farinha;350.57 kg;26860;Espanha;OIZ0F7DCEF5P;11/06/2028;00559156286417
+791;Empresa do José;Alameda de Paiva, 66, 0655-698 Alcácer do Sal;Camisola;267.98 L;37412;Espanha;Z4FZ3JXXZCJ6;08/09/2033;96947642767861
+792;Padaria Central;Rua Joel Moura, 68, 3938-195 Fátima; Azeite;204 un;46521;França;177J8I08CSUZ;16/08/2025;29991135053458
+793;Global Tech;R. das Conchas, 811, 6694-664 Leiria;Computador;92.39 L;33078;Brasil;3Z9P15L25LII;NODATE;81001717509631
+794;Global Tech;Praça Bernardo Rodrigues, 2, 3021-583 Ponta Delgada;Madeira;14469 g;29049;Espanha;D1OXQ2ISNTMM;03/12/2032;70868415952213
+795;Empresa do José;Travessa Gabriela Lopes, S/N, 9607-864 Lixa;Sabonete;19881 g;75937;Portugal;WU1BKVB8AQQ9;02/06/2026;74005602514827
+796;Química Duarte;Av Larissa Marques, 53, 9523-842 Alcácer do Sal;Farinha;400.08 L;55273;Brasil;JQO1RSKI9XJH;30/04/2029;40773403577503
+797;Padaria Central;Largo Domingues, 99, 2320-422 Montemor-o-Novo;Cadeira;243 un;42630;França;54Q96L0Q1WZL;07/01/2034;14398177231097
+798;Padaria Central;Rua Machado, 7, 7800-183 Vila do Conde;Cadeira;10603 mL;28623;Itália;JKOTIUM7HMZN;18/01/2034;51545672020478
+799;Química Duarte;Praça de Barbosa, 87, 0961-813 São João da Madeira;Pão;817 un;17208;Itália;4JIM2NOL2A0C;19/01/2032;29947746864051
+800;Global Tech;Alameda de Azevedo, 71, 4338-212 Albufeira;Camisola;133.94 kg;17713;França;SHGF2B86ML8G;19/12/2031;46319984411850
+801;Empresa Alfa;Largo Valentina Gaspar, 8, 1221-465 Ourém; Azeite;361.56 kg;78344;França;ZCBKN6DDYK9O;12/01/2028;86901356242389
+802;Móveis Raiz;Avenida da Baleia, 14, 1632-120 Quarteira;Madeira;474.41 kg;60894;China;VDBP1UF44NL6;10/02/2035;58227018516296
+803;Empresa do José;Travessa Henrique Castro, 16, 0813-686 Santa Maria da Feira; Azeite;7511 mL;64035;França;ESM2JTF45ZHW;30/09/2034;79847985129362
+804;Química Duarte;Praça Mota, 96, 5028-602 Maia;Impressora;18983 mL;68702;França;H9YL9TJKR4RL;25/02/2026;03770061715321
+805;Móveis Raiz;Travessa Inês Rodrigues, 1, 3786-878 Bragança;Computador;477.15 kg;59815;Itália;1CASQ5WSEB8Z;02/06/2030;23836075301289
+806;Empresa do José;Av Oliveira, 66, 9944-334 Beja; Azeite;372.14 L;43660;Itália;6R1RC7BK6FVA;NODATE;65345956756710
+807;Móveis Raiz;Avenida Enzo Valente, 45, 0948-847 São João da Madeira;Pão;148.21 kg;99552;Portugal;ZUAT5E2MZ94N;NODATE;80540260781809
+808;Têxtil Lusa;Rua Macedo, S/N, 7206-898 Agualva-Cacém;Pão;1315 g;17185;Espanha;XSH4LPPAPVJC;31/03/2035;81464220447511
+809;Padaria Central;Travessa Alice Cruz, S/N, 5698-772 Aveiro;Farinha;13209 mL;70881;Alemanha;H8UOPBOU58GD;17/09/2026;83451261505913
+810;Móveis Raiz;Praça Vieira, 92, 6541-130 Tarouca;Farinha;2367 mL;82672;Alemanha;CTV19W0OPEXM;10/07/2028;65234105719773
+811;Global Tech;Avenida de Ramos, 52, 8100-142 Vila Nova de Famalicão;Cadeira;473 un;47290;Itália;N5G6Q33H956Q;NODATE;51936054416837
+812;Padaria Central;Travessa Vaz, 72, 4644-669 Faro;Farinha;19554 mL;49981;China;227XM0TWNLFI;03/08/2025;56791921878387
+813;Química Duarte;Avenida Letícia Jesus, 1, 7712-812 Vila Nova de Foz Côa;Sabonete;192 un;68883;Brasil;ZVP8FSS6K4YY;27/02/2033;24203937048004
+814;Padaria Central;Rua de Colares, S/N, 9425-703 Sacavém; Azeite;618 un;49181;Brasil;5Y3AWT3ITNU9;23/10/2025;73076149767579
+815;Química Duarte;Largo de Pacheco, 72, 0036-926 Peso da Régua;Farinha;436 un;14301;China;59HRC5NJ1E25;05/08/2027;57314359034974
+816;Empresa Alfa;Largo Bento Martins, 801, 4111-654 Freamunde;Farinha;26 un;44233;França;21RBS5TBGQVA;19/07/2030;85164364842274
+817;Têxtil Lusa;Avenida de Gomes, 567, 8083-762 Macedo de Cavaleiros;Farinha;142.22 kg;66337;Portugal;JU6TLPAKKVNH;11/05/2034;19479387687780
+818;Têxtil Lusa;Alameda Amélia Freitas, 1, 8621-824 Vila Nova de Famalicão;Vinho;365.31 kg;69437;França;0A0BDYLOLW96;06/03/2026;69441883315724
+819;Empresa Alfa;R. do Báltico, 22, 5440-683 Santana;Pão;303.32 L;19780;Brasil;OPN869T6IDY0;30/06/2030;89446717494739
+820;Padaria Central;Largo de Torres, S/N, 4167-591 Covilhã;Impressora;309.8 L;98642;China;V6ITBRUADRZP;11/09/2026;16192766154734
+821;Padaria Central;Praça Abreu, 2, 0141-216 Portalegre;Vinho;3686 mL;40537;China;12UUDKK24KN1;29/11/2027;04241070246836
+822;Empresa do João;Travessa Batista, S/N, 4619-409 Barcelos;Vinho;756 un;45504;Alemanha;QFOW8SKHK82Q;11/12/2032;52227680664503
+823;Têxtil Lusa;R. Neto, 95, 4133-152 Beja;Vinho;428.09 L;57496;Alemanha;EYPMNMYQH3KX;13/08/2032;02193435189023
+824;Empresa do José;Travessa de Ribeiro, 82, 4808-979 Caniço;Cadeira;3728 g;65983;França;FDA6XVGU2897;29/03/2028;23119520537206
+825;Empresa do José;Largo de Moradias Populares do Eng.º Machado Vaz, 519, 6493-848 Odivelas;Pão;13444 g;24586;Itália;YTVWS0TSG5L5;NODATE;13284294149758
+826;Global Tech;Av de Basílio Teles, 96, 3725-165 Silves;Madeira;28.77 kg;76763;Itália;HZBCPWAGHJ35;15/08/2026;59282881849518
+827;Empresa do João;Alameda de Batista, 5, 9636-722 Fundão;Sabonete;437 un;99965;China;7QR55E8MNM9V;22/12/2028;80709939450599
+828;Empresa do José;Rua Domingues, 3, 5429-346 Santa Cruz;Sabonete;435 un;64322;Alemanha;1JSSY6NKL4I2;22/02/2034;90872844175962
+829;Móveis Raiz;Alameda de Antero de Quental, 11, 6014-667 Lixa;Computador;362.33 L;46028;Brasil;UTOV4VN0RLF5;03/03/2030;33605409843271
+830;Padaria Central;Praça Nicole Lourenço, 605, 2836-915 Portalegre;Impressora;634 un;47759;Itália;8PZRSK9X2M9T;20/10/2029;46082351560038
+831;Global Tech;Avenida de Marques Marinho, 76, 5875-327 Macedo de Cavaleiros;Impressora;429.07 L;57272;França;JEHVOC76SWFX;10/08/2032;48977926766865
+832;Empresa do João;Av Filipe Melo, 23, 1792-526 Marco de Canaveses; Azeite;366.11 kg;88895;Espanha;FDHK8U87M465;18/07/2025;65227635461897
+833;Empresa Alfa;Av Matos, 3, 1515-950 Marco de Canaveses;Vinho;200.62 kg;21154;Brasil;JK7H5TGOGKBF;12/03/2032;48032997623167
+834;Empresa do José;Travessa Diego Barbosa, 57, 6187-844 Serpa; Azeite;403.3 L;95254;Brasil;YNWOJ2JTNQA4;07/04/2027;52478576019747
+835;Móveis Raiz;Av dos Navegadores, S/N, 1699-644 Queluz;Vinho;13220 g;14292;Brasil;Q8RPHRZMVD2V;26/07/2028;45964814494324
+836;Padaria Central;Largo de Amaral, 3, 2237-697 Praia da Vitória;Camisola;399.61 kg;25639;China;53M2I40V2YVE;04/11/2029;71513453050446
+837;Empresa do João;Praça Denis Pinto, 87, 4455-682 Queluz;Madeira;15316 mL;77714;Brasil;2RKW6WBL2IF3;09/04/2029;19500061791726
+838;Padaria Central;Praça de Cruz, S/N, 7697-890 Silves;Pão;14858 mL;11897;Alemanha;UHB6Z4X78JA0;28/08/2027;12395976117274
+839;Móveis Raiz;Praça Ivan Monteiro, 1, 8053-232 Ponte de Sor;Farinha;92.89 kg;31738;Alemanha;YRU2LBUDVYYB;14/05/2035;98624277514250
+840;Global Tech;Av Sousa, 4, 0534-814 Marco de Canaveses;Madeira;226.76 L;67064;Espanha;32SSTWW50HNO;22/11/2033;56492229112356
+841;Padaria Central;Avenida de Mota, 62, 0098-810 Matosinhos;Vinho;707 mL;21565;França;CEW6HMXYH4W5;28/08/2025;42104004123207
+842;Têxtil Lusa;R. Clara Ferreira, S/N, 0588-674 Ílhavo;Madeira;427 un;51292;Espanha;UKS2MNAOW7WK;05/12/2030;27935035322904
+843;Móveis Raiz;Rua Miranda, 25, 8138-175 Caldas da Rainha;Cadeira;846 un;61138;França;GQQT19JMMXN7;15/05/2028;52381719329961
+844;Empresa Alfa;Largo Araújo, 295, 3500-635 Aveiro;Computador;405 un;21536;Brasil;PCD8ELPQ93CI;25/04/2032;80701707438780
+845;Têxtil Lusa;Travessa de Leite, 42, 6880-557 Vila do Conde;Cadeira;364 un;14445;França;COOBNG1F0FKK;NODATE;52789149653372
+846;Química Duarte;Rua Augusto Monjardino, 57, 7254-670 Penafiel;Computador;36.2 kg;35878;Alemanha;76WCA6QRY2R2;NODATE;52744757572119
+847;Global Tech;Avenida de Cintura Interna, 15, 9814-586 Amora;Vinho;14322 mL;57468;Portugal;LFCRRMAI36Z3;15/03/2029;90242430436142
+848;Global Tech;Praça Tomás Pacheco, 27, 7481-883 Mangualde;Farinha;455.61 kg;38053;Espanha;N4TI2R5AOYGW;08/04/2028;95172975875011
+849;Empresa Alfa;Avenida de Guerreiro, 9, 5225-627 Lixa;Camisola;143 un;52955;Portugal;QJHB5GPOPGIM;NODATE;83828645043896
+850;Móveis Raiz;Av de Marques Marinho, S/N, 8186-910 Alcobaça;Cadeira;141.3 kg;82844;França;FLS08O3POG62;24/08/2032;11833851802286
+851;Empresa Alfa;Av Machado, 39, 2923-975 Rio Tinto; Azeite;15913 mL;81316;França;7JXJO8QEAM2B;NODATE;46227200751156
+852;Empresa do João;Alameda Carolina Moura, 77, 2353-792 Vendas Novas;Computador;197.5 L;28972;Alemanha;J7S4WA9LRYJY;19/01/2027;26429730789712
+853;Padaria Central;Largo de Anjos, 50, 8454-280 Guimarães;Vinho;100.0 kg;37396;Espanha;39U09S9I3070;14/10/2033;15538927462170
+854;Empresa do João;Praça Naiara Marques, 69, 6646-456 Setúbal;Madeira;318.91 L;59574;Alemanha;XKRHSPJ1WC1I;28/01/2034;47657504946145
+855;Química Duarte;Travessa Juliana Neto, 34, 0890-078 Vila do Conde;Impressora;36.4 kg;75913;Espanha;SQ3FG0B4R4YS;28/09/2029;42758612964187
+856;Empresa Alfa;Alameda Leite, S/N, 5153-130 Pinhel;Camisola;677 un;13465;Brasil;848EB4AUMWA9;21/03/2033;02179197962781
+857;Empresa do João;R. Margarida Gaspar, 44, 9644-451 Rio Tinto;Computador;114 un;57166;França;VVMN5O185G2T;21/10/2033;13945442593262
+858;Móveis Raiz;R. Érica Silva, 9, 0365-957 Tavira;Cadeira;16578 g;41877;China;CHCZEKCXRA24;28/06/2029;77664904255227
+859;Padaria Central;Avenida Pinheiro, 601, 4089-514 Viseu;Vinho;984 un;50643;Portugal;BMEF8TSEK9XV;10/12/2034;06867745250974
+860;Química Duarte;Largo Nacional 108, 5, 3417-898 Praia da Vitória; Azeite;325.93 kg;99166;Espanha;RKF3D5XIXKVM;NODATE;38441598180653
+861;Empresa do José;Travessa de São Lourenço, 25, 5337-681 Vila Nova de Santo André;Cadeira;11851 mL;72783;Espanha;S56WE4N57NIE;13/11/2029;51315566720536
+862;Empresa Alfa;Rua Azevedo, S/N, 5898-698 Santiago do Cacém;Impressora;2426 mL;45607;Portugal;VWKU1IYH6FGW;06/06/2028;18695573208158
+863;Global Tech;Av Alícia Anjos, 44, 9170-766 Gouveia;Vinho;491.03 L;81973;França;S3Z9H0ZW0FM3;16/06/2032;85019057780253
+864;Têxtil Lusa;Travessa de Cruz, 3, 1908-487 Santana;Madeira;4436 mL;89272;Alemanha;GXLGQ2NBR1D2;NODATE;92650502789348
+865;Empresa do José;Travessa Branco, 24, 7289-996 Anadia;Cadeira;16617 mL;38464;Espanha;RC6K300MQPJT;22/07/2026;04431131652446
+866;Têxtil Lusa;Travessa de Gonçalves, 38, 1221-747 Esposende;Pão;116 un;86271;China;94LN9VOX9GCB;30/07/2031;82299122031825
+867;Global Tech;Praça Arquitecto Carlos Ramos, 765, 0212-574 Maia;Camisola;331.04 kg;33618;China;RS98NTBAMCWB;27/09/2027;64882521219416
+868;Global Tech;Travessa Marta Carvalho, 3, 9810-807 Ponta Delgada;Computador;814 un;83617;Alemanha;PPROO623X91V;28/03/2034;48460757807478
+869;Empresa do José;Largo Amélia Neves, 8, 6750-380 Maia;Impressora;888 un;98604;Alemanha;U0G1F8W88SSJ;NODATE;36276092303013
+870;Empresa do José;Largo Severo Portela, 88, 7495-016 Lourosa;Computador;789 un;69196;França;8SFVGPEPY3VC;22/09/2026;44614396617960
+871;Têxtil Lusa;Rua Alice Domingues, 23, 4209-243 Guarda;Vinho;4.59 L;32492;China;OL0YX80GNZ8B;NODATE;35654636507010
+872;Química Duarte;Travessa de Moreira, 7, 8227-276 Agualva-Cacém; Azeite;14102 g;98353;Espanha;QWZG8DNQ7W9U;27/08/2034;50061754312199
+873;Móveis Raiz;Travessa Valentim Morais, 66, 5710-165 Sintra; Azeite;18972 g;63302;China;NUUR71WADC0F;30/12/2025;70120304053620
+874;Empresa Alfa;Praça Carlota Assunção, S/N, 4259-106 Elvas;Vinho;10610 mL;25293;China;L9T3T286T80S;03/09/2029;88141210341585
+875;Empresa do José;R. de Esteves, 899, 4474-464 Ribeira Grande;Cadeira;309 un;81073;Itália;X1QWJK4ARYPR;12/05/2028;88235949519900
+876;Padaria Central;Av de Araújo, 3, 6908-025 Agualva-Cacém;Camisola;263.41 kg;17500;Espanha;P9U3XX84F4KN;01/07/2033;92584235892766
+877;Empresa do José;Av Cruz, 33, 1499-227 Valbom;Impressora;498 un;29864;Itália;C2DNHXBJ14HS;16/06/2030;28023095261680
+878;Empresa do João;Rua Margarida Rocha, 80, 4507-019 Abrantes;Cadeira;66.41 kg;16264;Alemanha;4BWY1K794O04;01/05/2033;24924037676178
+879;Empresa Alfa;Av de Moreira, 49, 0859-682 Santa Comba Dão;Computador;18649 mL;58999;Portugal;XA1UQ6X6JET9;14/11/2027;02631755239786
+880;Química Duarte;Av Lourenço, 578, 5915-388 Santarém;Madeira;326 un;40921;Itália;DV79S9U67W57;29/04/2032;12518535128253
+881;Química Duarte;Praça Domingues, S/N, 0238-756 Oliveira de Azeméis;Vinho;842 un;61017;Espanha;J9C5442FIA4M;01/02/2030;37338757985364
+882;Empresa do José;Rua Correia, 1, 0214-323 Horta;Cadeira;366 un;72816;França;YZLCLKVDSCL3;25/12/2029;97748152637720
+883;Empresa Alfa;Alameda da Quinta do Guarda-Mor, 17, 5532-818 Chaves;Vinho;189.46 L;67268;Alemanha;9AH8P0OZMPOG;NODATE;96405382077017
+884;Têxtil Lusa;Praça de Freitas, 72, 6211-435 Seixal; Azeite;15.45 L;19436;Portugal;8GCZVHK9JZCC;06/02/2033;17847941589593
+885;Móveis Raiz;Alameda Kévim Henriques, 7, 7996-509 Lourosa;Sabonete;8981 mL;67798;Portugal;MXAAS2O4XXG9;26/05/2032;23635412837515
+886;Padaria Central;Travessa Araújo, 9, 2400-865 Felgueiras;Cadeira;389.98 kg;88343;Portugal;YTR5PYCHPCTN;NODATE;88502875169393
+887;Global Tech;R. Bernardo Sousa, 91, 3258-415 Espinho;Vinho;2.98 L;39587;Espanha;ZU5VJMB96K1J;18/12/2034;66482053297792
+888;Global Tech;Alameda de Coelho, 771, 7009-221 Montijo;Cadeira;341.24 L;78769;China;MLUOEXXUYA54;NODATE;05080064788180
+889;Empresa do João;Travessa Laura Moreira, 4, 5418-360 Vizela;Farinha;432.08 L;96610;Brasil;Z0CCFEA2F63I;10/07/2029;10083826872160
+890;Padaria Central;Alameda Margarida Costa, S/N, 8036-928 Penafiel;Computador;501 un;43240;Alemanha;ULNOLCVPQWYA;25/09/2034;52894887333523
+891;Padaria Central;Rua de Vaz, 881, 7081-418 Praia da Vitória; Azeite;15875 g;55063;Itália;NQT6O3OR45MF;08/11/2027;08470513999662
+892;Padaria Central;R. do Cidral de Cima, 80, 4434-600 Marco de Canaveses; Azeite;470.57 L;35652;Itália;D2WAZJCFEADS;26/07/2026;94417499306095
+893;Móveis Raiz;Praça de Pinho, 83, 8862-683 Portimão;Farinha;101.27 L;48505;China;F01U3MMUK9TC;NODATE;24630091448932
+894;Padaria Central;Praça Português, 824, 3521-502 Vizela;Camisola;6183 g;19125;Alemanha;OMH9P5V21UM7;NODATE;13475876842972
+895;Têxtil Lusa;Largo de Carneiro, S/N, 6726-512 Pinhel;Sabonete;585 un;25155;Brasil;Q659UJIM9KFU;03/10/2034;26944097848292
+896;Móveis Raiz;Avenida de Costa, 19, 4136-830 Castelo Branco;Impressora;170 un;53457;Brasil;MDK7SMR766IV;11/08/2034;21232602769768
+897;Empresa Alfa;Alameda Guilherme Pinheiro, 39, 4179-935 Esposende;Impressora;16265 g;49889;Espanha;O6J7IPK74SUV;24/04/2028;86098903114384
+898;Têxtil Lusa;Praça de Gomes, 504, 9268-223 Penafiel;Pão;422.78 kg;71190;Alemanha;EWSXHLIO5BHZ;27/09/2032;59552945186938
+899;Empresa do José;Largo Ernesto Veiga de Oliveira, 5, 8055-174 Paços de Ferreira;Camisola;10137 g;45025;Alemanha;SH916UCZ99BW;NODATE;92411577515905
+900;Química Duarte;Travessa Joaquim Alves, 78, 2988-909 Oliveira do Bairro;Camisola;112.0 L;22276;Espanha;2A9RK69T14D2;12/09/2032;77484475700319
+901;Empresa do João;Avenida de Carvalho, 67, 6654-960 Seia;Cadeira;19687 g;96190;Alemanha;1JYBE8KFA2MK;NODATE;14890178580945
+902;Têxtil Lusa;Alameda Abreu, 338, 2090-360 Marinha Grande;Vinho;4716 mL;76689;Brasil;BBQO0OMSA6CE;09/11/2028;00002048314742
+903;Global Tech;Travessa Nogueira, 62, 0011-324 Almada;Vinho;422.54 L;39910;China;T8Y736PRY7EI;10/03/2028;13072930517426
+904;Têxtil Lusa;Travessa Carneiro, 40, 0549-262 Pinhel;Sabonete;14734 mL;83754;Espanha;AMTSXOAM4006;09/12/2030;20722730376096
+905;Têxtil Lusa;Travessa Dinis Brito, 1, 8436-142 Macedo de Cavaleiros;Sabonete;3901 mL;75662;China;PQD34Y5GDKHP;NODATE;65632271578077
+906;Empresa do João;Av de Araújo, 27, 3217-908 Vizela;Sabonete;28.32 L;87571;Espanha;4DA9900SZB83;02/04/2028;74606831670934
+907;Química Duarte;R. de Cláudio Carneiro, 2, 5946-262 Fafe; Azeite;3219 g;89917;China;6TO1AT9Y8ZF6;06/06/2026;60859069863293
+908;Empresa do José;Largo Vaz, 542, 0908-601 Oliveira do Hospital; Azeite;1654 mL;55410;Espanha;KI8XZ0URTIN6;NODATE;15449851470427
+909;Empresa Alfa;R. de Anjos, 4, 2876-882 Oliveira do Hospital;Computador;308.04 kg;64849;Alemanha;52IP0G301Q83;NODATE;09541541088728
+910;Empresa do João;Av Costa, 4, 5423-147 Braga;Madeira;17540 mL;45627;França;0KUVALRVBE0I;25/12/2030;19530329771671
+911;Global Tech;R. Brito, 18, 1695-558 São Mamede de Infesta;Cadeira;96.27 L;55835;França;TL2E6DWNQZRZ;28/12/2031;01194898647520
+912;Padaria Central;Avenida Machado, 80, 7068-415 Angra do Heroísmo;Cadeira;16998 g;96149;França;9R57EF9PG240;07/04/2026;15179413335272
+913;Empresa do João;Praça Joana Santos, 87, 4886-047 Montijo; Azeite;281.86 L;54740;Itália;VNSPEPQ5MKS9;04/08/2025;30549943720110
+914;Empresa Alfa;Av Soares, 40, 2589-435 Marco de Canaveses;Farinha;368 un;42492;França;OFSIT89FK4T0;NODATE;22027609910929
+915;Empresa Alfa;Largo Gabriela Simões, 92, 8864-078 Estarreja;Camisola;478.71 kg;93697;Itália;FXZMGA0TBEUW;16/07/2033;71511099911139
+916;Global Tech;Av de Ferreira, 573, 4130-227 Peso da Régua;Cadeira;15648 mL;48969;Espanha;Q9UWAJX7A4GK;17/04/2035;42520154480049
+917;Móveis Raiz;Praça do Mestre de Aviz, 22, 9646-390 Alcácer do Sal;Farinha;178.85 L;16476;China;ZS2KVWP3XEWV;NODATE;26571416709481
+918;Padaria Central;Avenida Mariana Loureiro, 62, 9533-338 Matosinhos;Computador;337 un;73481;Espanha;2F5CUQOD1LF1;21/04/2033;46203047378694
+919;Global Tech;Largo de Cardoso, 65, 4609-617 Seixal;Camisola;10187 mL;19122;Alemanha;FUOPV5Q89LXP;NODATE;66759070340805
+920;Empresa Alfa;Av Micael Lourenço, 6, 4667-041 Santa Comba Dão;Farinha;185.0 L;30008;Espanha;MJRL2VNVBXMU;16/09/2026;78234181885579
+921;Padaria Central;Alameda Petra Araújo, 12, 8957-648 Fafe;Farinha;12358 mL;15638;Itália;70OKGBBY2EOX;NODATE;40454945059309
+922;Têxtil Lusa;R. de Alves, 51, 4180-612 Marinha Grande;Madeira;420.73 L;68952;Itália;BMBMLW1KASUX;NODATE;18247224293497
+923;Empresa do João;Avenida Letícia Loureiro, 27, 6627-262 Estremoz;Camisola;5622 g;58667;Portugal;OXJ3GJI3IFMD;03/08/2025;43948153213463
+924;Empresa do José;Praça Melissa Pacheco, 44, 4235-772 Portalegre; Azeite;177.78 L;29335;Portugal;CON0KOCTGE3E;NODATE;78933098721558
+925;Empresa do João;Largo Costa, 77, 8865-091 Seixal;Sabonete;496.08 kg;18579;Espanha;60OPV1B836IM;24/10/2025;26130980431142
+926;Empresa do João;R. Jéssica Azevedo, 67, 5075-248 Montijo;Cadeira;0.54 kg;17705;França;E8DSAYNBY2N5;27/12/2026;50272054674605
+927;Global Tech;Avenida dos Ingleses, S/N, 4033-968 Montijo;Pão;16163 mL;52205;França;PQ88VX29K4K3;13/11/2026;41487880413826
+928;Padaria Central;Alameda Simão Marques, 25, 4561-992 Funchal;Pão;285.15 kg;46376;Alemanha;2V91YYZYC0FK;NODATE;25219758575202
+929;Padaria Central;Travessa Borges, 80, 4617-712 Vila do Conde;Madeira;11.6 L;57560;Itália;OQLWA3X28RCP;20/11/2029;46676795410823
+930;Empresa Alfa;Rua Beatriz Barros, S/N, 6855-438 Peniche;Impressora;1291 mL;62197;França;GH6FPO2XZCHY;NODATE;03124222657432
+931;Química Duarte;Rua Matias, 65, 0152-869 Serpa;Vinho;19192 g;58296;Itália;EFS3AMVWOVHI;31/12/2027;66700412034187
+932;Química Duarte;Travessa de Lima, 62, 2882-619 Vila Nova de Foz Côa;Vinho;399.02 L;48970;França;OMCFBJSB7XMP;08/08/2029;19196752096865
+933;Empresa Alfa;Rua Borges, 89, 5385-533 Santarém;Impressora;981 un;59119;China;0GYR9NW3YJVD;15/02/2030;31673486061646
+934;Empresa do João;R. Nogueira, 72, 5641-949 Entroncamento;Impressora;213 un;65805;Brasil;6C7017SXIGPI;29/04/2033;08239869314265
+935;Móveis Raiz;Praça do Prof. Ruy Luís Gomes, 2, 5863-741 Fátima;Vinho;589 un;50018;França;GTL2AXH71JQQ;NODATE;45278036121095
+936;Empresa Alfa;Av de Fernandes, S/N, 9124-341 Vila Nova de Santo André;Madeira;10177 mL;69574;França;X4MCR7KPPLW9;30/11/2025;39310239259645
+937;Empresa do João;Rua Vicente Figueiredo, 59, 7075-122 Loures;Pão;15528 mL;26466;Portugal;CD46017Y1JFK;27/06/2027;21465051041085
+938;Empresa do José;Rua Vicente Alves, 64, 3998-182 Mealhada;Madeira;14.28 kg;52030;Espanha;3FF632X2G8HZ;09/03/2033;40235437669601
+939;Padaria Central;Largo Íris Cardoso, 2, 9433-663 Sines;Farinha;409.33 kg;71420;Portugal;F6FJ1I6YGIWG;NODATE;31525700737181
+940;Padaria Central;Travessa João Glama, 90, 1452-286 Sines;Farinha;584 un;38983;Alemanha;LKFN4J36HVP2;25/06/2026;24902118199977
+941;Química Duarte;Praça de Campos, S/N, 6930-629 Portalegre;Impressora;28 un;51711;Espanha;279AYQFZSM7N;26/02/2032;13555142200392
+942;Empresa Alfa;Avenida Domingues, 44, 8011-052 Ponte de Sor; Azeite;74 un;12301;Portugal;3YBGTCVU2A6K;23/03/2033;27338532665738
+943;Têxtil Lusa;Rua Simão Morais, 209, 4360-032 Odivelas;Vinho;16702 g;11267;Alemanha;GQ7M0MKBP27E;09/07/2032;80154665675075
+944;Empresa do José;R. Matias, 537, 3884-348 Lixa;Farinha;4887 g;97309;França;F2OBY1LOJXCV;13/10/2032;72870691225226
+945;Padaria Central;Praça Renata Baptista, 76, 9510-363 Tondela;Sabonete;210 un;27136;Itália;5J4EKTDRWENK;16/07/2031;24070239038345
+946;Empresa do José;R. de Teixeira, 6, 5127-710 Oliveira do Bairro;Farinha;14695 mL;12624;Itália;FP1CEBEWDOWS;15/08/2031;70848524258405
+947;Global Tech;Av Larissa Carvalho, S/N, 5136-983 Seia; Azeite;11921 mL;20766;França;8XAMMHTZZGIQ;27/12/2030;31892582869075
+948;Têxtil Lusa;Praça de Pinto, 162, 7478-964 Amarante;Madeira;178.79 kg;17349;Portugal;RSOQA1WYXQP0;18/01/2029;85491804743823
+949;Empresa do José;Av Mara Ferreira, 68, 0214-343 Paços de Ferreira;Cadeira;316.87 L;11113;Espanha;4ENRCAI7J528;08/05/2029;41286723404411
+950;Empresa Alfa;Alameda de Alves, 64, 6054-674 Gandra;Farinha;15295 mL;60094;Espanha;E5WOB4X1YUQ4;12/03/2029;94292749549671
+951;Global Tech;Travessa Cristiano Pinho, 92, 1190-514 Vila do Conde;Farinha;150.06 L;13620;Espanha;XTM2UMO23B3Y;NODATE;46389733339259
+952;Química Duarte;Alameda de José Serra, S/N, 1810-618 Fafe;Camisola;19.59 L;46204;Alemanha;QWM4D2HAZHG7;24/03/2032;06381256040263
+953;Móveis Raiz;Avenida Gomes, 53, 8796-904 Vila Nova de Famalicão;Computador;471 un;41928;China;OQAOWUJYW518;04/04/2027;39273345300014
+954;Empresa Alfa;Rua da Ranha, S/N, 6663-206 Rebordosa;Impressora;14864 g;71684;Espanha;IQF1685Z5DEO;20/02/2032;17988626486242
+955;Química Duarte;R. Gonçalves, 61, 0826-626 Castelo Branco;Cadeira;171.89 kg;40376;China;1HLECO54EMZU;12/12/2032;25496959254226
+956;Móveis Raiz;Alameda de Costa, 36, 5950-629 Mêda;Computador;2364 mL;45262;Portugal;AZEOOZYJ9N07;18/10/2034;05985540802551
+957;Têxtil Lusa;R. de Neto, S/N, 8403-915 Serpa;Sabonete;799 un;18735;Espanha;ODUTM3XSGMH4;NODATE;86799460319169
+958;Têxtil Lusa;Rua de Branco, 590, 9629-348 Faro;Camisola;9525 g;14265;Alemanha;NXLEL8AOZQ45;26/03/2031;83951327820493
+959;Móveis Raiz;Largo Madrid, 55, 0391-667 Vale de Cambra;Camisola;255.68 L;32703;França;BBTBQRC3GSK1;NODATE;34019225516791
+960;Global Tech;R. Velho do Outeiro, 61, 8357-509 Ourém;Impressora;368.01 kg;74446;Itália;L60SMVLYYI3F;NODATE;15566936594093
+961;Global Tech;Praça de Rodrigues, 71, 9673-161 Silves;Farinha;787 un;64669;Itália;6P9SW1ZMMJ20;18/05/2031;96589883495047
+962;Empresa Alfa;Travessa de Torres, 17, 1370-583 Matosinhos;Impressora;469.52 kg;72238;China;ADMUSILOMV3K;07/06/2026;14083153329991
+963;Empresa do João;Praça de Jesus, S/N, 6212-869 Loulé;Farinha;110.51 kg;63006;Itália;EWAEW443B85X;NODATE;77255951592461
+964;Global Tech;Alameda de Macedo, 4, 5837-746 Ílhavo;Sabonete;62.13 kg;57107;França;7VAZRZRYYLML;27/05/2034;51032333999545
+965;Padaria Central;R. Magalhães, S/N, 5560-734 Oliveira do Bairro;Computador;50.2 kg;33076;China;J9EMCY7G2TZY;12/10/2029;02826656441155
+966;Padaria Central;Rua Santos, 97, 6384-178 Rio Tinto;Camisola;244.1 kg;70127;Alemanha;0YN1CZAJYYMC;27/08/2031;88014904107414
+967;Empresa do José;Alameda Araújo, S/N, 8985-320 Trofa;Impressora;286.86 kg;24741;Espanha;4GOBIKUIDO0K;02/09/2030;93600254307870
+968;Móveis Raiz;Travessa Catarina Correia, 6, 1966-798 Moura;Computador;141.98 kg;70372;Espanha;7OIM639MWIWQ;18/07/2027;98374271169996
+969;Empresa Alfa;R. Inês Pacheco, S/N, 9556-917 Matosinhos;Computador;748 un;49950;Brasil;MFPQSIEYMTMW;22/09/2033;47933318635657
+970;Padaria Central;Rua de Pinho, 15, 0536-086 Lixa;Madeira;94.09 L;36453;Alemanha;QZALXLG4SJS6;NODATE;42451222346821
+971;Global Tech;Largo de Pires, 91, 5034-737 Moura;Camisola;94 un;74738;Brasil;GQYTP1HU1S3N;05/10/2026;90219497946519
+972;Empresa do João;R. dos Pinheiros ao Parque das Nações, 6, 5535-940 Sacavém;Farinha;423.39 L;55172;Itália;9Z20WHE5JSVS;NODATE;44777268124075
+973;Química Duarte;Avenida Freitas, S/N, 7991-921 Póvoa de Santa Iria; Azeite;48.3 L;10511;Espanha;RMVASWFUP7MA;05/10/2031;04011449466159
+974;Empresa Alfa;Av Futebol Clube do Porto, 42, 3685-145 Trofa;Impressora;155.6 kg;34685;Alemanha;F445KL9F10L6;NODATE;63172662282254
+975;Global Tech;Alameda Afonso Barbosa, 21, 8537-226 Miranda do Douro;Pão;16148 g;68790;Espanha;8Y0HPTN2C6EU;NODATE;90732573518060
+976;Global Tech;Largo Nascimento, 19, 0955-440 Chaves;Vinho;8655 mL;68868;Alemanha;CV1X0CYM5K3F;NODATE;53783922724292
+977;Têxtil Lusa;Praça de Fonseca, 863, 8921-408 Porto;Impressora;290 un;99847;Espanha;5ADNFJYHV63I;NODATE;94741950806850
+978;Empresa do João;Av Gil Campos, 7, 1136-104 Oliveira do Bairro; Azeite;270.67 kg;56841;Brasil;KIH1F11FKJWE;08/10/2031;63338961687443
+979;Empresa do José;Largo Emanuel Silva, S/N, 2634-701 Fiães;Madeira;405.37 kg;13694;China;3FZUU5E91TAI;18/09/2033;50700452675495
+980;Empresa do José;Rua de Henriques, 3, 1045-731 Gouveia;Sabonete;107.9 kg;52671;Espanha;XZFQMVRXZ13N;20/01/2032;14149910575653
+981;Padaria Central;Largo Vasco Baptista, 21, 0901-313 Albufeira;Madeira;246.99 L;24568;Espanha;TI1AEH3D0MNQ;20/08/2033;94656014473979
+982;Empresa do José;Largo da Carvalhosa, 62, 1481-044 Lagos;Camisola;10036 mL;16679;Alemanha;GERJKNYOADN1;14/09/2034;24334064301224
+983;Têxtil Lusa;Travessa de Simões, 76, 7720-654 Vila Nova de Foz Côa;Sabonete;327 g;36329;Portugal;P7BB0OMGMF70;NODATE;78175790810518
+984;Móveis Raiz;Av Machado de Asis, 81, 8459-029 Fiães;Pão;13056 g;47613;Brasil;449A76PHGCN3;05/08/2031;89740491966654
+985;Empresa Alfa;Praça Gonçalves, S/N, 2717-269 Alcácer do Sal;Pão;11276 mL;86969;França;NDYS8PS90MOQ;04/12/2032;76508233578468
+986;Química Duarte;Praça Azevedo, S/N, 4616-471 Estarreja; Azeite;189.86 kg;92735;Portugal;NBXB17FI504C;30/06/2030;55781026352495
+987;Química Duarte;Rua Diana Lourenço, 99, 4252-200 Vila do Conde;Computador;937 un;56424;França;GIZ1M3IM0V8E;01/01/2028;62059142325567
+988;Global Tech;Avenida do Monte da Lapa, 62, 4762-895 Silves;Pão;303.31 L;95398;Portugal;ACSPALBM5KEV;17/04/2032;99912531674769
+989;Global Tech;Av de Machado, S/N, 8363-464 Figueira da Foz;Camisola;1559 mL;29533;Alemanha;2X1R8ANTMYI4;04/12/2031;82989639524456
+990;Empresa do José;Avenida Nelson Nogueira, 958, 4977-135 Vale de Cambra;Impressora;2873 g;54358;Brasil;WBCUK1QK8SMB;NODATE;50871809803327
+991;Padaria Central;R. Maia, 68, 9306-815 Évora;Sabonete;15315 g;44433;Alemanha;OQ51YCV28IE0;13/08/2033;75493806001288
+992;Empresa do João;Av de Maia, 25, 6262-309 Santa Maria da Feira;Camisola;177 un;63312;Alemanha;EAR23QH4EU0A;29/07/2025;04449887393048
+993;Química Duarte;Alameda de Figueiredo, 1, 6332-835 Porto;Farinha;18677 g;67725;França;R6TPSNKHV67O;NODATE;42766193572446
+994;Global Tech;Alameda de Campos, 47, 3940-085 Freamunde;Pão;11775 mL;57236;Itália;J4Y1KNQL244Q;28/01/2034;93594465721702
+995;Móveis Raiz;Largo Tatiana Mendes, 5, 9480-159 Miranda do Douro;Computador;8257 mL;64846;Portugal;JTZWJTD6R9HI;NODATE;99723138397180
+996;Empresa do João;Av de Macedo, 65, 3034-987 Lourosa;Camisola;11369 g;75439;França;5QMPXRKZ95LH;NODATE;88389354954464
+997;Têxtil Lusa;Av Nicole Campos, 69, 2163-037 Serpa;Madeira;3841 g;78400;Itália;EPLUSLSOKMGM;21/07/2032;97056272605747
+998;Móveis Raiz;Rua Ramos, 28, 9245-596 Aveiro;Computador;555 un;87251;China;ZJ2W728OBUMS;15/03/2032;89134860941760
+999;Química Duarte;Largo Almeida, 50, 5151-241 Póvoa de Santa Iria;Farinha;16871 mL;89196;Portugal;R8V82MB7J8SU;03/11/2028;82175929228450
+1000;Global Tech;Praça de Santos, 60, 1843-064 Fiães;Vinho;6013 g;40865;França;GMY89BMLYMSF;21/05/2029;91474635371577
