@@ -55,7 +55,3 @@ Here are some of the languages, frameworks, and tools included in these projects
 This repository is shared under the **MIT License**, meaning you can freely use and modify the code with attribution.
 
 ---
-
-## 🧑‍💻 Author
-
-**<Mateus>**  
