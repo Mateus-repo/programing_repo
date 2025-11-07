@@ -1,5 +1,6 @@
 package com.example.t62_3activity
 
+import android.content.Intent
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
@@ -7,6 +8,7 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import com.example.t62_3activity.databinding.ActivityLoginErradoBinding
 import com.example.t62_3activity.databinding.ActivityMainBinding
+import kotlin.jvm.java
 
 class LoginErradoActivity : AppCompatActivity() {
     private val binding by lazy { ActivityLoginErradoBinding.inflate(layoutInflater)}
@@ -18,6 +20,10 @@ class LoginErradoActivity : AppCompatActivity() {
             val systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars())
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
+        }
+        binding.buttonVoltar.setOnClickListener {
+            val i = Intent(this, MainActivity::class.java)
+            startActivity(i)
         }
     }
 }

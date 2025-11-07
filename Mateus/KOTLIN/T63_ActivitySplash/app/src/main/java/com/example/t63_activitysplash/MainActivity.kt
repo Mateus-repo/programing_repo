@@ -1,4 +1,4 @@
-package com.example.t62_3activity
+package com.example.t63_activitysplash
 
 import android.content.Intent
 import android.os.Bundle
@@ -7,9 +7,7 @@ import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
-import com.example.t62_3activity.databinding.ActivityLoginErradoBinding
-import com.example.t62_3activity.databinding.ActivityLoginOkBinding
-import com.example.t62_3activity.databinding.ActivityMainBinding
+import com.example.t63_activitysplash.databinding.ActivityMainBinding
 import kotlin.jvm.java
 
 class MainActivity : AppCompatActivity() {

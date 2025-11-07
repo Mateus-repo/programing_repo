@@ -13,7 +13,7 @@
         android:layout_height="match_parent"
         android:gravity="center"
         android:fontFamily=""
-        android:text="Boas Vindas"
+        android:text="SplashScreen"
         android:textSize="40sp"/>
 
 </LinearLayout>
