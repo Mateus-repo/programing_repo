@@ -65,6 +65,10 @@ int main() {
             cout << "Entrada invalida! Digite um numero positivo.\n";
             hold();
             continue;
+        }else if (atr_dbl_main_comprimento<=0){
+            cout << "Entrada invalida! Digite um numero positivo.\n";
+            hold();
+            continue;
         }
         else {
             break;
@@ -77,6 +81,10 @@ int main() {
             cin.clear();
             cin.ignore((numeric_limits<streamsize>::max()), '\n');
             system("cls");
+            cout << "Entrada invalida! Digite um numero positivo.\n";
+            hold();
+            continue;
+        }else if (atr_dbl_main_largura<=0){
             cout << "Entrada invalida! Digite um numero positivo.\n";
             hold();
             continue;
