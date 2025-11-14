@@ -21,6 +21,7 @@ Links de pesquisa: https://www.w3schools.com/cpp/ - https://www.geeksforgeeks.or
 #define NOMINMAX
 #include <iostream>
 #include <conio.h>
+#include <limits>
 #include <windows.h>
 #include <string>
 #define SHOWNAME(var) std::cout << #var;
@@ -104,14 +105,14 @@ int main() {
 
 void hold() {
     cout << "\n(Prima \"Enter\" para continuar a execucao!)";
-    char tempOut = _getch();
+    char atr_chr_hld_tempOut = _getch();
     system("cls");
     return;
 }
 
 void endProgram() {
     cout << "\n\nPressione ENTER para sair...";
-    char tempOut = _getch();
+    char atr_chr_end_tempOut = _getch();
     system("cls");
     return;
 }
