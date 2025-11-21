@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "CM321_10_Funções_WinFormsApp/1.0.0": {
+        "runtime": {
+          "CM321_10_Funções_WinFormsApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CM321_10_Funções_WinFormsApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Strefiz\RiderProjects\CM321_10_Funções_WinFormsApp\CM321_10_Funções_WinFormsApp\bin\Debug\net10.0-windows\CM321_10_Funções_WinFormsApp.exe
+C:\Users\Strefiz\RiderProjects\CM321_10_Funções_WinFormsApp\CM321_10_Funções_WinFormsApp\bin\Debug\net10.0-windows\CM321_10_Funções_WinFormsApp.deps.json
+C:\Users\Strefiz\RiderProjects\CM321_10_Funções_WinFormsApp\CM321_10_Funções_WinFormsApp\bin\Debug\net10.0-windows\CM321_10_Funções_WinFormsApp.runtimeconfig.json
+C:\Users\Strefiz\RiderProjects\CM321_10_Funções_WinFormsApp\CM321_10_Funções_WinFormsApp\bin\Debug\net10.0-windows\CM321_10_Funções_WinFormsApp.dll
+C:\Users\Strefiz\RiderProjects\CM321_10_Funções_WinFormsApp\CM321_10_Funções_WinFormsApp\bin\Debug\net10.0-windows\CM321_10_Funções_WinFormsApp.pdb
+C:\Users\Strefiz\RiderProjects\CM321_10_Funções_WinFormsApp\CM321_10_Funções_WinFormsApp\obj\Debug\net10.0-windows\CM321_10_Funções_WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Strefiz\RiderProjects\CM321_10_Funções_WinFormsApp\CM321_10_Funções_WinFormsApp\obj\Debug\net10.0-windows\CM321_10_Funções_WinFormsApp.AssemblyInfoInputs.cache
+C:\Users\Strefiz\RiderProjects\CM321_10_Funções_WinFormsApp\CM321_10_Funções_WinFormsApp\obj\Debug\net10.0-windows\CM321_10_Funções_WinFormsApp.AssemblyInfo.cs
+C:\Users\Strefiz\RiderProjects\CM321_10_Funções_WinFormsApp\CM321_10_Funções_WinFormsApp\obj\Debug\net10.0-windows\CM321_10_Funções_WinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Strefiz\RiderProjects\CM321_10_Funções_WinFormsApp\CM321_10_Funções_WinFormsApp\obj\Debug\net10.0-windows\CM321_10_Funções_WinFormsApp.dll
+C:\Users\Strefiz\RiderProjects\CM321_10_Funções_WinFormsApp\CM321_10_Funções_WinFormsApp\obj\Debug\net10.0-windows\refint\CM321_10_Funções_WinFormsApp.dll
+C:\Users\Strefiz\RiderProjects\CM321_10_Funções_WinFormsApp\CM321_10_Funções_WinFormsApp\obj\Debug\net10.0-windows\CM321_10_Funções_WinFormsApp.pdb
+C:\Users\Strefiz\RiderProjects\CM321_10_Funções_WinFormsApp\CM321_10_Funções_WinFormsApp\obj\Debug\net10.0-windows\CM321_10_Funções_WinFormsApp.genruntimeconfig.cache
+C:\Users\Strefiz\RiderProjects\CM321_10_Funções_WinFormsApp\CM321_10_Funções_WinFormsApp\obj\Debug\net10.0-windows\ref\CM321_10_Funções_WinFormsApp.dll
