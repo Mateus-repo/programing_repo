@@ -84,12 +84,14 @@ public partial class Form1 : Form
     private double GetTotal(List<double> notasTemp)
     {
         double total = notasTemp.Sum();
+        total = Math.Round(total, 2);
         return total;
     }
 
     private void GetMediaEndereco(List<double> notasTemp, out double var_media)
     {
         var_media = notasTemp.Average();
+        var_media = Math.Round(var_media, 2);
     }
     private void BtnCalcular_Click(object sender, EventArgs e)
     {
