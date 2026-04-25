@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Senhas em Espera</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Sans:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="../static/css/bootstrap.css" />
+  <link rel="stylesheet" href="../static/css/styles.css" />
+</head>
+<body>
+  <div class="container">
+
+    <div class="card card--green">
+      <span class="numero">{{ listaA[0]['numSenha'] if listaA else '-' }}</span>
+      <p class="espera">{{ listaA | length }} senhas em espera<br />
+        <span class="tempo-medio">Tempo médio: {{ tempoMedioA | average | round(2) }} sec</span>
+    </div>
+
+    <div class="card card--blue">
+      <span class="numero">{{ listaB[0]['numSenha'] if listaB else '-' }}</span>
+      <p class="espera">{{ listaB | length }} senhas em espera<br />
+        <span class="tempo-medio">Tempo médio: {{ tempoMedioB | average | round(2) }} sec</span>
+    </div>
+
+    <div class="card card--pink">
+      <span class="numero">{{ listaC[0]['numSenha'] if listaC else '-' }}</span>
+      <p class="espera">{{ listaC | length }} senhas em espera<br />
+        <span class="tempo-medio">Tempo médio: {{ tempoMedioC | average | round(2) }} sec</span>
+    </div>
+
+  </div>
+  <script>
+    setTimeout(() => {
+      window.location.reload();
+    }, 1*60*1000); // Atualiza a cada 1 minuto
+  </script>
+</body>
+</html>

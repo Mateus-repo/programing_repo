@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sistema de Gestão de Senhas</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Sans:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="../static/css/bootstrap.css" />
+  <link rel="stylesheet" href="../static/css/styles.css" />
+</head>
+<body>
+  <div class="welcome-container">
+    <h1>Bem-vindo ao sistema de gestão de senhas</h1>
+    <div class="btn-row">
+      <button onclick="window.location.href='/monitor'" class="btn-verde">Monitor</button>
+      <button onclick="window.location.href='/senhas'" class="btn-laranja">Senhas</button>
+    </div>
+  </div>
+  <script>
+    setTimeout(() => {
+      window.location.reload();
+    }, 1*60*1000); // Atualiza a cada 1 minuto
+  </script>
+</body>
+</html>

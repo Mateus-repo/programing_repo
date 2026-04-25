@@ -1,0 +1,280 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'DM Sans', sans-serif;
+  background: #f0ece8;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.container {
+  display: flex;
+  gap: 1.5rem;
+  width: 100%;
+  max-width: 1100px;
+}
+
+/* --- Card base --- */
+.card {
+  flex: 1;
+  border-radius: 20px;
+  padding: 2rem 2rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 340px;
+  position: relative;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+}
+
+/* --- Colour variants --- */
+.card--green  { background: #b6eacb; }
+.card--blue   { background: #aed6f1; }
+.card--pink   { background: #f5b8c8; }
+
+/* --- Big number --- */
+.numero {
+  font-family: 'DM Serif Display', serif;
+  font-size: clamp(6rem, 15vw, 11rem);
+  line-height: 1;
+  width: 70%;
+  text-align: center;
+  letter-spacing: -0.02em;
+  user-select: none;
+}
+
+.card--green  .numero { color: #1a6636; }
+.card--blue   .numero { color: #154f7a; }
+.card--pink   .numero { color: #7a1a36; }
+
+/* --- Waiting text --- */
+.espera {
+  font-family: 'DM Sans', sans-serif;
+  font-size: clamp(0.75rem, 1.4vw, 1rem);
+  font-weight: 500;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  width: 100%;
+  text-align: right;
+  padding-right: 0.25rem;
+  opacity: 0.7;
+}
+
+.tempo-medio {
+  display: block;
+  font-size: 0.85em;
+  font-weight: 400;
+  margin-top: 0.15rem;
+}
+
+.tempo-valor {
+  display: inline-block;
+  font-weight: 700;
+  border-radius: 999px;
+  padding: 0.2rem 0.6rem;
+  margin-left: 0.4rem;
+  color: #fff;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.card--green .tempo-valor {
+  background: linear-gradient(135deg, rgba(26,102,54,0.95), rgba(87,196,126,0.95));
+}
+
+.card--blue .tempo-valor {
+  background: linear-gradient(135deg, rgba(21,79,122,0.95), rgba(90,174,224,0.95));
+}
+
+.card--pink .tempo-valor {
+  background: linear-gradient(135deg, rgba(122,26,54,0.95), rgba(245,184,200,0.95));
+}
+
+.card--green  .espera { color: #1a6636; }
+.card--blue   .espera { color: #154f7a; }
+.card--pink   .espera { color: #7a1a36; }
+
+/* --- Responsive stack on mobile --- */
+@media (max-width: 640px) {
+  .container {
+    flex-direction: column;
+  }
+}
+
+
+/* ============================================
+   SENHAS PAGE
+   ============================================ */
+
+.senhas-body {
+  padding: 0;
+  align-items: stretch;
+  justify-content: stretch;
+  min-height: 100vh;
+}
+
+.senhas-layout {
+  display: flex;
+  width: 100%;
+  min-height: 100vh;
+}
+
+/* --- Panels --- */
+.painel {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  padding: 3rem 2.5rem;
+}
+
+.painel--nova     { background: #dff2e9; }
+.painel--finalizar { background: #dce8f7; }
+
+/* --- Panel heading --- */
+.painel__titulo {
+  font-family: 'DM Serif Display', serif;
+  font-size: clamp(1.6rem, 3vw, 2.4rem);
+  letter-spacing: -0.01em;
+  margin-bottom: 0.5rem;
+  text-align: center;
+}
+
+.painel--nova      .painel__titulo { color: #1a6636; }
+.painel--finalizar .painel__titulo { color: #154f7a; }
+
+/* --- Divider line --- */
+.painel__linha {
+  width: 48px;
+  height: 3px;
+  border-radius: 2px;
+  margin: 0 auto 1rem;
+}
+
+.painel--nova      .painel__linha { background: #1a6636; }
+.painel--finalizar .painel__linha { background: #154f7a; }
+
+/* --- Buttons group --- */
+.painel__botoes {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  width: 100%;
+  max-width: 320px;
+}
+
+/* --- Button base --- */
+.btn-servico {
+  font-family: 'DM Sans', sans-serif;
+  font-size: clamp(1rem, 1.8vw, 1.2rem);
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  padding: 1rem 1.5rem;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, filter 0.15s ease;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.12);
+}
+
+.btn-servico:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+  filter: brightness(1.05);
+}
+
+.btn-servico:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.12);
+}
+
+/* --- Button colours — Nova Senha panel (green tones) --- */
+.painel--nova .btn-a { background: #1a6636; color: #e8fdf0; }
+.painel--nova .btn-b { background: #2e9e56; color: #e8fdf0; }
+.painel--nova .btn-c { background: #57c47e; color: #0d3820; }
+
+/* --- Button colours — Finalizar panel (blue tones) --- */
+.painel--finalizar .btn-a { background: #154f7a; color: #e4f0fb; }
+.painel--finalizar .btn-b { background: #2076b4; color: #e4f0fb; }
+.painel--finalizar .btn-c { background: #5aaee0; color: #0b2d47; }
+
+/* --- Vertical divider between panels --- */
+.senhas-divider {
+  width: 2px;
+  background: rgba(0,0,0,0.08);
+  align-self: stretch;
+}
+
+/* --- Welcome page --- */
+.welcome-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  min-height: 100vh;
+  text-align: center;
+  width: 100%;
+  padding: 2rem;
+}
+
+.btn-row {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+  max-width: 960px;
+}
+
+.btn-row button {
+  flex: 1 1 220px;
+  min-width: 200px;
+  font-family: 'DM Sans', sans-serif;
+  font-size: clamp(1.6rem, 3.3vw, 2.2rem);
+  font-weight: 700;
+  color: #fff;
+  border: 0;
+  border-radius: 12px;
+  padding: 1rem 1.5rem;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.22);
+  cursor: pointer;
+  transition: transform 0.18s ease, box-shadow 0.18s ease, filter 0.18s ease;
+}
+
+.btn-row button:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.28);
+  filter: brightness(1.05);
+}
+
+.btn-row button:active {
+  transform: translateY(0);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
+}
+
+.btn-verde { background: linear-gradient(135deg, #1a6636 0%, #57c47e 100%); }
+.btn-laranja { background: linear-gradient(135deg, #f97d18 0%, #ffb058 100%); }
+.btn-azul { background: linear-gradient(135deg, #154f7a 0%, #5aaee0 100%); }
+
+/* --- Responsive stack on mobile --- */
+@media (max-width: 640px) {
+  .senhas-layout {
+    flex-direction: column;
+  }
+  .senhas-divider {
+    width: 100%;
+    height: 2px;
+  }
+}

@@ -1,0 +1,83 @@
+
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gestão de Senhas</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Sans:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="../static/css/bootstrap.css" />
+  <link rel="stylesheet" href="../static/css/styles.css" />
+</head>
+<body class="senhas-body">
+
+  <div class="senhas-layout">
+
+    <!-- Painel esquerdo: Nova Senha -->
+    <section class="painel painel--nova">
+      <div>
+        <h1 class="painel__titulo">Nova Senha</h1>
+        <div class="painel__linha"></div>
+      </div>
+      <div class="painel__botoes">
+        <button class="btn-servico btn-senha btn-a">Serviço A</button>
+        <button class="btn-servico btn-senha btn-b">Serviço B</button>
+        <button class="btn-servico btn-senha btn-c">Serviço C</button>
+      </div>
+    </section>
+
+    <div class="senhas-divider"></div>
+
+    <!-- Painel direito: Finalizar Atendimento -->
+    <section class="painel painel--finalizar">
+      <div>
+        <h1 class="painel__titulo">Finalizar Atendimento</h1>
+        <div class="painel__linha"></div>
+      </div>
+      <div class="painel__botoes">
+        <button class="btn-servico btn-atendimento btn-a">Serviço A</button>
+        <button class="btn-servico btn-atendimento btn-b">Serviço B</button>
+        <button class="btn-servico btn-atendimento btn-c">Serviço C</button>
+      </div>
+    </section>
+
+  </div>
+<script>
+  document.querySelectorAll('.btn-servico').forEach(btn => {
+    btn.addEventListener('click', async function() {
+      console.log('Botão pressionado:', this.textContent);
+
+      let servicoSenha = null;
+      let servicoAtendimento = null;
+
+      if (this.classList.contains('btn-atendimento')) {
+        console.log('Botão de atendimento pressionado');
+        servicoAtendimento = this.textContent.includes('A') ? 'A' :
+                            this.textContent.includes('B') ? 'B' : 'C';
+      } 
+      else if (this.classList.contains('btn-senha')) {
+        console.log('Botão de senha pressionado');
+        servicoSenha = this.textContent.includes('A') ? 'A' :
+                      this.textContent.includes('B') ? 'B' : 'C';
+      }
+
+      const response = await fetch('/alterar_lista', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ servicoSenha, servicoAtendimento })
+      });
+
+      const data = await response.json();
+      console.log('Lista atualizada:', data.lista);
+    });
+  });
+
+</script>
+<script>
+    setTimeout(() => {
+      window.location.reload();
+    }, 1*60*1000); // Atualiza a cada 1 minuto
+  </script>
+</body>
+</html>

@@ -1,0 +1,32 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resultados</title>
+    <link rel="stylesheet" href="../static/css/styles.css" />
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Resultados do Quiz</h1>
+        </div>
+
+        <div class="results-section">
+            {% for pergunta in perguntas %}
+                <div class="result-item {% if respostas[loop.index0]['answer_status'] == 'Correta' %}answer-correct{% else %}answer-wrong{% endif %}">
+                    <p><strong>Pergunta {{ loop.index }}:</strong> {{ pergunta['pergunta'] }}</p>
+                    <p><strong>Sua resposta:</strong> {{ respostas[loop.index0]['answer'] }}</p>
+                    <p><strong>Resposta correta:</strong> {{ pergunta['resposta'] }}</p>
+                    <p><strong>Status:</strong> {{ respostas[loop.index0]['answer_status'] }}</p>
+                </div>
+            {% endfor %}
+        </div>
+        <div class="total-points">
+            Pontuação Total: {{ pontos_totais }} pontos
+        </div>
+        <div class="button-group">
+            <button type="button" class="btn-restart" onclick="window.location.href='/'">Reiniciar Quiz</button>
+        </div>
+    </div>
+</body>
+</html>

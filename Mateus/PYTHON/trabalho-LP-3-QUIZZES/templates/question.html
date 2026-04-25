@@ -1,0 +1,63 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Questão {{pergunta_atual}}</title>
+    <link rel="stylesheet" href="../static/css/styles.css" />
+    <style>
+        .question-image {
+            width: 100%;
+            max-height: 250px;
+            object-fit: cover;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <span class="question-number">Pergunta {{ pergunta_atual }} de {{ perguntas|length }}</span>
+            <h1>Quiz de Perguntas</h1>
+        </div>
+        
+        <div class="question-section">
+            <p class="question-text">{{ perguntas[pergunta_atual - 1]['pergunta'] }}</p>
+        </div>
+
+        <div>
+            <img src="{{ perguntas[pergunta_atual - 1]['img_url'] }}" alt="Imagem da pergunta" class="question-image">
+        </div>
+
+        <div class="options-section">
+            <h3 class="options-title">Selecione a sua resposta:</h3>
+            {% for opcao in perguntas[pergunta_atual - 1]['opcoes'] %}
+                <div class="option">
+                    <input type="radio" id="option_{{ loop.index0 }}" name="answer" value="{{ loop.index0 }}">
+                    <label for="option_{{ loop.index0 }}">{{ opcao }}</label>
+                </div>
+            {% endfor %}
+        </div>
+
+        <div class="button-group">
+            {% if pergunta_atual > 1 %}
+                <button type="button" class="btn-secondary" onclick="window.location.href='/question/{{ pergunta_atual - 1 }}'">Pergunta Anterior</button>
+            {% endif %}
+            <button type="button" class="btn-primary" onclick="submitAnswer({{ pergunta_atual }})">Próxima Pergunta</button>
+        </div>
+    </div>
+
+    <script>
+        function submitAnswer(perguntaAtual) {
+            const selected = document.querySelector('input[name="answer"]:checked');
+            if (!selected) {
+                alert('Por favor, selecione uma resposta antes de continuar.');
+                return;
+            }
+            const answer = encodeURIComponent(selected.value);
+            window.location.href = `/submit_answer/${perguntaAtual}/${answer}`;
+        }
+    </script>
+</body>
+</html>
