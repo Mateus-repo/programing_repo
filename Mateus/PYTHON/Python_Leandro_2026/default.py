@@ -1,2 +1,3 @@
 # -*- coding: utf-8 -*-
-print("Hello World")
+numero_aleatorio = 5
+print("O número aleatório gerado foi: ",numero_aleatorio)
