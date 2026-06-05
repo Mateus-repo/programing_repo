@@ -1,0 +1,123 @@
+2025-06-28 18:22:18,645 INFO: --> Iniciando (13 vídeos): https://www.youtube.com/playlist?list=PL3NDcPHBUdHMbAzxnkd7h7jHh40ie16ex
+2025-06-28 18:22:18,645 INFO:     saída em: downloaded_pl\playlist_01
+2025-06-28 18:22:32,575 INFO: Concluído 1/13: 001 - WAKFU S03E01 - Tomber de haut.f399.mp4 (tempo: 0:00:08)
+2025-06-28 18:22:34,610 INFO: Concluído 2/13: 001 - WAKFU S03E01 - Tomber de haut.f251.webm (tempo: 0:00:01)
+2025-06-28 18:22:39,756 INFO: Concluído 3/13: 002 - WAKFU S03E02 - Tel père, telle fille.f399.mp4 (tempo: 0:00:01)
+2025-06-28 18:22:40,620 INFO: Concluído 4/13: 002 - WAKFU S03E02 - Tel père, telle fille.f251.webm (tempo: 0:00:00)
+2025-06-28 18:22:49,156 INFO: Concluído 5/13: 003 - WAKFU S03E03 - La tour d'Oropo.f399.mp4 (tempo: 0:00:04)
+2025-06-28 18:22:51,155 INFO: Concluído 6/13: 003 - WAKFU S03E03 - La tour d'Oropo.f251.webm (tempo: 0:00:01)
+2025-06-28 18:23:01,688 INFO: Concluído 7/13: 004 - WAKFU S03E04 - Beasty girl.f248.webm (tempo: 0:00:07)
+2025-06-28 18:23:03,086 INFO: Concluído 8/13: 004 - WAKFU S03E04 - Beasty girl.f251.webm (tempo: 0:00:01)
+2025-06-28 18:23:12,621 INFO: Concluído 9/13: 005 - WAKFU S03E05 - A iop hides himself to cry.f248.webm (tempo: 0:00:06)
+2025-06-28 18:23:13,186 INFO: Concluído 10/13: 005 - WAKFU S03E05 - A iop hides himself to cry.f251.webm (tempo: 0:00:00)
+2025-06-28 18:23:23,547 INFO: Concluído 11/13: 006 - WAKFU S03E06 - Ecaflip's scratching post.f248.webm (tempo: 0:00:06)
+2025-06-28 18:23:25,260 INFO: Concluído 12/13: 006 - WAKFU S03E06 - Ecaflip's scratching post.f251.webm (tempo: 0:00:01)
+2025-06-28 18:23:37,965 INFO: Concluído 13/13: 007 - WAKFU S03E07 - Pinball hazard.f248.webm (tempo: 0:00:09)
+2025-06-28 18:23:39,379 INFO: Concluído 14/13: 007 - WAKFU S03E07 - Pinball hazard.f251.webm (tempo: 0:00:01)
+2025-06-28 18:23:45,925 INFO: Concluído 15/13: 008 - WAKFU S03E08 - Arpagone.f248.webm (tempo: 0:00:03)
+2025-06-28 18:23:47,190 INFO: Concluído 16/13: 008 - WAKFU S03E08 - Arpagone.f251.webm (tempo: 0:00:01)
+2025-06-28 18:23:59,401 INFO: Concluído 17/13: 009 - WAKFU S03E09 - Dathura.f248.webm (tempo: 0:00:08)
+2025-06-28 18:24:00,777 INFO: Concluído 18/13: 009 - WAKFU S03E09 - Dathura.f251.webm (tempo: 0:00:01)
+2025-06-28 18:24:14,032 INFO: Concluído 19/13: 010 - WAKFU S03E10 - When the walls fall down.f248.webm (tempo: 0:00:10)
+2025-06-28 18:24:15,088 INFO: Concluído 20/13: 010 - WAKFU S03E10 - When the walls fall down.f251.webm (tempo: 0:00:00)
+2025-06-28 18:24:27,533 INFO: Concluído 21/13: 011 - WAKFU S03E11 - Oropo.f248.webm (tempo: 0:00:09)
+2025-06-28 18:24:29,876 INFO: Concluído 22/13: 011 - WAKFU S03E11 - Oropo.f251.webm (tempo: 0:00:00)
+2025-06-28 18:24:42,850 INFO: Concluído 23/13: 012 - WAKFU S03E12 - The Hyperzaap.f248.webm (tempo: 0:00:09)
+2025-06-28 18:24:43,995 INFO: Concluído 24/13: 012 - WAKFU S03E12 - The Hyperzaap.f251.webm (tempo: 0:00:01)
+2025-06-28 18:24:56,250 INFO: Concluído 25/13: 013 - WAKFU S03E13 - Ingloriom.f248.webm (tempo: 0:00:09)
+2025-06-28 18:24:57,666 INFO: Concluído 26/13: 013 - WAKFU S03E13 - Ingloriom.f251.webm (tempo: 0:00:01)
+2025-06-28 18:24:58,124 INFO: <-- Concluído playlist: https://www.youtube.com/playlist?list=PL3NDcPHBUdHMbAzxnkd7h7jHh40ie16ex
+
+2025-07-16 18:44:54,238 INFO: --> Iniciando (0 vídeos): https://www.youtube.com/watch?v=m3F6t_rIV_g
+2025-07-16 18:44:54,238 INFO:     saída em: downloaded_pl\playlist_01
+2025-07-16 18:44:59,575 ERROR: [0;31mERROR:[0m unable to download video data: HTTP Error 403: Forbidden
+2025-07-16 18:44:59,576 ERROR: Erro ao processar playlist #1: https://www.youtube.com/watch?v=m3F6t_rIV_g
+Traceback (most recent call last):
+  File "C:\Users\mateu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\yt_dlp\networking\_urllib.py", line 399, in _send
+    res = opener.open(urllib_req, timeout=self._calculate_timeout(request))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\urllib\request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\urllib\request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\urllib\request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\urllib\request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\urllib\request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 403: Forbidden
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\mateu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\yt_dlp\YoutubeDL.py", line 3500, in process_info
+    partial_success, real_download = self.dl(fname, new_info)
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mateu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\yt_dlp\YoutubeDL.py", line 3238, in dl
+    return fd.download(name, new_info, subtitle)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mateu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\yt_dlp\downloader\common.py", line 468, in download
+    ret = self.real_download(filename, info_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mateu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\yt_dlp\downloader\http.py", line 367, in real_download
+    establish_connection()
+  File "C:\Users\mateu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\yt_dlp\downloader\http.py", line 118, in establish_connection
+    ctx.data = self.ydl.urlopen(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mateu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\yt_dlp\YoutubeDL.py", line 4197, in urlopen
+    return self._request_director.send(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mateu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\yt_dlp\networking\common.py", line 117, in send
+    response = handler.send(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mateu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\yt_dlp\networking\_helper.py", line 194, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mateu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\yt_dlp\networking\common.py", line 359, in send
+    return self._send(request)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mateu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\yt_dlp\networking\_urllib.py", line 404, in _send
+    raise HTTPError(UrllibResponseAdapter(e.fp), redirect_loop='redirect error' in str(e)) from e
+yt_dlp.networking.exceptions.HTTPError: HTTP Error 403: Forbidden
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\mateu\Documents\downlaod_playlist_yt\download_playlist.py", line 151, in main
+    download_one(url, out, args.cookies)
+  File "C:\Users\mateu\Documents\downlaod_playlist_yt\download_playlist.py", line 110, in download_one
+    ydl.download([playlist_url])
+  File "C:\Users\mateu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\yt_dlp\YoutubeDL.py", line 3644, in download
+    self.__download_wrapper(self.extract_info)(
+  File "C:\Users\mateu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\yt_dlp\YoutubeDL.py", line 3617, in wrapper
+    res = func(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mateu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\yt_dlp\YoutubeDL.py", line 1651, in extract_info
+    return self.__extract_info(url, self.get_info_extractor(key), download, extra_info, process)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mateu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\yt_dlp\YoutubeDL.py", line 1662, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mateu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\yt_dlp\YoutubeDL.py", line 1818, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mateu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\yt_dlp\YoutubeDL.py", line 1877, in process_ie_result
+    ie_result = self.process_video_result(ie_result, download=download)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mateu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\yt_dlp\YoutubeDL.py", line 3050, in process_video_result
+    self.process_info(new_info)
+  File "C:\Users\mateu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\yt_dlp\YoutubeDL.py", line 185, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mateu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\yt_dlp\YoutubeDL.py", line 3527, in process_info
+    self.report_error(f'unable to download video data: {err}')
+  File "C:\Users\mateu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\yt_dlp\YoutubeDL.py", line 1120, in report_error
+    self.trouble(f'{self._format_err("ERROR:", self.Styles.ERROR)} {message}', *args, **kwargs)
+  File "C:\Users\mateu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\yt_dlp\YoutubeDL.py", line 1059, in trouble
+    raise DownloadError(message, exc_info)
+yt_dlp.utils.DownloadError: [0;31mERROR:[0m unable to download video data: HTTP Error 403: Forbidden

@@ -1,0 +1,6 @@
+{
+    "client_id": "e9f6dc5586724f969fa47057f92f4587",
+    "client_secret": "412f033eac6d45519a1271007b5d0f60",
+    "redirect_uri": "https://localhost:8888/callback",
+	"music_num": "True"
+}

@@ -1,0 +1,110 @@
+2025-06-26 15:16:49,174 INFO: 
+Baixando kusuriya-no-hitorigoto-2nd-season: ep. 01 → 12 em C:\anime_download\kusuriya-no-hitorigoto-2nd-season
+2025-06-26 15:16:49,175 INFO:   → Acessando https://betteranime.net/anime/legendado/kusuriya-no-hitorigoto-2nd-season/episodio-01
+2025-06-26 15:16:49,457 ERROR:     ✗ Erro ep. 01: Botão de download não encontrado na página.
+Traceback (most recent call last):
+  File "C:\Users\mateu\Documents\downlaod_playlist_btan\download_animes.py", line 102, in download_anime
+    download_episode(page, out, session)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mateu\Documents\downlaod_playlist_btan\download_animes.py", line 68, in download_episode
+    raise RuntimeError("Botão de download não encontrado na página.")
+RuntimeError: Botão de download não encontrado na página.
+2025-06-26 15:16:49,459 INFO:   → Acessando https://betteranime.net/anime/legendado/kusuriya-no-hitorigoto-2nd-season/episodio-02
+2025-06-26 15:16:49,607 ERROR:     ✗ Erro ep. 02: Botão de download não encontrado na página.
+Traceback (most recent call last):
+  File "C:\Users\mateu\Documents\downlaod_playlist_btan\download_animes.py", line 102, in download_anime
+    download_episode(page, out, session)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mateu\Documents\downlaod_playlist_btan\download_animes.py", line 68, in download_episode
+    raise RuntimeError("Botão de download não encontrado na página.")
+RuntimeError: Botão de download não encontrado na página.
+2025-06-26 15:16:49,609 INFO:   → Acessando https://betteranime.net/anime/legendado/kusuriya-no-hitorigoto-2nd-season/episodio-03
+2025-06-26 15:16:49,766 ERROR:     ✗ Erro ep. 03: Botão de download não encontrado na página.
+Traceback (most recent call last):
+  File "C:\Users\mateu\Documents\downlaod_playlist_btan\download_animes.py", line 102, in download_anime
+    download_episode(page, out, session)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mateu\Documents\downlaod_playlist_btan\download_animes.py", line 68, in download_episode
+    raise RuntimeError("Botão de download não encontrado na página.")
+RuntimeError: Botão de download não encontrado na página.
+2025-06-26 15:16:49,767 INFO:   → Acessando https://betteranime.net/anime/legendado/kusuriya-no-hitorigoto-2nd-season/episodio-04
+2025-06-26 15:16:49,925 ERROR:     ✗ Erro ep. 04: Botão de download não encontrado na página.
+Traceback (most recent call last):
+  File "C:\Users\mateu\Documents\downlaod_playlist_btan\download_animes.py", line 102, in download_anime
+    download_episode(page, out, session)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mateu\Documents\downlaod_playlist_btan\download_animes.py", line 68, in download_episode
+    raise RuntimeError("Botão de download não encontrado na página.")
+RuntimeError: Botão de download não encontrado na página.
+2025-06-26 15:16:49,926 INFO:   → Acessando https://betteranime.net/anime/legendado/kusuriya-no-hitorigoto-2nd-season/episodio-05
+2025-06-26 15:16:50,086 ERROR:     ✗ Erro ep. 05: Botão de download não encontrado na página.
+Traceback (most recent call last):
+  File "C:\Users\mateu\Documents\downlaod_playlist_btan\download_animes.py", line 102, in download_anime
+    download_episode(page, out, session)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mateu\Documents\downlaod_playlist_btan\download_animes.py", line 68, in download_episode
+    raise RuntimeError("Botão de download não encontrado na página.")
+RuntimeError: Botão de download não encontrado na página.
+2025-06-26 15:16:50,087 INFO:   → Acessando https://betteranime.net/anime/legendado/kusuriya-no-hitorigoto-2nd-season/episodio-06
+2025-06-26 15:16:50,245 ERROR:     ✗ Erro ep. 06: Botão de download não encontrado na página.
+Traceback (most recent call last):
+  File "C:\Users\mateu\Documents\downlaod_playlist_btan\download_animes.py", line 102, in download_anime
+    download_episode(page, out, session)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mateu\Documents\downlaod_playlist_btan\download_animes.py", line 68, in download_episode
+    raise RuntimeError("Botão de download não encontrado na página.")
+RuntimeError: Botão de download não encontrado na página.
+2025-06-26 15:16:50,247 INFO:   → Acessando https://betteranime.net/anime/legendado/kusuriya-no-hitorigoto-2nd-season/episodio-07
+2025-06-26 15:16:50,406 ERROR:     ✗ Erro ep. 07: Botão de download não encontrado na página.
+Traceback (most recent call last):
+  File "C:\Users\mateu\Documents\downlaod_playlist_btan\download_animes.py", line 102, in download_anime
+    download_episode(page, out, session)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mateu\Documents\downlaod_playlist_btan\download_animes.py", line 68, in download_episode
+    raise RuntimeError("Botão de download não encontrado na página.")
+RuntimeError: Botão de download não encontrado na página.
+2025-06-26 15:16:50,407 INFO:   → Acessando https://betteranime.net/anime/legendado/kusuriya-no-hitorigoto-2nd-season/episodio-08
+2025-06-26 15:16:50,565 ERROR:     ✗ Erro ep. 08: Botão de download não encontrado na página.
+Traceback (most recent call last):
+  File "C:\Users\mateu\Documents\downlaod_playlist_btan\download_animes.py", line 102, in download_anime
+    download_episode(page, out, session)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mateu\Documents\downlaod_playlist_btan\download_animes.py", line 68, in download_episode
+    raise RuntimeError("Botão de download não encontrado na página.")
+RuntimeError: Botão de download não encontrado na página.
+2025-06-26 15:16:50,566 INFO:   → Acessando https://betteranime.net/anime/legendado/kusuriya-no-hitorigoto-2nd-season/episodio-09
+2025-06-26 15:16:50,722 ERROR:     ✗ Erro ep. 09: Botão de download não encontrado na página.
+Traceback (most recent call last):
+  File "C:\Users\mateu\Documents\downlaod_playlist_btan\download_animes.py", line 102, in download_anime
+    download_episode(page, out, session)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mateu\Documents\downlaod_playlist_btan\download_animes.py", line 68, in download_episode
+    raise RuntimeError("Botão de download não encontrado na página.")
+RuntimeError: Botão de download não encontrado na página.
+2025-06-26 15:16:50,724 INFO:   → Acessando https://betteranime.net/anime/legendado/kusuriya-no-hitorigoto-2nd-season/episodio-10
+2025-06-26 15:16:50,883 ERROR:     ✗ Erro ep. 10: Botão de download não encontrado na página.
+Traceback (most recent call last):
+  File "C:\Users\mateu\Documents\downlaod_playlist_btan\download_animes.py", line 102, in download_anime
+    download_episode(page, out, session)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mateu\Documents\downlaod_playlist_btan\download_animes.py", line 68, in download_episode
+    raise RuntimeError("Botão de download não encontrado na página.")
+RuntimeError: Botão de download não encontrado na página.
+2025-06-26 15:16:50,884 INFO:   → Acessando https://betteranime.net/anime/legendado/kusuriya-no-hitorigoto-2nd-season/episodio-11
+2025-06-26 15:16:51,045 ERROR:     ✗ Erro ep. 11: Botão de download não encontrado na página.
+Traceback (most recent call last):
+  File "C:\Users\mateu\Documents\downlaod_playlist_btan\download_animes.py", line 102, in download_anime
+    download_episode(page, out, session)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mateu\Documents\downlaod_playlist_btan\download_animes.py", line 68, in download_episode
+    raise RuntimeError("Botão de download não encontrado na página.")
+RuntimeError: Botão de download não encontrado na página.
+2025-06-26 15:16:51,046 INFO:   → Acessando https://betteranime.net/anime/legendado/kusuriya-no-hitorigoto-2nd-season/episodio-12
+2025-06-26 15:16:51,195 ERROR:     ✗ Erro ep. 12: Botão de download não encontrado na página.
+Traceback (most recent call last):
+  File "C:\Users\mateu\Documents\downlaod_playlist_btan\download_animes.py", line 102, in download_anime
+    download_episode(page, out, session)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mateu\Documents\downlaod_playlist_btan\download_animes.py", line 68, in download_episode
+    raise RuntimeError("Botão de download não encontrado na página.")
+RuntimeError: Botão de download não encontrado na página.

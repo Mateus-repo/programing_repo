@@ -1,0 +1,1 @@
+python3 legendas.py -j url.json -o ./legendas -c cookies.txt
