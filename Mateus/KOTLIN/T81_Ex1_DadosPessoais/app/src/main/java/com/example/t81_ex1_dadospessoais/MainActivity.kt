@@ -32,7 +32,6 @@ class MainActivity : AppCompatActivity() {
         val morada = binding.editTextMorada.text.toString()
         val telefone = binding.editTextTelefone.text.toString()
         val email = binding.editTextEmail.text.toString()
-        val nome2 = "Hello";
         val genero = when (binding.radioGroupGenero.checkedRadioButtonId) {
             R.id.radioMasculino -> "Masculino"
             R.id.radioFeminino -> "Feminino"
@@ -44,7 +43,7 @@ class MainActivity : AppCompatActivity() {
             return
         }
         val i = Intent(this, Activity_ShowData::class.java).apply {
-            putExtra("NOME", nome2)
+            putExtra("NOME", nome)
             putExtra("MORADA", morada)
             putExtra("TELEFONE", telefone)
             putExtra("EMAIL", email)

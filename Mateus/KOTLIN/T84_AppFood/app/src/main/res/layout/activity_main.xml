@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:gravity="center_vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Menu do Restaurante"
+        android:textSize="26sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginBottom="32dp"/>
+
+    <CheckBox
+        android:id="@+id/checkBoxCafe"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Café"
+        android:textSize="18sp"
+        android:layout_marginBottom="12dp"/>
+
+    <CheckBox
+        android:id="@+id/checkBoxSumo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sumo"
+        android:textSize="18sp"
+        android:layout_marginBottom="12dp"/>
+
+    <CheckBox
+        android:id="@+id/checkBoxPicanha"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Picanha"
+        android:textSize="18sp"
+        android:layout_marginBottom="12dp"/>
+
+    <CheckBox
+        android:id="@+id/checkBoxGelado"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gelado"
+        android:textSize="18sp"
+        android:layout_marginBottom="12dp"/>
+
+    <CheckBox
+        android:id="@+id/checkBoxSopa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sopa"
+        android:textSize="18sp"
+        android:layout_marginBottom="32dp"/>
+
+    <Button
+        android:id="@+id/buttonEfetuarPedido"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Efetuar Pedido"/>
+</LinearLayout>

@@ -1,0 +1,26 @@
+Início da compilação de todos os módulos...
+ 
+==== DPMM 6 — versão v211-1 ==== 
+Gerando product.res (pe-x86-64)... 
+'windres' is not recognized as an internal or external command,
+operable program or batch file.
+ERRO ao gerar product.res — ver "logs\logBuild.txt" 
+ 
+==== DPMM 8 — versão v211-1 ==== 
+Gerando product.res (pe-x86-64)... 
+'windres' is not recognized as an internal or external command,
+operable program or batch file.
+ERRO ao gerar product.res — ver "logs\logBuild.txt" 
+ 
+==== DPMM 12 — versão v211-1 ==== 
+Gerando product.res (pe-x86-64)... 
+'windres' is not recognized as an internal or external command,
+operable program or batch file.
+ERRO ao gerar product.res — ver "logs\logBuild.txt" 
+ 
+==== DPMM 24 — versão v211-1 ==== 
+Gerando product.res (pe-x86-64)... 
+'windres' is not recognized as an internal or external command,
+operable program or batch file.
+ERRO ao gerar product.res — ver "logs\logBuild.txt" 
+

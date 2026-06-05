@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/main"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Menu do Restaurante"
+            android:textSize="26sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_marginBottom="24dp"/>
+
+        <!-- CAFÉ -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_marginBottom="16dp">
+
+            <ImageView
+                android:layout_width="64dp"
+                android:layout_height="64dp"
+                android:src="@drawable/ic_cafe"
+                android:contentDescription="Café"
+                android:layout_marginEnd="12dp"/>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Café"
+                    android:textSize="16sp"
+                    android:textStyle="bold"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="0,80 €"
+                    android:textSize="14sp"/>
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/editQtdCafe"
+                android:layout_width="60dp"
+                android:layout_height="wrap_content"
+                android:hint="0"
+                android:inputType="number"
+                android:gravity="center"/>
+        </LinearLayout>
+
+        <!-- SUMO -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_marginBottom="16dp">
+
+            <ImageView
+                android:layout_width="64dp"
+                android:layout_height="64dp"
+                android:src="@drawable/ic_sumo"
+                android:contentDescription="Sumo"
+                android:layout_marginEnd="12dp"/>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Sumo"
+                    android:textSize="16sp"
+                    android:textStyle="bold"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="1,50 €"
+                    android:textSize="14sp"/>
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/editQtdSumo"
+                android:layout_width="60dp"
+                android:layout_height="wrap_content"
+                android:hint="0"
+                android:inputType="number"
+                android:gravity="center"/>
+        </LinearLayout>
+
+        <!-- PICANHA -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_marginBottom="16dp">
+
+            <ImageView
+                android:layout_width="64dp"
+                android:layout_height="64dp"
+                android:src="@drawable/ic_picanha"
+                android:contentDescription="Picanha"
+                android:layout_marginEnd="12dp"/>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Picanha"
+                    android:textSize="16sp"
+                    android:textStyle="bold"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="12,50 €"
+                    android:textSize="14sp"/>
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/editQtdPicanha"
+                android:layout_width="60dp"
+                android:layout_height="wrap_content"
+                android:hint="0"
+                android:inputType="number"
+                android:gravity="center"/>
+        </LinearLayout>
+
+        <!-- GELADO -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_marginBottom="16dp">
+
+            <ImageView
+                android:layout_width="64dp"
+                android:layout_height="64dp"
+                android:src="@drawable/ic_gelado"
+                android:contentDescription="Gelado"
+                android:layout_marginEnd="12dp"/>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Gelado"
+                    android:textSize="16sp"
+                    android:textStyle="bold"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="1,20 €"
+                    android:textSize="14sp"/>
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/editQtdGelado"
+                android:layout_width="60dp"
+                android:layout_height="wrap_content"
+                android:hint="0"
+                android:inputType="number"
+                android:gravity="center"/>
+        </LinearLayout>
+
+        <!-- SOPA -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_marginBottom="32dp">
+
+            <ImageView
+                android:layout_width="64dp"
+                android:layout_height="64dp"
+                android:src="@drawable/ic_sopa"
+                android:contentDescription="Sopa"
+                android:layout_marginEnd="12dp"/>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Sopa"
+                    android:textSize="16sp"
+                    android:textStyle="bold"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="1,00 €"
+                    android:textSize="14sp"/>
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/editQtdSopa"
+                android:layout_width="60dp"
+                android:layout_height="wrap_content"
+                android:hint="0"
+                android:inputType="number"
+                android:gravity="center"/>
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/buttonEfetuarPedido"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Efetuar Pedido"/>
+
+    </LinearLayout>
+</ScrollView>
